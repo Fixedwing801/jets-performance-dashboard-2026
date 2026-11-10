@@ -1,0 +1,65 @@
+{
+  "generated_utc": "2026-11-10T13:19:27.217651+00:00",
+  "source": "nflverse 2026 play-by-play",
+  "latest_week": 9,
+  "forecast_week": 10,
+  "backtest_observations": 352,
+  "formula": "60% play-weighted mean of latest three team games + 40% play-weighted season-to-date mean; shrink 20% toward play-weighted league mean",
+  "scope": "Team-level EPA/play forecast, not opponent/matchup-adjusted and not a player projection",
+  "caveats": [
+    "Early-season sample sizes are small and forecasts are descriptive baselines, not calibrated probabilities",
+    "Backtest uses expanding time windows and excludes the target week from all inputs",
+    "EPA is volatile; the model should only be retained if it improves on the league-average baseline",
+    "Defensive EPA is opponent EPA allowed per play; lower is better"
+  ],
+  "backtest_scores": [
+    {
+      "side": "defense",
+      "model": "blended_recent_and_season",
+      "observations": 176,
+      "mae": 0.16096706998972374,
+      "rmse": 0.20656129925939884,
+      "mean_error": 0.017378063480991572
+    },
+    {
+      "side": "defense",
+      "model": "team_season_average",
+      "observations": 176,
+      "mae": 0.16645885530747775,
+      "rmse": 0.21032710274650554,
+      "mean_error": 0.018746212856903942
+    },
+    {
+      "side": "defense",
+      "model": "league_average",
+      "observations": 176,
+      "mae": 0.16221204260600522,
+      "rmse": 0.20264384683397904,
+      "mean_error": 0.021039701281092116
+    },
+    {
+      "side": "offense",
+      "model": "blended_recent_and_season",
+      "observations": 176,
+      "mae": 0.15921676051131617,
+      "rmse": 0.20156933388212803,
+      "mean_error": 0.01783695327540645
+    },
+    {
+      "side": "offense",
+      "model": "team_season_average",
+      "observations": 176,
+      "mae": 0.1613938041886758,
+      "rmse": 0.20561056294814042,
+      "mean_error": 0.018981371601621486
+    },
+    {
+      "side": "offense",
+      "model": "league_average",
+      "observations": 176,
+      "mae": 0.16221204260600522,
+      "rmse": 0.20264384683397904,
+      "mean_error": 0.021039701281092116
+    }
+  ]
+}
