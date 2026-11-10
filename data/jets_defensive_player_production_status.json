@@ -1,0 +1,25 @@
+{
+  "generated_utc": "2026-11-10T14:27:54.557182+00:00",
+  "snap_player_week_rows": 159,
+  "matched_player_week_rows": 140,
+  "unmatched_player_week_rows": 19,
+  "match_rate": 0.8805031446540881,
+  "weeks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "limitations": [
+    "Weekly defensive statistics are official box-score production, not charted player-level pressure or coverage impact.",
+    "QB hits and sacks are recorded outcomes; they do not capture every pressure or pass-rush win.",
+    "Rates per 100 defensive snaps are descriptive workload normalizations, not causal or position-adjusted player grades.",
+    "Tackles and passes defended depend on role, opponent play volume and opportunity; comparisons across positions are not direct quality rankings.",
+    "Name-based matching is used to join snap and production feeds; unmatched records are excluded from production attribution and counted in status."
+  ]
+}
