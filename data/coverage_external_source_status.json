@@ -1,7 +1,7 @@
 {
   "source": "Sharp Football Analysis public coverage-schemes table",
   "url": "https://www.sharpfootballanalysis.com/stats-nfl/nfl-coverage-schemes/",
-  "retrieved_utc": "2026-11-10T14:46:41.471598+00:00",
+  "retrieved_utc": "2026-11-10T14:53:16.057442+00:00",
   "status": "available",
   "fields": [
     "team",
@@ -21,7 +21,7 @@
     "middle closed rate": "45.8",
     "middle open rate": "48.7",
     "source_url": "https://www.sharpfootballanalysis.com/stats-nfl/nfl-coverage-schemes/",
-    "retrieved_utc": "2026-11-10T14:46:41.471598+00:00",
+    "retrieved_utc": "2026-11-10T14:53:16.057442+00:00",
     "source_updated_date": "See source page; captured from publicly displayed table",
     "data_granularity": "published team aggregate; not play-level labels"
   }

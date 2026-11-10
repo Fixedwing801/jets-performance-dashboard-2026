@@ -1,13 +1,13 @@
 {
-  "generated_utc": "2026-11-10T14:46:29.261987+00:00",
+  "generated_utc": "2026-11-10T14:53:03.827049+00:00",
   "pipeline": "Jets Performance Lab",
   "sources": {
     "snap_counts_2026.parquet": {
       "url": "https://github.com/nflverse/nflverse-data/releases/download/snap_counts/snap_counts_2026.parquet",
       "purpose": "PFR player participation and snap share",
       "status": "available",
-      "checked_utc": "2026-11-10T14:46:29.262092+00:00",
-      "last_successful_utc": "2026-11-10T14:46:29.262092+00:00",
+      "checked_utc": "2026-11-10T14:53:03.827180+00:00",
+      "last_successful_utc": "2026-11-10T14:53:03.827180+00:00",
       "bytes": 134114,
       "columns": 16,
       "column_names": [
@@ -36,8 +36,8 @@
       "url": "https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly_2026.parquet",
       "purpose": "Weekly player roster and position context",
       "status": "available",
-      "checked_utc": "2026-11-10T14:46:29.882570+00:00",
-      "last_successful_utc": "2026-11-10T14:46:29.882570+00:00",
+      "checked_utc": "2026-11-10T14:53:04.579216+00:00",
+      "last_successful_utc": "2026-11-10T14:53:04.579216+00:00",
       "bytes": 828047,
       "columns": 36,
       "column_names": [
@@ -86,8 +86,8 @@
       "url": "https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_2026.parquet",
       "purpose": "Weekly player production and opportunity",
       "status": "available",
-      "checked_utc": "2026-11-10T14:46:29.944474+00:00",
-      "last_successful_utc": "2026-11-10T14:46:29.944474+00:00",
+      "checked_utc": "2026-11-10T14:53:04.761746+00:00",
+      "last_successful_utc": "2026-11-10T14:53:04.761746+00:00",
       "bytes": 497655,
       "columns": 150,
       "column_names": [
@@ -250,8 +250,8 @@
       "url": "https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries_2026.parquet",
       "purpose": "Weekly injury and practice availability",
       "status": "available",
-      "checked_utc": "2026-11-10T14:46:29.978318+00:00",
-      "last_successful_utc": "2026-11-10T14:46:29.978318+00:00",
+      "checked_utc": "2026-11-10T14:53:04.931594+00:00",
+      "last_successful_utc": "2026-11-10T14:53:04.931594+00:00",
       "bytes": 61371,
       "columns": 16,
       "column_names": [
@@ -280,8 +280,8 @@
       "url": "https://github.com/nflverse/nflverse-data/releases/download/nextgen_stats/ngs_passing.parquet",
       "purpose": "NFL Next Gen Stats passing efficiency and quarterback tracking",
       "status": "available",
-      "checked_utc": "2026-11-10T14:46:29.995061+00:00",
-      "last_successful_utc": "2026-11-10T14:46:29.995061+00:00",
+      "checked_utc": "2026-11-10T14:53:05.100703+00:00",
+      "last_successful_utc": "2026-11-10T14:53:05.100703+00:00",
       "bytes": 760834,
       "columns": 29,
       "column_names": [
@@ -323,8 +323,8 @@
       "url": "https://github.com/nflverse/nflverse-data/releases/download/nextgen_stats/ngs_receiving.parquet",
       "purpose": "NFL Next Gen Stats receiver separation, cushion and YAC",
       "status": "available",
-      "checked_utc": "2026-11-10T14:46:30.129871+00:00",
-      "last_successful_utc": "2026-11-10T14:46:30.129871+00:00",
+      "checked_utc": "2026-11-10T14:53:05.325049+00:00",
+      "last_successful_utc": "2026-11-10T14:53:05.325049+00:00",
       "bytes": 1174200,
       "columns": 23,
       "column_names": [
@@ -360,8 +360,8 @@
       "url": "https://github.com/nflverse/nflverse-data/releases/download/nextgen_stats/ngs_rushing.parquet",
       "purpose": "NFL Next Gen Stats rushing efficiency and yards over expected",
       "status": "available",
-      "checked_utc": "2026-11-10T14:46:30.258436+00:00",
-      "last_successful_utc": "2026-11-10T14:46:30.258436+00:00",
+      "checked_utc": "2026-11-10T14:53:05.474243+00:00",
+      "last_successful_utc": "2026-11-10T14:53:05.474243+00:00",
       "bytes": 403108,
       "columns": 22,
       "column_names": [
@@ -396,8 +396,8 @@
       "url": "https://github.com/nflverse/nflverse-data/releases/download/ftn_charting/ftn_charting_2026.parquet",
       "purpose": "FTN charted personnel, formations, coverage and pressure concepts",
       "status": "available",
-      "checked_utc": "2026-11-10T14:46:30.335234+00:00",
-      "last_successful_utc": "2026-11-10T14:46:30.335234+00:00",
+      "checked_utc": "2026-11-10T14:53:05.636079+00:00",
+      "last_successful_utc": "2026-11-10T14:53:05.636079+00:00",
       "bytes": 285438,
       "columns": 29,
       "column_names": [
