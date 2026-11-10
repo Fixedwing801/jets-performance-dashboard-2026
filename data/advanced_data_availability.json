@@ -1,0 +1,26 @@
+{
+  "generated_utc": "2026-11-10T13:14:35.518697+00:00",
+  "source": "nflverse 2026 play-by-play",
+  "weather_fields": {
+    "game_date": true,
+    "stadium": true,
+    "game_stadium": true,
+    "roof": true,
+    "temp": true,
+    "wind": true
+  },
+  "unavailable_fields": {
+    "offense_personnel": "Not present in the current 2026 PBP file",
+    "defense_personnel": "Not present in the current 2026 PBP file",
+    "offense_player_participation": "No complete on-field player list per play in the current PBP file",
+    "defense_player_participation": "No complete on-field player list per play in the current PBP file",
+    "coverage_assignment": "No play-level defender-to-receiver responsibility field",
+    "coverage_shell_2026": "No play-level coverage label in the current free 2026 feed"
+  },
+  "analysis_limits": [
+    "Weather splits are game-level and descriptive, not causal",
+    "No player-combination impact is calculated without complete per-play participation",
+    "No personnel-package split is calculated without explicit package fields",
+    "No coverage responsibility is inferred from tackles, interceptions or proximity"
+  ]
+}
