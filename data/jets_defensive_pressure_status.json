@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-10T13:24:23.241315+00:00",
+  "generated_utc": "2026-11-10T13:26:15.193760+00:00",
   "source_rows_joined": 292,
   "weeks": [
     1,
@@ -21,7 +21,7 @@
   ],
   "limitations": [
     "Pressure deployment splits are descriptive associations, not causal estimates",
-    "n_blitzers and n_pass_rushers are reported as distinct source fields and are not interchangeable",
+    "n_blitzers counts blitzers; n_pass_rushers counts all pass rushers. A five-rusher play commonly includes four defensive linemen plus one blitzer.",
     "Small categories should not be interpreted without considering their play counts",
     "Snap counts measure player deployment and are not per-play player attribution or coverage responsibility",
     "A QB hit or sack event is not a complete pressure chart or pass-rush win measure"
