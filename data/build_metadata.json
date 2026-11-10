@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-10T12:16:30.509233+00:00",
+  "generated_utc": "2026-11-10T12:23:41.677825+00:00",
   "source_rows": 23822,
   "jets_game_side_rows": 18,
   "weeks": [
@@ -12,5 +12,31 @@
     7,
     8,
     9
-  ]
+  ],
+  "quality": {
+    "source_rows": 23822,
+    "eligible_scrimmage_plays": 16737,
+    "jets_game_side_rows": 18,
+    "weeks_present": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "missing_epa_rows": 272,
+    "duplicate_game_play_keys": 0,
+    "source_status": {
+      "snap_counts.csv": "unavailable",
+      "roster_weekly.csv": "unavailable",
+      "player_stats.csv": "available",
+      "injuries.csv": "unavailable",
+      "ftn_charting_2026.csv": "unavailable"
+    }
+  },
+  "source_status_generated_utc": "2026-11-10T12:23:37.776436+00:00"
 }
