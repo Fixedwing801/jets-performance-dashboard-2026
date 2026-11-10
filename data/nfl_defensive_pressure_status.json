@@ -1,0 +1,13 @@
+{
+  "generated_utc": "2026-11-10T13:28:35.034344+00:00",
+  "joined_pass_plays": 9543,
+  "teams": 32,
+  "jets_rows": 1,
+  "limitations": [
+    "2026 charted passing plays only",
+    "Team rates are descriptive and opponent/matchup mix is not adjusted",
+    "Sack and QB-hit rates are event outcomes, not a complete pressure or pass-rush win chart",
+    "Blitzer count and total pass-rusher count are distinct variables",
+    "Only teams with matching FTN charting and PBP rows are included"
+  ]
+}
