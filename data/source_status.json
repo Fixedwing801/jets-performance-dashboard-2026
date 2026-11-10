@@ -1,52 +1,49 @@
 {
-  "generated_utc": "2026-11-10T12:24:12.851768+00:00",
+  "generated_utc": "2026-11-10T12:25:11.828072+00:00",
   "pipeline": "Jets Performance Lab",
   "sources": {
-    "snap_counts.csv": {
-      "url": "https://github.com/nflverse/nflverse-data/releases/download/snap_counts/snap_counts.csv",
-      "purpose": "Player participation and snap share",
+    "snap_counts_2026.parquet": {
+      "url": "https://github.com/nflverse/nflverse-data/releases/download/snap_counts/snap_counts_2026.parquet",
+      "purpose": "PFR player participation and snap share",
       "status": "unavailable",
-      "checked_utc": "2026-11-10T12:24:12.851844+00:00",
-      "error": "404 Client Error: Not Found for url: https://github.com/nflverse/nflverse-data/releases/download/snap_counts/snap_counts.csv",
+      "checked_utc": "2026-11-10T12:25:11.828156+00:00",
+      "error": "Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.\nA suitable version of pyarrow or fastparquet is required for parquet support.\nTrying to import the above resulted in these errors:\n - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.\n - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.",
       "last_successful_utc": null,
       "last_known_bytes": null
     },
-    "roster_weekly.csv": {
-      "url": "https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly.csv",
+    "roster_weekly_2026.parquet": {
+      "url": "https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly_2026.parquet",
       "purpose": "Weekly player roster and position context",
       "status": "unavailable",
-      "checked_utc": "2026-11-10T12:24:12.995059+00:00",
-      "error": "404 Client Error: Not Found for url: https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly.csv",
+      "checked_utc": "2026-11-10T12:25:12.711534+00:00",
+      "error": "Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.\nA suitable version of pyarrow or fastparquet is required for parquet support.\nTrying to import the above resulted in these errors:\n - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.\n - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.",
       "last_successful_utc": null,
       "last_known_bytes": null
     },
-    "player_stats.csv": {
-      "url": "https://github.com/nflverse/nflverse-data/releases/download/player_stats/player_stats.csv",
-      "purpose": "Supplementary player production",
-      "status": "available",
-      "checked_utc": "2026-11-10T12:24:13.124914+00:00",
-      "last_successful_utc": "2026-11-10T12:24:13.124914+00:00",
-      "bytes": 33447747,
-      "columns": 53,
-      "row_count_estimate": 134470,
-      "last_modified": "Wed, 07 May 2025 08:13:09 GMT",
-      "etag": "\"0x8DD8D3F00CA2441\""
-    },
-    "injuries.csv": {
-      "url": "https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries.csv",
-      "purpose": "Injury and practice availability",
+    "stats_player_week_2026.parquet": {
+      "url": "https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_2026.parquet",
+      "purpose": "Weekly player production and opportunity",
       "status": "unavailable",
-      "checked_utc": "2026-11-10T12:24:13.488496+00:00",
-      "error": "404 Client Error: Not Found for url: https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries.csv",
+      "checked_utc": "2026-11-10T12:25:12.792130+00:00",
+      "error": "Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.\nA suitable version of pyarrow or fastparquet is required for parquet support.\nTrying to import the above resulted in these errors:\n - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.\n - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.",
       "last_successful_utc": null,
       "last_known_bytes": null
     },
-    "ftn_charting_2026.csv": {
-      "url": "https://github.com/nflverse/nflverse-data/releases/download/ftn_charting/ftn_charting_2026.csv",
-      "purpose": "Charted formations, personnel and coverage where licensed and supplied",
+    "injuries_2026.parquet": {
+      "url": "https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries_2026.parquet",
+      "purpose": "Weekly injury and practice availability",
       "status": "unavailable",
-      "checked_utc": "2026-11-10T12:24:13.624252+00:00",
-      "error": "unexpected schema; required one of each column group: [['game_id'], ['play_id']]",
+      "checked_utc": "2026-11-10T12:25:12.856428+00:00",
+      "error": "Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.\nA suitable version of pyarrow or fastparquet is required for parquet support.\nTrying to import the above resulted in these errors:\n - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.\n - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.",
+      "last_successful_utc": null,
+      "last_known_bytes": null
+    },
+    "ftn_charting_2026.parquet": {
+      "url": "https://github.com/nflverse/nflverse-data/releases/download/ftn_charting/ftn_charting_2026.parquet",
+      "purpose": "FTN charted personnel, formations, coverage and pressure concepts",
+      "status": "unavailable",
+      "checked_utc": "2026-11-10T12:25:12.918500+00:00",
+      "error": "Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.\nA suitable version of pyarrow or fastparquet is required for parquet support.\nTrying to import the above resulted in these errors:\n - Missing optional dependency 'pyarrow'. pyarrow is required for parquet support. Use pip or conda to install pyarrow.\n - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.",
       "last_successful_utc": null,
       "last_known_bytes": null
     }
