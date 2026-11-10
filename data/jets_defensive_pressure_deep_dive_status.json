@@ -1,0 +1,26 @@
+{
+  "generated_utc": "2026-11-10T13:33:56.212561+00:00",
+  "joined_pass_plays": 9543,
+  "teams": 32,
+  "jets_charted_pass_plays": 292,
+  "weeks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "opponent_adjustment": "For each Jets opponent, compare their EPA on passes against NYJ with their EPA on passes against all other defences in the same season.",
+  "limitations": [
+    "Only 2026 FTN-charted passing plays matched to nflverse PBP are used for deployment splits.",
+    "Opponent adjustment is descriptive and does not control for quarterback, injuries, game state, protection or play-calling.",
+    "Pressure counts describe rush deployment, not time-to-pressure or individual pass-rush wins.",
+    "Explosive pass is defined as 20+ yards; YAC explosive proxy is 10+ yards after catch.",
+    "No reliable public 2026 play-level coverage-shell or defender-to-receiver assignment field was found in the available sources; coverage effectiveness cannot be attributed to individual defenders or shells.",
+    "Small deployment and situational groups should be interpreted cautiously."
+  ]
+}
