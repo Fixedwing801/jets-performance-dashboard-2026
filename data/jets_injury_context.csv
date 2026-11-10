@@ -1,81 +1,81 @@
-week,game_type,team,position,gsis_id,full_name,report_status,practice_status
-1,REG,NYJ,WR,00-0033375,Tim Patrick,Out,Did Not Participate In Practice
-1,REG,NYJ,RB,00-0036842,Kene Nwangwu,Doubtful,Did Not Participate In Practice
-1,REG,NYJ,DE,00-0036902,Joseph Ossai,Out,Did Not Participate In Practice
-1,REG,NYJ,RB,00-0038120,Breece Hall,,Full Participation in Practice
-1,REG,NYJ,RB,00-0039798,Isaiah Davis,,Full Participation in Practice
-1,REG,NYJ,TE,00-0041032,Kenyon Sadiq,,Full Participation in Practice
-1,REG,NYJ,CB,00-0041038,D'Angelo Ponds,Doubtful,Limited Participation in Practice
-2,REG,NYJ,DT,00-0033051,David Onyemata,,Full Participation in Practice
-2,REG,NYJ,S,00-0034789,Minkah Fitzpatrick,Out,Did Not Participate In Practice
-2,REG,NYJ,LB,00-0036500,Jamien Sherwood,,Full Participation in Practice
-2,REG,NYJ,RB,00-0036842,Kene Nwangwu,Out,Did Not Participate In Practice
-2,REG,NYJ,DE,00-0036902,Joseph Ossai,Out,Did Not Participate In Practice
-2,REG,NYJ,DE,00-0039142,Will McDonald IV,Questionable,Limited Participation in Practice
-2,REG,NYJ,CB,00-0039372,Jarvis Brownlee Jr.,,Full Participation in Practice
-2,REG,NYJ,CB,00-0041038,D'Angelo Ponds,,Full Participation in Practice
-2,REG,NYJ,WR,00-0041511,Omar Cooper Jr.,Out,Did Not Participate In Practice
-3,REG,NYJ,S,00-0034789,Minkah Fitzpatrick,Out,Did Not Participate In Practice
-3,REG,NYJ,RB,00-0036842,Kene Nwangwu,Doubtful,Did Not Participate In Practice
-3,REG,NYJ,DE,00-0036902,Joseph Ossai,Questionable,Full Participation in Practice
-3,REG,NYJ,WR,00-0039890,Adonai Mitchell,Questionable,Limited Participation in Practice
-3,REG,NYJ,LB,00-0040186,Francisco Mauigoa,Out,Did Not Participate In Practice
-3,REG,NYJ,TE,00-0040736,Mason Taylor,Out,Did Not Participate In Practice
-3,REG,NYJ,DE,00-0041026,David Bailey,,Full Participation in Practice
-4,REG,NYJ,S,00-0034789,Minkah Fitzpatrick,,Full Participation in Practice
-4,REG,NYJ,RB,00-0036842,Kene Nwangwu,,Full Participation in Practice
-4,REG,NYJ,DE,00-0037083,Kingsley Enagbare,Questionable,Limited Participation in Practice
-4,REG,NYJ,G,00-0037255,Dylan Parham,Out,Did Not Participate In Practice
-4,REG,NYJ,TE,00-0037805,Jeremy Ruckert,,Full Participation in Practice
-4,REG,NYJ,RB,00-0038120,Breece Hall,Out,Did Not Participate In Practice
-4,REG,NYJ,WR,00-0039890,Adonai Mitchell,Out,Did Not Participate In Practice
-4,REG,NYJ,LB,00-0040186,Francisco Mauigoa,Out,Did Not Participate In Practice
-4,REG,NYJ,TE,00-0040736,Mason Taylor,Out,Did Not Participate In Practice
-4,REG,NYJ,TE,00-0041032,Kenyon Sadiq,Questionable,Limited Participation in Practice
-5,REG,NYJ,WR,00-0033375,Tim Patrick,Questionable,Full Participation in Practice
-5,REG,NYJ,DE,00-0037083,Kingsley Enagbare,Questionable,Full Participation in Practice
-5,REG,NYJ,G,00-0037255,Dylan Parham,Out,Did Not Participate In Practice
-5,REG,NYJ,RB,00-0038120,Breece Hall,Out,Did Not Participate In Practice
-5,REG,NYJ,DE,00-0039142,Will McDonald IV,Questionable,Limited Participation in Practice
-5,REG,NYJ,CB,00-0039372,Jarvis Brownlee Jr.,,Full Participation in Practice
-5,REG,NYJ,WR,00-0039890,Adonai Mitchell,Out,Did Not Participate In Practice
-5,REG,NYJ,LB,00-0040186,Francisco Mauigoa,Out,Did Not Participate In Practice
-5,REG,NYJ,TE,00-0040736,Mason Taylor,,Full Participation in Practice
-6,REG,NYJ,DE,00-0036902,Joseph Ossai,Out,Did Not Participate In Practice
-6,REG,NYJ,G,00-0037255,Dylan Parham,Out,Did Not Participate In Practice
-6,REG,NYJ,RB,00-0038120,Breece Hall,Out,Did Not Participate In Practice
-6,REG,NYJ,S,00-0038123,Dane Belton,Questionable,Full Participation in Practice
-6,REG,NYJ,WR,00-0039890,Adonai Mitchell,Out,Did Not Participate In Practice
-6,REG,NYJ,LB,00-0040186,Francisco Mauigoa,,Full Participation in Practice
-6,REG,NYJ,TE,00-0041032,Kenyon Sadiq,Questionable,Full Participation in Practice
-6,REG,NYJ,WR,00-0041511,Omar Cooper Jr.,Questionable,Full Participation in Practice
-7,REG,NYJ,LB,00-0029607,Demario Davis,,Full Participation in Practice
-7,REG,NYJ,DT,00-0034782,Harrison Phillips,,Full Participation in Practice
-7,REG,NYJ,RB,00-0036842,Kene Nwangwu,Questionable,Full Participation in Practice
-7,REG,NYJ,DE,00-0036902,Joseph Ossai,Out,Did Not Participate In Practice
-7,REG,NYJ,G,00-0037255,Dylan Parham,Questionable,Limited Participation in Practice
-7,REG,NYJ,T,00-0038114,Max Mitchell,Out,Did Not Participate In Practice
-7,REG,NYJ,RB,00-0038120,Breece Hall,Questionable,Limited Participation in Practice
-7,REG,NYJ,DE,00-0039142,Will McDonald IV,,Full Participation in Practice
-7,REG,NYJ,DT,00-0039886,T'Vondre Sweat,,Full Participation in Practice
-7,REG,NYJ,WR,00-0039890,Adonai Mitchell,,Full Participation in Practice
-7,REG,NYJ,LB,00-0040186,Francisco Mauigoa,Out,Did Not Participate In Practice
-8,REG,NYJ,LB,00-0029607,Demario Davis,,Full Participation in Practice
-8,REG,NYJ,DT,00-0034782,Harrison Phillips,,Full Participation in Practice
-8,REG,NYJ,DE,00-0036902,Joseph Ossai,Out,Did Not Participate In Practice
-8,REG,NYJ,G,00-0037255,Dylan Parham,Questionable,Full Participation in Practice
-8,REG,NYJ,T,00-0038114,Max Mitchell,Out,Did Not Participate In Practice
-8,REG,NYJ,RB,00-0038120,Breece Hall,Questionable,Limited Participation in Practice
-8,REG,NYJ,RB,00-0039794,Braelon Allen,,Full Participation in Practice
-8,REG,NYJ,DT,00-0039886,T'Vondre Sweat,Out,Did Not Participate In Practice
-8,REG,NYJ,DE,00-0041026,David Bailey,Doubtful,Did Not Participate In Practice
-9,REG,NYJ,LB,00-0029607,Demario Davis,,Full Participation in Practice
-9,REG,NYJ,DT,00-0034782,Harrison Phillips,Questionable,Full Participation in Practice
-9,REG,NYJ,DE,00-0036902,Joseph Ossai,Out,Limited Participation in Practice
-9,REG,NYJ,CB,00-0036986,Nahshon Wright,Out,Did Not Participate In Practice
-9,REG,NYJ,WR,00-0037740,Garrett Wilson,Out,Did Not Participate In Practice
-9,REG,NYJ,RB,00-0038120,Breece Hall,,Full Participation in Practice
-9,REG,NYJ,LB,00-0039347,Trevin Wallace,Out,Did Not Participate In Practice
-9,REG,NYJ,TE,00-0040736,Mason Taylor,,Full Participation in Practice
-9,REG,NYJ,DE,00-0041026,David Bailey,,Full Participation in Practice
-9,REG,NYJ,S,00-0041120,VJ Payne,Out,Full Participation in Practice
+week,game_type,team,position,gsis_id,full_name,report_status,report_primary_injury,report_secondary_injury,practice_primary_injury,practice_secondary_injury,practice_status
+1,REG,NYJ,WR,00-0033375,Tim Patrick,Out,Groin,,Groin,,Did Not Participate In Practice
+1,REG,NYJ,RB,00-0036842,Kene Nwangwu,Doubtful,Back,,Back,,Did Not Participate In Practice
+1,REG,NYJ,DE,00-0036902,Joseph Ossai,Out,Foot,,Foot,,Did Not Participate In Practice
+1,REG,NYJ,RB,00-0038120,Breece Hall,,,,Groin,,Full Participation in Practice
+1,REG,NYJ,RB,00-0039798,Isaiah Davis,,,,Knee,,Full Participation in Practice
+1,REG,NYJ,TE,00-0041032,Kenyon Sadiq,,,,Groin,,Full Participation in Practice
+1,REG,NYJ,CB,00-0041038,D'Angelo Ponds,Doubtful,Calf,,Calf,,Limited Participation in Practice
+2,REG,NYJ,DT,00-0033051,David Onyemata,,,,Not injury related - resting player,,Full Participation in Practice
+2,REG,NYJ,S,00-0034789,Minkah Fitzpatrick,Out,Groin,,Groin,,Did Not Participate In Practice
+2,REG,NYJ,LB,00-0036500,Jamien Sherwood,,,,Knee,,Full Participation in Practice
+2,REG,NYJ,RB,00-0036842,Kene Nwangwu,Out,Back,,Back,,Did Not Participate In Practice
+2,REG,NYJ,DE,00-0036902,Joseph Ossai,Out,Foot,,Foot,,Did Not Participate In Practice
+2,REG,NYJ,DE,00-0039142,Will McDonald IV,Questionable,Ankle,,Ankle,,Limited Participation in Practice
+2,REG,NYJ,CB,00-0039372,Jarvis Brownlee Jr.,,,,Shoulder,,Full Participation in Practice
+2,REG,NYJ,CB,00-0041038,D'Angelo Ponds,,,,Calf,,Full Participation in Practice
+2,REG,NYJ,WR,00-0041511,Omar Cooper Jr.,Out,Ankle,,Ankle,,Did Not Participate In Practice
+3,REG,NYJ,S,00-0034789,Minkah Fitzpatrick,Out,Groin,,Groin,,Did Not Participate In Practice
+3,REG,NYJ,RB,00-0036842,Kene Nwangwu,Doubtful,Back,,Back,,Did Not Participate In Practice
+3,REG,NYJ,DE,00-0036902,Joseph Ossai,Questionable,Foot,,Foot,,Full Participation in Practice
+3,REG,NYJ,WR,00-0039890,Adonai Mitchell,Questionable,Finger,,Finger,,Limited Participation in Practice
+3,REG,NYJ,LB,00-0040186,Francisco Mauigoa,Out,Quadricep,,Quadricep,,Did Not Participate In Practice
+3,REG,NYJ,TE,00-0040736,Mason Taylor,Out,Thumb,,Thumb,,Did Not Participate In Practice
+3,REG,NYJ,DE,00-0041026,David Bailey,,,,Elbow,,Full Participation in Practice
+4,REG,NYJ,S,00-0034789,Minkah Fitzpatrick,,,,Groin,,Full Participation in Practice
+4,REG,NYJ,RB,00-0036842,Kene Nwangwu,,,,Back,,Full Participation in Practice
+4,REG,NYJ,DE,00-0037083,Kingsley Enagbare,Questionable,Knee,,Knee,,Limited Participation in Practice
+4,REG,NYJ,G,00-0037255,Dylan Parham,Out,Knee,,Knee,,Did Not Participate In Practice
+4,REG,NYJ,TE,00-0037805,Jeremy Ruckert,,,,Knee,,Full Participation in Practice
+4,REG,NYJ,RB,00-0038120,Breece Hall,Out,Quadricep,,Quadricep,,Did Not Participate In Practice
+4,REG,NYJ,WR,00-0039890,Adonai Mitchell,Out,Finger,,Finger,,Did Not Participate In Practice
+4,REG,NYJ,LB,00-0040186,Francisco Mauigoa,Out,Quadricep,,Quadricep,,Did Not Participate In Practice
+4,REG,NYJ,TE,00-0040736,Mason Taylor,Out,Thumb,,Thumb,,Did Not Participate In Practice
+4,REG,NYJ,TE,00-0041032,Kenyon Sadiq,Questionable,Back,,Back,,Limited Participation in Practice
+5,REG,NYJ,WR,00-0033375,Tim Patrick,Questionable,Groin,,Groin,,Full Participation in Practice
+5,REG,NYJ,DE,00-0037083,Kingsley Enagbare,Questionable,Knee,,Knee,,Full Participation in Practice
+5,REG,NYJ,G,00-0037255,Dylan Parham,Out,Knee,,Knee,,Did Not Participate In Practice
+5,REG,NYJ,RB,00-0038120,Breece Hall,Out,Quadricep,,Quadricep,,Did Not Participate In Practice
+5,REG,NYJ,DE,00-0039142,Will McDonald IV,Questionable,Calf,,Calf,,Limited Participation in Practice
+5,REG,NYJ,CB,00-0039372,Jarvis Brownlee Jr.,,,,Concussion,,Full Participation in Practice
+5,REG,NYJ,WR,00-0039890,Adonai Mitchell,Out,Finger,,Finger,,Did Not Participate In Practice
+5,REG,NYJ,LB,00-0040186,Francisco Mauigoa,Out,Quadricep,,Quadricep,,Did Not Participate In Practice
+5,REG,NYJ,TE,00-0040736,Mason Taylor,,,,Thumb,,Full Participation in Practice
+6,REG,NYJ,DE,00-0036902,Joseph Ossai,Out,Ankle,,Ankle,,Did Not Participate In Practice
+6,REG,NYJ,G,00-0037255,Dylan Parham,Out,Knee,,Knee,,Did Not Participate In Practice
+6,REG,NYJ,RB,00-0038120,Breece Hall,Out,Quadricep,,Quadricep,,Did Not Participate In Practice
+6,REG,NYJ,S,00-0038123,Dane Belton,Questionable,Knee,,Knee,,Full Participation in Practice
+6,REG,NYJ,WR,00-0039890,Adonai Mitchell,Out,Finger,,Finger,,Did Not Participate In Practice
+6,REG,NYJ,LB,00-0040186,Francisco Mauigoa,,,,Quadricep,,Full Participation in Practice
+6,REG,NYJ,TE,00-0041032,Kenyon Sadiq,Questionable,Concussion,,Concussion,,Full Participation in Practice
+6,REG,NYJ,WR,00-0041511,Omar Cooper Jr.,Questionable,Ankle,,Ankle,,Full Participation in Practice
+7,REG,NYJ,LB,00-0029607,Demario Davis,,,,Not injury related - resting player,,Full Participation in Practice
+7,REG,NYJ,DT,00-0034782,Harrison Phillips,,,,Not injury related - resting player,,Full Participation in Practice
+7,REG,NYJ,RB,00-0036842,Kene Nwangwu,Questionable,Knee,,Knee,,Full Participation in Practice
+7,REG,NYJ,DE,00-0036902,Joseph Ossai,Out,Ankle,,Ankle,,Did Not Participate In Practice
+7,REG,NYJ,G,00-0037255,Dylan Parham,Questionable,Knee,,Knee,,Limited Participation in Practice
+7,REG,NYJ,T,00-0038114,Max Mitchell,Out,Concussion,,Concussion,,Did Not Participate In Practice
+7,REG,NYJ,RB,00-0038120,Breece Hall,Questionable,Quadricep,,Quadricep,,Limited Participation in Practice
+7,REG,NYJ,DE,00-0039142,Will McDonald IV,,,,Toe,,Full Participation in Practice
+7,REG,NYJ,DT,00-0039886,T'Vondre Sweat,,,,Elbow,,Full Participation in Practice
+7,REG,NYJ,WR,00-0039890,Adonai Mitchell,,,,Finger,,Full Participation in Practice
+7,REG,NYJ,LB,00-0040186,Francisco Mauigoa,Out,Quadricep,,Quadricep,,Did Not Participate In Practice
+8,REG,NYJ,LB,00-0029607,Demario Davis,,,,Not injury related - resting player,,Full Participation in Practice
+8,REG,NYJ,DT,00-0034782,Harrison Phillips,,,,Not injury related - resting player,,Full Participation in Practice
+8,REG,NYJ,DE,00-0036902,Joseph Ossai,Out,Ankle,,Ankle,,Did Not Participate In Practice
+8,REG,NYJ,G,00-0037255,Dylan Parham,Questionable,Knee,,Knee,,Full Participation in Practice
+8,REG,NYJ,T,00-0038114,Max Mitchell,Out,Concussion,,Concussion,,Did Not Participate In Practice
+8,REG,NYJ,RB,00-0038120,Breece Hall,Questionable,Quadricep,,Quadricep,,Limited Participation in Practice
+8,REG,NYJ,RB,00-0039794,Braelon Allen,,,,Ankle,,Full Participation in Practice
+8,REG,NYJ,DT,00-0039886,T'Vondre Sweat,Out,Knee,,Knee,,Did Not Participate In Practice
+8,REG,NYJ,DE,00-0041026,David Bailey,Doubtful,Groin,,Groin,,Did Not Participate In Practice
+9,REG,NYJ,LB,00-0029607,Demario Davis,,,,Not injury related - resting player,,Full Participation in Practice
+9,REG,NYJ,DT,00-0034782,Harrison Phillips,Questionable,Ankle,,Ankle,,Full Participation in Practice
+9,REG,NYJ,DE,00-0036902,Joseph Ossai,Out,Ankle,,Ankle,,Limited Participation in Practice
+9,REG,NYJ,CB,00-0036986,Nahshon Wright,Out,Back,,Back,,Did Not Participate In Practice
+9,REG,NYJ,WR,00-0037740,Garrett Wilson,Out,Concussion,,Concussion,,Did Not Participate In Practice
+9,REG,NYJ,RB,00-0038120,Breece Hall,,,,Quadricep,,Full Participation in Practice
+9,REG,NYJ,LB,00-0039347,Trevin Wallace,Out,Groin,,Groin,,Did Not Participate In Practice
+9,REG,NYJ,TE,00-0040736,Mason Taylor,,,,Back,,Full Participation in Practice
+9,REG,NYJ,DE,00-0041026,David Bailey,,,,Groin,,Full Participation in Practice
+9,REG,NYJ,S,00-0041120,VJ Payne,Out,Knee,,Knee,,Full Participation in Practice
