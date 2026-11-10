@@ -1,0 +1,26 @@
+{
+  "generated_utc": "2026-11-10T14:43:22.627488+00:00",
+  "snap_player_week_rows": 155,
+  "matched_player_week_rows": 100,
+  "unmatched_player_week_rows": 55,
+  "match_rate": 0.6451612903225806,
+  "weeks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "limitations": [
+    "Official weekly box-score and EPA fields are combined with PFR offensive snap exposure.",
+    "Snap-normalized rates describe output per workload; they are not player grades or causal estimates.",
+    "Quarterback passing EPA per attempt is a separate efficiency measure; yards per snap is not a quarterback efficiency metric.",
+    "Receiving yards per target and rushing/receiving production depend on role, play design and opportunity.",
+    "Offensive line output is assessed through snap exposure and team-level results; individual blocking grades are not available in the free sources.",
+    "Stable GSIS IDs are used where available; normalized exact names are used only for snap records without a usable ID. Unmatched records are counted."
+  ]
+}

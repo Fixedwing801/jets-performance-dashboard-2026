@@ -1,0 +1,40 @@
+week,game_type,team,position,gsis_id,full_name,report_status,report_primary_injury,report_secondary_injury,practice_primary_injury,practice_secondary_injury,practice_status,name_key,player,offensive_snaps,offensive_snap_share,usage_band,recorded_game_snaps,snap_participation
+1,REG,NYJ,WR,00-0033375,Tim Patrick,Out,Groin,,Groin,,Did Not Participate In Practice,timpatrick,,,,,0.0,No recorded offensive snaps
+1,REG,NYJ,RB,00-0036842,Kene Nwangwu,Doubtful,Back,,Back,,Did Not Participate In Practice,kenenwangwu,,,,,0.0,No recorded offensive snaps
+1,REG,NYJ,RB,00-0038120,Breece Hall,,,,Groin,,Full Participation in Practice,breecehall,Breece Hall,39.0,0.58,Regular,39.0,Played offensive snaps
+1,REG,NYJ,RB,00-0039798,Isaiah Davis,,,,Knee,,Full Participation in Practice,isaiahdavis,,,,,0.0,No recorded offensive snaps
+1,REG,NYJ,TE,00-0041032,Kenyon Sadiq,,,,Groin,,Full Participation in Practice,kenyonsadiq,Kenyon Sadiq,28.0,0.42,Rotation,28.0,Played offensive snaps
+2,REG,NYJ,RB,00-0036842,Kene Nwangwu,Out,Back,,Back,,Did Not Participate In Practice,kenenwangwu,,,,,0.0,No recorded offensive snaps
+2,REG,NYJ,WR,00-0041511,Omar Cooper Jr.,Out,Ankle,,Ankle,,Did Not Participate In Practice,omarcooperjr,,,,,0.0,No recorded offensive snaps
+3,REG,NYJ,RB,00-0036842,Kene Nwangwu,Doubtful,Back,,Back,,Did Not Participate In Practice,kenenwangwu,,,,,0.0,No recorded offensive snaps
+3,REG,NYJ,WR,00-0039890,Adonai Mitchell,Questionable,Finger,,Finger,,Limited Participation in Practice,adonaimitchell,,,,,0.0,No recorded offensive snaps
+3,REG,NYJ,TE,00-0040736,Mason Taylor,Out,Thumb,,Thumb,,Did Not Participate In Practice,masontaylor,,,,,0.0,No recorded offensive snaps
+4,REG,NYJ,RB,00-0036842,Kene Nwangwu,,,,Back,,Full Participation in Practice,kenenwangwu,,,,,0.0,No recorded offensive snaps
+4,REG,NYJ,G,00-0037255,Dylan Parham,Out,Knee,,Knee,,Did Not Participate In Practice,dylanparham,,,,,0.0,No recorded offensive snaps
+4,REG,NYJ,TE,00-0037805,Jeremy Ruckert,,,,Knee,,Full Participation in Practice,jeremyruckert,Jeremy Ruckert,14.0,0.44,Rotation,14.0,Played offensive snaps
+4,REG,NYJ,RB,00-0038120,Breece Hall,Out,Quadricep,,Quadricep,,Did Not Participate In Practice,breecehall,,,,,0.0,No recorded offensive snaps
+4,REG,NYJ,WR,00-0039890,Adonai Mitchell,Out,Finger,,Finger,,Did Not Participate In Practice,adonaimitchell,,,,,0.0,No recorded offensive snaps
+4,REG,NYJ,TE,00-0040736,Mason Taylor,Out,Thumb,,Thumb,,Did Not Participate In Practice,masontaylor,,,,,0.0,No recorded offensive snaps
+4,REG,NYJ,TE,00-0041032,Kenyon Sadiq,Questionable,Back,,Back,,Limited Participation in Practice,kenyonsadiq,Kenyon Sadiq,22.0,0.69,Regular,22.0,Played offensive snaps
+5,REG,NYJ,WR,00-0033375,Tim Patrick,Questionable,Groin,,Groin,,Full Participation in Practice,timpatrick,Tim Patrick,65.0,0.93,High-use,65.0,Played offensive snaps
+5,REG,NYJ,G,00-0037255,Dylan Parham,Out,Knee,,Knee,,Did Not Participate In Practice,dylanparham,,,,,0.0,No recorded offensive snaps
+5,REG,NYJ,RB,00-0038120,Breece Hall,Out,Quadricep,,Quadricep,,Did Not Participate In Practice,breecehall,,,,,0.0,No recorded offensive snaps
+5,REG,NYJ,WR,00-0039890,Adonai Mitchell,Out,Finger,,Finger,,Did Not Participate In Practice,adonaimitchell,,,,,0.0,No recorded offensive snaps
+5,REG,NYJ,TE,00-0040736,Mason Taylor,,,,Thumb,,Full Participation in Practice,masontaylor,Mason Taylor,41.0,0.59,Regular,41.0,Played offensive snaps
+6,REG,NYJ,G,00-0037255,Dylan Parham,Out,Knee,,Knee,,Did Not Participate In Practice,dylanparham,,,,,0.0,No recorded offensive snaps
+6,REG,NYJ,RB,00-0038120,Breece Hall,Out,Quadricep,,Quadricep,,Did Not Participate In Practice,breecehall,,,,,0.0,No recorded offensive snaps
+6,REG,NYJ,WR,00-0039890,Adonai Mitchell,Out,Finger,,Finger,,Did Not Participate In Practice,adonaimitchell,,,,,0.0,No recorded offensive snaps
+6,REG,NYJ,TE,00-0041032,Kenyon Sadiq,Questionable,Concussion,,Concussion,,Full Participation in Practice,kenyonsadiq,Kenyon Sadiq,22.0,0.35,Rotation,22.0,Played offensive snaps
+6,REG,NYJ,WR,00-0041511,Omar Cooper Jr.,Questionable,Ankle,,Ankle,,Full Participation in Practice,omarcooperjr,,,,,0.0,No recorded offensive snaps
+7,REG,NYJ,RB,00-0036842,Kene Nwangwu,Questionable,Knee,,Knee,,Full Participation in Practice,kenenwangwu,,,,,0.0,No recorded offensive snaps
+7,REG,NYJ,G,00-0037255,Dylan Parham,Questionable,Knee,,Knee,,Limited Participation in Practice,dylanparham,,,,,0.0,No recorded offensive snaps
+7,REG,NYJ,T,00-0038114,Max Mitchell,Out,Concussion,,Concussion,,Did Not Participate In Practice,maxmitchell,,,,,0.0,No recorded offensive snaps
+7,REG,NYJ,RB,00-0038120,Breece Hall,Questionable,Quadricep,,Quadricep,,Limited Participation in Practice,breecehall,,,,,0.0,No recorded offensive snaps
+7,REG,NYJ,WR,00-0039890,Adonai Mitchell,,,,Finger,,Full Participation in Practice,adonaimitchell,Adonai Mitchell,26.0,0.44,Rotation,26.0,Played offensive snaps
+8,REG,NYJ,G,00-0037255,Dylan Parham,Questionable,Knee,,Knee,,Full Participation in Practice,dylanparham,Dylan Parham,64.0,1.0,High-use,64.0,Played offensive snaps
+8,REG,NYJ,T,00-0038114,Max Mitchell,Out,Concussion,,Concussion,,Did Not Participate In Practice,maxmitchell,,,,,0.0,No recorded offensive snaps
+8,REG,NYJ,RB,00-0038120,Breece Hall,Questionable,Quadricep,,Quadricep,,Limited Participation in Practice,breecehall,,,,,0.0,No recorded offensive snaps
+8,REG,NYJ,RB,00-0039794,Braelon Allen,,,,Ankle,,Full Participation in Practice,braelonallen,Braelon Allen,53.0,0.83,High-use,53.0,Played offensive snaps
+9,REG,NYJ,WR,00-0037740,Garrett Wilson,Out,Concussion,,Concussion,,Did Not Participate In Practice,garrettwilson,,,,,0.0,No recorded offensive snaps
+9,REG,NYJ,RB,00-0038120,Breece Hall,,,,Quadricep,,Full Participation in Practice,breecehall,Breece Hall,27.0,0.43,Rotation,27.0,Played offensive snaps
+9,REG,NYJ,TE,00-0040736,Mason Taylor,,,,Back,,Full Participation in Practice,masontaylor,Mason Taylor,40.0,0.63,Regular,40.0,Played offensive snaps

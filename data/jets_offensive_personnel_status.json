@@ -1,0 +1,33 @@
+{
+  "generated_utc": "2026-11-10T14:43:21.599834+00:00",
+  "weeks_with_snap_data": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "snap_rows": 155,
+  "position_groups": [
+    "Offensive line",
+    "Quarterback",
+    "Running back",
+    "Tight end",
+    "Wide receiver"
+  ],
+  "injury_rows": 39,
+  "offensive_injury_rows": 39,
+  "offensive_injury_snap_matches": 12,
+  "limitations": [
+    "PFR snap counts measure player exposure by game, not exact personnel group or formation on each play.",
+    "Position-group shares are sums of player snaps; because multiple players share a play, interpret as workload composition rather than mutually exclusive shares of 11 players.",
+    "Injury statuses are not proof of game absence; snap counts are used as observed participation.",
+    "Zero recorded offensive snaps does not prove a player was inactive.",
+    "Injury-to-snap reconciliation uses normalized player names; unmatched entries are retained.",
+    "Offensive line player IDs may be missing in the PFR-to-GSIS crosswalk; unmatched production is reported separately."
+  ]
+}

@@ -1,0 +1,156 @@
+week,player,position,position_group,offensive_snaps,offensive_snap_share,prior_week_snap_share,snap_share_change,usage_band,high_use_70pct,weeks_at_70pct_to_date
+1,Adonai Mitchell,WR,Wide receiver,46.0,0.69,,,Regular,False,0
+2,Adonai Mitchell,WR,Wide receiver,61.0,0.82,0.69,0.13,High-use,True,1
+7,Adonai Mitchell,WR,Wide receiver,26.0,0.44,0.82,-0.37999999999999995,Rotation,False,1
+8,Adonai Mitchell,WR,Wide receiver,39.0,0.61,0.44,0.16999999999999998,Regular,False,1
+9,Adonai Mitchell,WR,Wide receiver,56.0,0.89,0.61,0.28,High-use,True,2
+1,Andrew Beck,FB,Running back,9.0,0.13,,,Spot / low,False,0
+2,Andrew Beck,FB,Running back,4.0,0.05,0.13,-0.08,Spot / low,False,0
+3,Andrew Beck,FB,Running back,2.0,0.03,0.05,-0.020000000000000004,Spot / low,False,0
+5,Andrew Beck,FB,Running back,3.0,0.04,0.03,0.010000000000000002,Spot / low,False,0
+6,Andrew Beck,FB,Running back,1.0,0.02,0.04,-0.02,Spot / low,False,0
+7,Andrew Beck,FB,Running back,5.0,0.08,0.02,0.06,Spot / low,False,0
+9,Andrew Beck,FB,Running back,4.0,0.06,0.08,-0.020000000000000004,Spot / low,False,0
+1,Arian Smith,WR,Wide receiver,2.0,0.03,,,Spot / low,False,0
+2,Arian Smith,WR,Wide receiver,1.0,0.01,0.03,-0.019999999999999997,Spot / low,False,0
+1,Armand Membou,T,Offensive line,67.0,1.0,,,High-use,True,1
+2,Armand Membou,T,Offensive line,74.0,1.0,1.0,0.0,High-use,True,2
+3,Armand Membou,T,Offensive line,66.0,1.0,1.0,0.0,High-use,True,3
+4,Armand Membou,T,Offensive line,31.0,0.97,1.0,-0.030000000000000027,High-use,True,4
+5,Armand Membou,T,Offensive line,70.0,1.0,0.97,0.030000000000000027,High-use,True,5
+6,Armand Membou,T,Offensive line,62.0,1.0,1.0,0.0,High-use,True,6
+7,Armand Membou,T,Offensive line,59.0,1.0,1.0,0.0,High-use,True,7
+8,Armand Membou,T,Offensive line,64.0,1.0,1.0,0.0,High-use,True,8
+9,Armand Membou,T,Offensive line,63.0,1.0,1.0,0.0,High-use,True,9
+1,Braelon Allen,RB,Running back,27.0,0.4,,,Rotation,False,0
+2,Braelon Allen,RB,Running back,23.0,0.31,0.4,-0.09000000000000002,Rotation,False,0
+3,Braelon Allen,RB,Running back,34.0,0.52,0.31,0.21000000000000002,Regular,False,0
+4,Braelon Allen,RB,Running back,30.0,0.94,0.52,0.41999999999999993,High-use,True,1
+5,Braelon Allen,RB,Running back,60.0,0.86,0.94,-0.07999999999999996,High-use,True,2
+6,Braelon Allen,RB,Running back,54.0,0.87,0.86,0.010000000000000009,High-use,True,3
+7,Braelon Allen,RB,Running back,46.0,0.78,0.87,-0.08999999999999997,High-use,True,4
+8,Braelon Allen,RB,Running back,53.0,0.83,0.78,0.04999999999999993,High-use,True,5
+9,Braelon Allen,RB,Running back,37.0,0.59,0.83,-0.24,Regular,False,5
+1,Breece Hall,RB,Running back,39.0,0.58,,,Regular,False,0
+2,Breece Hall,RB,Running back,48.0,0.65,0.58,0.07000000000000006,Regular,False,0
+3,Breece Hall,RB,Running back,32.0,0.48,0.65,-0.17000000000000004,Rotation,False,0
+9,Breece Hall,RB,Running back,27.0,0.43,0.48,-0.04999999999999999,Rotation,False,0
+4,Chukwuma Okorafor,OL,Offensive line,1.0,0.03,,,Spot / low,False,0
+1,Dylan Parham,OL,Offensive line,67.0,1.0,,,High-use,True,1
+2,Dylan Parham,OL,Offensive line,74.0,1.0,1.0,0.0,High-use,True,2
+3,Dylan Parham,OL,Offensive line,38.0,0.58,1.0,-0.42000000000000004,Regular,False,2
+8,Dylan Parham,OL,Offensive line,64.0,1.0,0.58,0.42000000000000004,High-use,True,3
+9,Dylan Parham,OL,Offensive line,63.0,1.0,1.0,0.0,High-use,True,4
+1,Garrett Wilson,WR,Wide receiver,50.0,0.75,,,High-use,True,1
+2,Garrett Wilson,WR,Wide receiver,65.0,0.88,0.75,0.13,High-use,True,2
+3,Garrett Wilson,WR,Wide receiver,62.0,0.94,0.88,0.05999999999999994,High-use,True,3
+4,Garrett Wilson,WR,Wide receiver,32.0,1.0,0.94,0.06000000000000005,High-use,True,4
+5,Garrett Wilson,WR,Wide receiver,65.0,0.93,1.0,-0.06999999999999995,High-use,True,5
+6,Garrett Wilson,WR,Wide receiver,61.0,0.98,0.93,0.04999999999999993,High-use,True,6
+7,Garrett Wilson,WR,Wide receiver,50.0,0.85,0.98,-0.13,High-use,True,7
+8,Garrett Wilson,WR,Wide receiver,52.0,0.81,0.85,-0.039999999999999925,High-use,True,8
+1,Geno Smith,QB,Quarterback,67.0,1.0,,,High-use,True,1
+2,Geno Smith,QB,Quarterback,74.0,1.0,1.0,0.0,High-use,True,2
+3,Geno Smith,QB,Quarterback,66.0,1.0,1.0,0.0,High-use,True,3
+4,Geno Smith,QB,Quarterback,32.0,1.0,1.0,0.0,High-use,True,4
+5,Geno Smith,QB,Quarterback,70.0,1.0,1.0,0.0,High-use,True,5
+6,Geno Smith,QB,Quarterback,62.0,1.0,1.0,0.0,High-use,True,6
+7,Geno Smith,QB,Quarterback,59.0,1.0,1.0,0.0,High-use,True,7
+8,Geno Smith,QB,Quarterback,64.0,1.0,1.0,0.0,High-use,True,8
+9,Geno Smith,QB,Quarterback,63.0,1.0,1.0,0.0,High-use,True,9
+4,Isaiah Davis,RB,Running back,2.0,0.06,,,Spot / low,False,0
+5,Isaiah Davis,RB,Running back,10.0,0.14,0.06,0.08000000000000002,Spot / low,False,0
+6,Isaiah Davis,RB,Running back,8.0,0.13,0.14,-0.010000000000000009,Spot / low,False,0
+7,Isaiah Davis,RB,Running back,13.0,0.22,0.13,0.09,Spot / low,False,0
+8,Isaiah Davis,RB,Running back,11.0,0.17,0.22,-0.04999999999999999,Spot / low,False,0
+1,Isaiah Williams,WR,Wide receiver,40.0,0.6,,,Regular,False,0
+2,Isaiah Williams,WR,Wide receiver,61.0,0.82,0.6,0.21999999999999997,High-use,True,1
+3,Isaiah Williams,WR,Wide receiver,59.0,0.89,0.82,0.07000000000000006,High-use,True,2
+4,Isaiah Williams,WR,Wide receiver,30.0,0.94,0.89,0.04999999999999993,High-use,True,3
+5,Isaiah Williams,WR,Wide receiver,43.0,0.61,0.94,-0.32999999999999996,Regular,False,3
+6,Isaiah Williams,WR,Wide receiver,9.0,0.15,0.61,-0.45999999999999996,Spot / low,False,3
+7,Isaiah Williams,WR,Wide receiver,13.0,0.22,0.15,0.07,Spot / low,False,3
+8,Isaiah Williams,WR,Wide receiver,10.0,0.16,0.22,-0.06,Spot / low,False,3
+9,Isaiah Williams,WR,Wide receiver,38.0,0.6,0.16,0.43999999999999995,Regular,False,3
+1,Jelani Woods,TE,Tight end,16.0,0.24,,,Spot / low,False,0
+2,Jelani Woods,TE,Tight end,21.0,0.28,0.24,0.040000000000000036,Rotation,False,0
+3,Jelani Woods,TE,Tight end,25.0,0.38,0.28,0.09999999999999998,Rotation,False,0
+4,Jelani Woods,TE,Tight end,12.0,0.38,0.38,0.0,Rotation,False,0
+5,Jelani Woods,TE,Tight end,25.0,0.36,0.38,-0.020000000000000018,Rotation,False,0
+6,Jelani Woods,TE,Tight end,13.0,0.21,0.36,-0.15,Spot / low,False,0
+7,Jelani Woods,TE,Tight end,14.0,0.24,0.21,0.03,Spot / low,False,0
+8,Jelani Woods,TE,Tight end,18.0,0.28,0.24,0.040000000000000036,Rotation,False,0
+9,Jelani Woods,TE,Tight end,6.0,0.1,0.28,-0.18000000000000002,Spot / low,False,0
+1,Jeremy Ruckert,TE,Tight end,29.0,0.43,,,Rotation,False,0
+2,Jeremy Ruckert,TE,Tight end,25.0,0.34,0.43,-0.08999999999999997,Rotation,False,0
+3,Jeremy Ruckert,TE,Tight end,28.0,0.42,0.34,0.07999999999999996,Rotation,False,0
+4,Jeremy Ruckert,TE,Tight end,14.0,0.44,0.42,0.020000000000000018,Rotation,False,0
+5,Jeremy Ruckert,TE,Tight end,23.0,0.33,0.44,-0.10999999999999999,Rotation,False,0
+6,Jeremy Ruckert,TE,Tight end,14.0,0.23,0.33,-0.1,Spot / low,False,0
+7,Jeremy Ruckert,TE,Tight end,23.0,0.39,0.23,0.16,Rotation,False,0
+8,Jeremy Ruckert,TE,Tight end,17.0,0.27,0.39,-0.12,Rotation,False,0
+9,Jeremy Ruckert,TE,Tight end,12.0,0.19,0.27,-0.08000000000000002,Spot / low,False,0
+1,Joe Tippmann,C,Offensive line,67.0,1.0,,,High-use,True,1
+2,Joe Tippmann,C,Offensive line,74.0,1.0,1.0,0.0,High-use,True,2
+3,Joe Tippmann,C,Offensive line,66.0,1.0,1.0,0.0,High-use,True,3
+4,Joe Tippmann,C,Offensive line,32.0,1.0,1.0,0.0,High-use,True,4
+5,Joe Tippmann,C,Offensive line,70.0,1.0,1.0,0.0,High-use,True,5
+6,Joe Tippmann,C,Offensive line,62.0,1.0,1.0,0.0,High-use,True,6
+7,Joe Tippmann,C,Offensive line,59.0,1.0,1.0,0.0,High-use,True,7
+8,Joe Tippmann,C,Offensive line,64.0,1.0,1.0,0.0,High-use,True,8
+9,Joe Tippmann,C,Offensive line,63.0,1.0,1.0,0.0,High-use,True,9
+3,Jordan Meredith,OL,Offensive line,28.0,0.42,,,Rotation,False,0
+4,Jordan Meredith,OL,Offensive line,32.0,1.0,0.42,0.5800000000000001,High-use,True,1
+5,Jordan Meredith,OL,Offensive line,70.0,1.0,1.0,0.0,High-use,True,2
+6,Jordan Meredith,OL,Offensive line,62.0,1.0,1.0,0.0,High-use,True,3
+7,Jordan Meredith,OL,Offensive line,59.0,1.0,1.0,0.0,High-use,True,4
+1,Josh Myers,C,Offensive line,67.0,1.0,,,High-use,True,1
+2,Josh Myers,C,Offensive line,74.0,1.0,1.0,0.0,High-use,True,2
+3,Josh Myers,C,Offensive line,66.0,1.0,1.0,0.0,High-use,True,3
+4,Josh Myers,C,Offensive line,32.0,1.0,1.0,0.0,High-use,True,4
+5,Josh Myers,C,Offensive line,70.0,1.0,1.0,0.0,High-use,True,5
+6,Josh Myers,C,Offensive line,62.0,1.0,1.0,0.0,High-use,True,6
+7,Josh Myers,C,Offensive line,59.0,1.0,1.0,0.0,High-use,True,7
+8,Josh Myers,C,Offensive line,64.0,1.0,1.0,0.0,High-use,True,8
+9,Josh Myers,C,Offensive line,63.0,1.0,1.0,0.0,High-use,True,9
+1,Kenyon Sadiq,TE,Tight end,28.0,0.42,,,Rotation,False,0
+2,Kenyon Sadiq,TE,Tight end,27.0,0.36,0.42,-0.06,Rotation,False,0
+3,Kenyon Sadiq,TE,Tight end,38.0,0.58,0.36,0.21999999999999997,Regular,False,0
+4,Kenyon Sadiq,TE,Tight end,22.0,0.69,0.58,0.10999999999999999,Regular,False,0
+5,Kenyon Sadiq,TE,Tight end,13.0,0.19,0.69,-0.49999999999999994,Spot / low,False,0
+6,Kenyon Sadiq,TE,Tight end,22.0,0.35,0.19,0.15999999999999998,Rotation,False,0
+7,Kenyon Sadiq,TE,Tight end,22.0,0.37,0.35,0.020000000000000018,Rotation,False,0
+8,Kenyon Sadiq,TE,Tight end,31.0,0.48,0.37,0.10999999999999999,Rotation,False,0
+9,Kenyon Sadiq,TE,Tight end,36.0,0.57,0.48,0.08999999999999997,Regular,False,0
+3,Malik McClain,WR,Wide receiver,18.0,0.27,,,Rotation,False,0
+4,Malik McClain,WR,Wide receiver,1.0,0.03,0.27,-0.24000000000000002,Spot / low,False,0
+5,Malik McClain,WR,Wide receiver,2.0,0.03,0.03,0.0,Spot / low,False,0
+7,Malik McClain,WR,Wide receiver,1.0,0.02,0.03,-0.009999999999999998,Spot / low,False,0
+9,Malik McClain,WR,Wide receiver,5.0,0.08,0.02,0.06,Spot / low,False,0
+1,Mason Taylor,TE,Tight end,44.0,0.66,,,Regular,False,0
+2,Mason Taylor,TE,Tight end,34.0,0.46,0.66,-0.2,Rotation,False,0
+5,Mason Taylor,TE,Tight end,41.0,0.59,0.46,0.12999999999999995,Regular,False,0
+6,Mason Taylor,TE,Tight end,34.0,0.55,0.59,-0.039999999999999925,Regular,False,0
+7,Mason Taylor,TE,Tight end,37.0,0.63,0.55,0.07999999999999996,Regular,False,0
+8,Mason Taylor,TE,Tight end,39.0,0.61,0.63,-0.020000000000000018,Regular,False,0
+9,Mason Taylor,TE,Tight end,40.0,0.63,0.61,0.020000000000000018,Regular,False,0
+3,Max Mitchell,OL,Offensive line,2.0,0.03,,,Spot / low,False,0
+1,Olu Fashanu,OL,Offensive line,67.0,1.0,,,High-use,True,1
+2,Olu Fashanu,OL,Offensive line,74.0,1.0,1.0,0.0,High-use,True,2
+3,Olu Fashanu,OL,Offensive line,66.0,1.0,1.0,0.0,High-use,True,3
+4,Olu Fashanu,OL,Offensive line,32.0,1.0,1.0,0.0,High-use,True,4
+5,Olu Fashanu,OL,Offensive line,70.0,1.0,1.0,0.0,High-use,True,5
+6,Olu Fashanu,OL,Offensive line,62.0,1.0,1.0,0.0,High-use,True,6
+7,Olu Fashanu,OL,Offensive line,59.0,1.0,1.0,0.0,High-use,True,7
+8,Olu Fashanu,OL,Offensive line,64.0,1.0,1.0,0.0,High-use,True,8
+9,Olu Fashanu,OL,Offensive line,63.0,1.0,1.0,0.0,High-use,True,9
+1,Omar Cooper,WR,Wide receiver,5.0,0.07,,,Spot / low,False,0
+6,Omar Cooper,WR,Wide receiver,51.0,0.82,0.07,0.75,High-use,True,1
+7,Omar Cooper,WR,Wide receiver,38.0,0.64,0.82,-0.17999999999999994,Regular,False,1
+8,Omar Cooper,WR,Wide receiver,50.0,0.78,0.64,0.14,High-use,True,2
+9,Omar Cooper,WR,Wide receiver,54.0,0.86,0.78,0.07999999999999996,High-use,True,3
+3,Sterling Shepard,WR,Wide receiver,30.0,0.45,,,Rotation,False,0
+4,Sterling Shepard,WR,Wide receiver,17.0,0.53,0.45,0.08000000000000002,Regular,False,0
+5,Tim Patrick,WR,Wide receiver,65.0,0.93,,,High-use,True,1
+6,Tim Patrick,WR,Wide receiver,43.0,0.69,0.93,-0.2400000000000001,Regular,False,1
+7,Tim Patrick,WR,Wide receiver,7.0,0.12,0.69,-0.57,Spot / low,False,1
