@@ -1,160 +1,160 @@
-week,player,position,defensive_snaps,defensive_snap_share
-1,Andre Cisco,S,44.0,0.88
-1,Azareye'h Thomas,CB,50.0,1.0
-1,Braiden McGregor,DE,17.0,0.34
-1,Brandon Stephens,CB,50.0,1.0
-1,Dane Belton,S,50.0,1.0
-1,Darrell Jackson Jr.,DL,8.0,0.16
-1,David Bailey,DE,35.0,0.7
-1,David Onyemata,DL,35.0,0.7
-1,Demario Davis,LB,50.0,1.0
-1,Harrison Phillips,DL,27.0,0.54
-1,Jamien Sherwood,LB,45.0,0.9
-1,Jarvis Brownlee,DB,38.0,0.76
-1,Jowon Briggs,DL,10.0,0.2
-1,Kingsley Enagbare,DE,33.0,0.66
-1,Malachi Moore,DB,7.0,0.14
-1,Marcelino McCrary-Ball,LB,5.0,0.1
-1,Minkah Fitzpatrick,S,6.0,0.12
-1,T'Vondre Sweat,DL,15.0,0.3
-1,Will McDonald,DE,25.0,0.5
-2,Andre Cisco,S,59.0,1.0
-2,Azareye'h Thomas,CB,59.0,1.0
-2,Braiden McGregor,DE,19.0,0.32
-2,Brandon Stephens,CB,59.0,1.0
-2,Dane Belton,S,59.0,1.0
-2,Darrell Jackson Jr.,DL,13.0,0.22
-2,David Bailey,DE,43.0,0.73
-2,David Onyemata,DL,13.0,0.22
-2,Demario Davis,LB,59.0,1.0
-2,Harrison Phillips,DL,32.0,0.54
-2,Jamien Sherwood,LB,59.0,1.0
-2,Jarvis Brownlee,DB,41.0,0.69
-2,Jowon Briggs,DL,35.0,0.59
-2,Kingsley Enagbare,DE,40.0,0.68
-2,Malachi Moore,DB,1.0,0.02
-2,T'Vondre Sweat,DL,33.0,0.56
-2,Will McDonald,DE,25.0,0.42
-3,Andre Cisco,S,65.0,1.0
-3,Azareye'h Thomas,CB,65.0,1.0
-3,Braiden McGregor,DE,6.0,0.09
-3,Brandon Stephens,CB,63.0,0.97
-3,D'Angelo Ponds,CB,2.0,0.03
-3,Dane Belton,S,65.0,1.0
-3,Darrell Jackson Jr.,DL,23.0,0.35
-3,David Bailey,DE,44.0,0.68
-3,Demario Davis,LB,65.0,1.0
-3,Harrison Phillips,DL,44.0,0.68
-3,Jack Heflin,DT,8.0,0.12
-3,Jamien Sherwood,LB,61.0,0.94
-3,Jarvis Brownlee,DB,34.0,0.52
-3,Joseph Ossai,DE,28.0,0.43
-3,Jowon Briggs,DL,45.0,0.69
-3,Kingsley Enagbare,DE,38.0,0.58
-3,T'Vondre Sweat,DL,37.0,0.57
-3,Will McDonald,DE,22.0,0.34
-4,Andre Cisco,S,3.0,0.03
-4,Azareye'h Thomas,CB,93.0,1.0
-4,Braiden McGregor,DE,7.0,0.08
-4,Brandon Stephens,CB,91.0,0.98
-4,D'Angelo Ponds,CB,18.0,0.19
-4,Dane Belton,S,93.0,1.0
-4,Darrell Jackson Jr.,DL,41.0,0.44
-4,David Bailey,DE,73.0,0.78
-4,Demario Davis,LB,93.0,1.0
-4,Harrison Phillips,DL,52.0,0.56
-4,Jack Heflin,DT,16.0,0.17
-4,Jamien Sherwood,LB,87.0,0.94
-4,Jarvis Brownlee,DB,38.0,0.41
-4,Joseph Ossai,DE,57.0,0.61
-4,Jowon Briggs,DL,56.0,0.6
-4,Minkah Fitzpatrick,S,93.0,1.0
-4,T'Vondre Sweat,DL,46.0,0.49
-4,Will McDonald,DE,66.0,0.71
-5,Azareye'h Thomas,CB,68.0,1.0
-5,Brandon Stephens,CB,68.0,1.0
-5,D'Angelo Ponds,CB,2.0,0.03
-5,Dane Belton,S,68.0,1.0
-5,Darrell Jackson Jr.,DL,29.0,0.43
-5,David Bailey,DE,57.0,0.84
-5,Demario Davis,LB,68.0,1.0
-5,Harrison Phillips,DL,29.0,0.43
-5,Jack Heflin,DT,3.0,0.04
-5,Jamien Sherwood,LB,68.0,1.0
-5,Jarvis Brownlee,DB,59.0,0.87
-5,Joseph Ossai,DE,22.0,0.32
-5,Jowon Briggs,DL,22.0,0.32
-5,Kingsley Enagbare,DE,54.0,0.79
-5,Minkah Fitzpatrick,S,68.0,1.0
-5,T'Vondre Sweat,DL,34.0,0.5
-5,Will McDonald,DE,29.0,0.43
-6,Andre Cisco,S,2.0,0.03
-6,Azareye'h Thomas,CB,68.0,1.0
-6,Brandon Stephens,CB,65.0,0.96
-6,D'Angelo Ponds,CB,11.0,0.16
-6,Dane Belton,S,68.0,1.0
-6,Darrell Jackson Jr.,DL,35.0,0.51
-6,David Bailey,DE,66.0,0.97
-6,Demario Davis,LB,68.0,1.0
-6,Harrison Phillips,DL,37.0,0.54
-6,Jamien Sherwood,LB,64.0,0.94
-6,Jarvis Brownlee,DB,37.0,0.54
-6,Jowon Briggs,DL,35.0,0.51
-6,Kingsley Enagbare,DE,51.0,0.75
-6,Minkah Fitzpatrick,S,68.0,1.0
-6,Nate Lynn,DE,8.0,0.12
-6,T'Vondre Sweat,DL,42.0,0.62
-6,Will McDonald,DE,23.0,0.34
-7,Andre Cisco,S,9.0,0.14
-7,Azareye'h Thomas,CB,65.0,1.0
-7,Brandon Stephens,CB,62.0,0.95
-7,D'Angelo Ponds,CB,30.0,0.46
-7,Dane Belton,S,65.0,1.0
-7,Darrell Jackson Jr.,DL,38.0,0.58
-7,David Bailey,DE,61.0,0.94
-7,Demario Davis,LB,65.0,1.0
-7,Harrison Phillips,DL,46.0,0.71
-7,Jamien Sherwood,LB,64.0,0.98
-7,Jowon Briggs,DL,48.0,0.74
-7,Kingsley Enagbare,DE,44.0,0.68
-7,Minkah Fitzpatrick,S,65.0,1.0
-7,Nate Lynn,DE,3.0,0.05
-7,Qwan'tez Stiggers,CB,1.0,0.02
-7,T'Vondre Sweat,DL,22.0,0.34
-7,Will McDonald,DE,27.0,0.42
-8,Andre Cisco,S,8.0,0.13
-8,Azareye'h Thomas,CB,63.0,1.0
-8,Brandon Stephens,CB,60.0,0.95
-8,D'Angelo Ponds,CB,1.0,0.02
-8,Dane Belton,S,63.0,1.0
-8,Darrell Jackson Jr.,DL,42.0,0.67
-8,Demario Davis,LB,62.0,0.98
-8,Harrison Phillips,DL,38.0,0.6
-8,Jack Heflin,DL,21.0,0.33
-8,Jamien Sherwood,LB,63.0,1.0
-8,Jarvis Brownlee,DB,27.0,0.43
-8,Jowon Briggs,DL,49.0,0.78
-8,Kingsley Enagbare,DE,55.0,0.87
-8,Minkah Fitzpatrick,S,63.0,1.0
-8,Nate Lynn,DE,28.0,0.44
-8,Payton Page,DL,4.0,0.06
-8,Quinton Bell,DE,10.0,0.16
-8,Will McDonald,DE,36.0,0.57
-9,Azareye'h Thomas,CB,66.0,1.0
-9,Brandon Stephens,CB,63.0,0.95
-9,D'Angelo Ponds,CB,22.0,0.33
-9,Dane Belton,S,66.0,1.0
-9,Darrell Jackson Jr.,DL,47.0,0.71
-9,David Bailey,DE,52.0,0.79
-9,Demario Davis,LB,64.0,0.97
-9,Harrison Phillips,DL,27.0,0.41
-9,Jack Heflin,DL,23.0,0.35
-9,Jamien Sherwood,LB,64.0,0.97
-9,Jarvis Brownlee,DB,2.0,0.03
-9,Jowon Briggs,DL,39.0,0.59
-9,Kingsley Enagbare,DE,55.0,0.83
-9,Malachi Moore,DB,17.0,0.26
-9,Minkah Fitzpatrick,S,65.0,0.98
-9,Nate Lynn,DE,12.0,0.18
-9,Payton Page,DL,18.0,0.27
-9,Will McDonald,DE,24.0,0.36
+week,player,position,defensive_snaps,defensive_snap_share,prior_week_snap_share,snap_share_change,usage_band,high_use_70pct,weeks_at_70pct_to_date
+1,Andre Cisco,S,44.0,0.88,,,High-use,True,1
+2,Andre Cisco,S,59.0,1.0,0.88,0.12,High-use,True,2
+3,Andre Cisco,S,65.0,1.0,1.0,0.0,High-use,True,3
+4,Andre Cisco,S,3.0,0.03,1.0,-0.97,Spot / low,False,3
+6,Andre Cisco,S,2.0,0.03,0.03,0.0,Spot / low,False,3
+7,Andre Cisco,S,9.0,0.14,0.03,0.11000000000000001,Spot / low,False,3
+8,Andre Cisco,S,8.0,0.13,0.14,-0.010000000000000009,Spot / low,False,3
+1,Azareye'h Thomas,CB,50.0,1.0,,,High-use,True,1
+2,Azareye'h Thomas,CB,59.0,1.0,1.0,0.0,High-use,True,2
+3,Azareye'h Thomas,CB,65.0,1.0,1.0,0.0,High-use,True,3
+4,Azareye'h Thomas,CB,93.0,1.0,1.0,0.0,High-use,True,4
+5,Azareye'h Thomas,CB,68.0,1.0,1.0,0.0,High-use,True,5
+6,Azareye'h Thomas,CB,68.0,1.0,1.0,0.0,High-use,True,6
+7,Azareye'h Thomas,CB,65.0,1.0,1.0,0.0,High-use,True,7
+8,Azareye'h Thomas,CB,63.0,1.0,1.0,0.0,High-use,True,8
+9,Azareye'h Thomas,CB,66.0,1.0,1.0,0.0,High-use,True,9
+1,Braiden McGregor,DE,17.0,0.34,,,Rotation,False,0
+2,Braiden McGregor,DE,19.0,0.32,0.34,-0.020000000000000018,Rotation,False,0
+3,Braiden McGregor,DE,6.0,0.09,0.32,-0.23,Spot / low,False,0
+4,Braiden McGregor,DE,7.0,0.08,0.09,-0.009999999999999995,Spot / low,False,0
+1,Brandon Stephens,CB,50.0,1.0,,,High-use,True,1
+2,Brandon Stephens,CB,59.0,1.0,1.0,0.0,High-use,True,2
+3,Brandon Stephens,CB,63.0,0.97,1.0,-0.030000000000000027,High-use,True,3
+4,Brandon Stephens,CB,91.0,0.98,0.97,0.010000000000000009,High-use,True,4
+5,Brandon Stephens,CB,68.0,1.0,0.98,0.020000000000000018,High-use,True,5
+6,Brandon Stephens,CB,65.0,0.96,1.0,-0.040000000000000036,High-use,True,6
+7,Brandon Stephens,CB,62.0,0.95,0.96,-0.010000000000000009,High-use,True,7
+8,Brandon Stephens,CB,60.0,0.95,0.95,0.0,High-use,True,8
+9,Brandon Stephens,CB,63.0,0.95,0.95,0.0,High-use,True,9
+3,D'Angelo Ponds,CB,2.0,0.03,,,Spot / low,False,0
+4,D'Angelo Ponds,CB,18.0,0.19,0.03,0.16,Spot / low,False,0
+5,D'Angelo Ponds,CB,2.0,0.03,0.19,-0.16,Spot / low,False,0
+6,D'Angelo Ponds,CB,11.0,0.16,0.03,0.13,Spot / low,False,0
+7,D'Angelo Ponds,CB,30.0,0.46,0.16,0.30000000000000004,Rotation,False,0
+8,D'Angelo Ponds,CB,1.0,0.02,0.46,-0.44,Spot / low,False,0
+9,D'Angelo Ponds,CB,22.0,0.33,0.02,0.31,Rotation,False,0
+1,Dane Belton,S,50.0,1.0,,,High-use,True,1
+2,Dane Belton,S,59.0,1.0,1.0,0.0,High-use,True,2
+3,Dane Belton,S,65.0,1.0,1.0,0.0,High-use,True,3
+4,Dane Belton,S,93.0,1.0,1.0,0.0,High-use,True,4
+5,Dane Belton,S,68.0,1.0,1.0,0.0,High-use,True,5
+6,Dane Belton,S,68.0,1.0,1.0,0.0,High-use,True,6
+7,Dane Belton,S,65.0,1.0,1.0,0.0,High-use,True,7
+8,Dane Belton,S,63.0,1.0,1.0,0.0,High-use,True,8
+9,Dane Belton,S,66.0,1.0,1.0,0.0,High-use,True,9
+1,Darrell Jackson Jr.,DL,8.0,0.16,,,Spot / low,False,0
+2,Darrell Jackson Jr.,DL,13.0,0.22,0.16,0.06,Spot / low,False,0
+3,Darrell Jackson Jr.,DL,23.0,0.35,0.22,0.12999999999999998,Rotation,False,0
+4,Darrell Jackson Jr.,DL,41.0,0.44,0.35,0.09000000000000002,Rotation,False,0
+5,Darrell Jackson Jr.,DL,29.0,0.43,0.44,-0.010000000000000009,Rotation,False,0
+6,Darrell Jackson Jr.,DL,35.0,0.51,0.43,0.08000000000000002,Regular,False,0
+7,Darrell Jackson Jr.,DL,38.0,0.58,0.51,0.06999999999999995,Regular,False,0
+8,Darrell Jackson Jr.,DL,42.0,0.67,0.58,0.09000000000000008,Regular,False,0
+9,Darrell Jackson Jr.,DL,47.0,0.71,0.67,0.039999999999999925,High-use,True,1
+1,David Bailey,DE,35.0,0.7,,,Regular,True,1
+2,David Bailey,DE,43.0,0.73,0.7,0.030000000000000027,High-use,True,2
+3,David Bailey,DE,44.0,0.68,0.73,-0.04999999999999993,Regular,False,2
+4,David Bailey,DE,73.0,0.78,0.68,0.09999999999999998,High-use,True,3
+5,David Bailey,DE,57.0,0.84,0.78,0.05999999999999994,High-use,True,4
+6,David Bailey,DE,66.0,0.97,0.84,0.13,High-use,True,5
+7,David Bailey,DE,61.0,0.94,0.97,-0.030000000000000027,High-use,True,6
+9,David Bailey,DE,52.0,0.79,0.94,-0.1499999999999999,High-use,True,7
+1,David Onyemata,DL,35.0,0.7,,,Regular,True,1
+2,David Onyemata,DL,13.0,0.22,0.7,-0.48,Spot / low,False,1
+1,Demario Davis,LB,50.0,1.0,,,High-use,True,1
+2,Demario Davis,LB,59.0,1.0,1.0,0.0,High-use,True,2
+3,Demario Davis,LB,65.0,1.0,1.0,0.0,High-use,True,3
+4,Demario Davis,LB,93.0,1.0,1.0,0.0,High-use,True,4
+5,Demario Davis,LB,68.0,1.0,1.0,0.0,High-use,True,5
+6,Demario Davis,LB,68.0,1.0,1.0,0.0,High-use,True,6
+7,Demario Davis,LB,65.0,1.0,1.0,0.0,High-use,True,7
+8,Demario Davis,LB,62.0,0.98,1.0,-0.020000000000000018,High-use,True,8
+9,Demario Davis,LB,64.0,0.97,0.98,-0.010000000000000009,High-use,True,9
+1,Harrison Phillips,DL,27.0,0.54,,,Regular,False,0
+2,Harrison Phillips,DL,32.0,0.54,0.54,0.0,Regular,False,0
+3,Harrison Phillips,DL,44.0,0.68,0.54,0.14,Regular,False,0
+4,Harrison Phillips,DL,52.0,0.56,0.68,-0.12,Regular,False,0
+5,Harrison Phillips,DL,29.0,0.43,0.56,-0.13000000000000006,Rotation,False,0
+6,Harrison Phillips,DL,37.0,0.54,0.43,0.11000000000000004,Regular,False,0
+7,Harrison Phillips,DL,46.0,0.71,0.54,0.16999999999999993,High-use,True,1
+8,Harrison Phillips,DL,38.0,0.6,0.71,-0.10999999999999999,Regular,False,1
+9,Harrison Phillips,DL,27.0,0.41,0.6,-0.19,Rotation,False,1
+3,Jack Heflin,DT,8.0,0.12,,,Spot / low,False,0
+4,Jack Heflin,DT,16.0,0.17,0.12,0.05000000000000002,Spot / low,False,0
+5,Jack Heflin,DT,3.0,0.04,0.17,-0.13,Spot / low,False,0
+8,Jack Heflin,DL,21.0,0.33,0.04,0.29000000000000004,Rotation,False,0
+9,Jack Heflin,DL,23.0,0.35,0.33,0.019999999999999962,Rotation,False,0
+1,Jamien Sherwood,LB,45.0,0.9,,,High-use,True,1
+2,Jamien Sherwood,LB,59.0,1.0,0.9,0.09999999999999998,High-use,True,2
+3,Jamien Sherwood,LB,61.0,0.94,1.0,-0.06000000000000005,High-use,True,3
+4,Jamien Sherwood,LB,87.0,0.94,0.94,0.0,High-use,True,4
+5,Jamien Sherwood,LB,68.0,1.0,0.94,0.06000000000000005,High-use,True,5
+6,Jamien Sherwood,LB,64.0,0.94,1.0,-0.06000000000000005,High-use,True,6
+7,Jamien Sherwood,LB,64.0,0.98,0.94,0.040000000000000036,High-use,True,7
+8,Jamien Sherwood,LB,63.0,1.0,0.98,0.020000000000000018,High-use,True,8
+9,Jamien Sherwood,LB,64.0,0.97,1.0,-0.030000000000000027,High-use,True,9
+1,Jarvis Brownlee,DB,38.0,0.76,,,High-use,True,1
+2,Jarvis Brownlee,DB,41.0,0.69,0.76,-0.07000000000000006,Regular,False,1
+3,Jarvis Brownlee,DB,34.0,0.52,0.69,-0.16999999999999993,Regular,False,1
+4,Jarvis Brownlee,DB,38.0,0.41,0.52,-0.11000000000000004,Rotation,False,1
+5,Jarvis Brownlee,DB,59.0,0.87,0.41,0.46,High-use,True,2
+6,Jarvis Brownlee,DB,37.0,0.54,0.87,-0.32999999999999996,Regular,False,2
+8,Jarvis Brownlee,DB,27.0,0.43,0.54,-0.11000000000000004,Rotation,False,2
+9,Jarvis Brownlee,DB,2.0,0.03,0.43,-0.4,Spot / low,False,2
+3,Joseph Ossai,DE,28.0,0.43,,,Rotation,False,0
+4,Joseph Ossai,DE,57.0,0.61,0.43,0.18,Regular,False,0
+5,Joseph Ossai,DE,22.0,0.32,0.61,-0.29,Rotation,False,0
+1,Jowon Briggs,DL,10.0,0.2,,,Spot / low,False,0
+2,Jowon Briggs,DL,35.0,0.59,0.2,0.38999999999999996,Regular,False,0
+3,Jowon Briggs,DL,45.0,0.69,0.59,0.09999999999999998,Regular,False,0
+4,Jowon Briggs,DL,56.0,0.6,0.69,-0.08999999999999997,Regular,False,0
+5,Jowon Briggs,DL,22.0,0.32,0.6,-0.27999999999999997,Rotation,False,0
+6,Jowon Briggs,DL,35.0,0.51,0.32,0.19,Regular,False,0
+7,Jowon Briggs,DL,48.0,0.74,0.51,0.22999999999999998,High-use,True,1
+8,Jowon Briggs,DL,49.0,0.78,0.74,0.040000000000000036,High-use,True,2
+9,Jowon Briggs,DL,39.0,0.59,0.78,-0.19000000000000006,Regular,False,2
+1,Kingsley Enagbare,DE,33.0,0.66,,,Regular,False,0
+2,Kingsley Enagbare,DE,40.0,0.68,0.66,0.020000000000000018,Regular,False,0
+3,Kingsley Enagbare,DE,38.0,0.58,0.68,-0.10000000000000009,Regular,False,0
+5,Kingsley Enagbare,DE,54.0,0.79,0.58,0.21000000000000008,High-use,True,1
+6,Kingsley Enagbare,DE,51.0,0.75,0.79,-0.040000000000000036,High-use,True,2
+7,Kingsley Enagbare,DE,44.0,0.68,0.75,-0.06999999999999995,Regular,False,2
+8,Kingsley Enagbare,DE,55.0,0.87,0.68,0.18999999999999995,High-use,True,3
+9,Kingsley Enagbare,DE,55.0,0.83,0.87,-0.040000000000000036,High-use,True,4
+1,Malachi Moore,DB,7.0,0.14,,,Spot / low,False,0
+2,Malachi Moore,DB,1.0,0.02,0.14,-0.12000000000000001,Spot / low,False,0
+9,Malachi Moore,DB,17.0,0.26,0.02,0.24000000000000002,Rotation,False,0
+1,Marcelino McCrary-Ball,LB,5.0,0.1,,,Spot / low,False,0
+1,Minkah Fitzpatrick,S,6.0,0.12,,,Spot / low,False,0
+4,Minkah Fitzpatrick,S,93.0,1.0,0.12,0.88,High-use,True,1
+5,Minkah Fitzpatrick,S,68.0,1.0,1.0,0.0,High-use,True,2
+6,Minkah Fitzpatrick,S,68.0,1.0,1.0,0.0,High-use,True,3
+7,Minkah Fitzpatrick,S,65.0,1.0,1.0,0.0,High-use,True,4
+8,Minkah Fitzpatrick,S,63.0,1.0,1.0,0.0,High-use,True,5
+9,Minkah Fitzpatrick,S,65.0,0.98,1.0,-0.020000000000000018,High-use,True,6
+6,Nate Lynn,DE,8.0,0.12,,,Spot / low,False,0
+7,Nate Lynn,DE,3.0,0.05,0.12,-0.06999999999999999,Spot / low,False,0
+8,Nate Lynn,DE,28.0,0.44,0.05,0.39,Rotation,False,0
+9,Nate Lynn,DE,12.0,0.18,0.44,-0.26,Spot / low,False,0
+8,Payton Page,DL,4.0,0.06,,,Spot / low,False,0
+9,Payton Page,DL,18.0,0.27,0.06,0.21000000000000002,Rotation,False,0
+8,Quinton Bell,DE,10.0,0.16,,,Spot / low,False,0
+7,Qwan'tez Stiggers,CB,1.0,0.02,,,Spot / low,False,0
+1,T'Vondre Sweat,DL,15.0,0.3,,,Rotation,False,0
+2,T'Vondre Sweat,DL,33.0,0.56,0.3,0.26000000000000006,Regular,False,0
+3,T'Vondre Sweat,DL,37.0,0.57,0.56,0.009999999999999898,Regular,False,0
+4,T'Vondre Sweat,DL,46.0,0.49,0.57,-0.07999999999999996,Rotation,False,0
+5,T'Vondre Sweat,DL,34.0,0.5,0.49,0.010000000000000009,Rotation,False,0
+6,T'Vondre Sweat,DL,42.0,0.62,0.5,0.12,Regular,False,0
+7,T'Vondre Sweat,DL,22.0,0.34,0.62,-0.27999999999999997,Rotation,False,0
+1,Will McDonald,DE,25.0,0.5,,,Rotation,False,0
+2,Will McDonald,DE,25.0,0.42,0.5,-0.08000000000000002,Rotation,False,0
+3,Will McDonald,DE,22.0,0.34,0.42,-0.07999999999999996,Rotation,False,0
+4,Will McDonald,DE,66.0,0.71,0.34,0.36999999999999994,High-use,True,1
+5,Will McDonald,DE,29.0,0.43,0.71,-0.27999999999999997,Rotation,False,1
+6,Will McDonald,DE,23.0,0.34,0.43,-0.08999999999999997,Rotation,False,1
+7,Will McDonald,DE,27.0,0.42,0.34,0.07999999999999996,Rotation,False,1
+8,Will McDonald,DE,36.0,0.57,0.42,0.14999999999999997,Regular,False,1
+9,Will McDonald,DE,24.0,0.36,0.57,-0.20999999999999996,Rotation,False,1

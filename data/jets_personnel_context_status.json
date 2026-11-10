@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-10T14:10:24.527191+00:00",
+  "generated_utc": "2026-11-10T14:14:36.643626+00:00",
   "weeks_with_snap_data": [
     1,
     2,
@@ -18,11 +18,15 @@
     "Secondary"
   ],
   "injury_rows": 80,
+  "defensive_injury_rows": 41,
+  "defensive_injury_snap_matches": 15,
   "limitations": [
     "PFR snap counts show player exposure by game, not the exact 11 defenders on each charted passing play.",
     "Weekly position-group snap shares are aggregate exposure and cannot establish which personnel were on the field for a given play.",
     "Injury report statuses are not treated as proof of game absence; actual snap counts are the better participation measure.",
-    "Week-level correlations are descriptive and have a very small sample; they are not causal player impact estimates.",
+    "Week-level relationships are descriptive and are not causal player-impact estimates.",
+    "Injury-to-snap reconciliation uses normalized names; unmatched injury entries are retained.",
+    "Zero recorded defensive snaps does not prove a player was inactive; the snap feed cannot distinguish inactivity from non-use.",
     "The current public FTN 2026 feed has no reliable play-level defender participation or coverage responsibility assignments."
   ]
 }
