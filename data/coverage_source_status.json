@@ -1,0 +1,105 @@
+{
+  "generated_utc": "2026-11-10T13:05:10.778494+00:00",
+  "team": "NYJ",
+  "seasons": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "source": "nflverse participation + nflverse play-by-play",
+  "coverage_labels": "directly charted defense_man_zone_type and defense_coverage_type; not inferred",
+  "available_seasons": [
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "joined_rows": 10537,
+  "labelled_man_zone_rows": 4673,
+  "labelled_shell_rows": 4673,
+  "season_status": [
+    {
+      "season": 2016,
+      "participation_rows": 48434,
+      "pbp_rows": 47651,
+      "jets_joined_rows": 976,
+      "status": "available"
+    },
+    {
+      "season": 2017,
+      "participation_rows": 47998,
+      "pbp_rows": 47245,
+      "jets_joined_rows": 1049,
+      "status": "available"
+    },
+    {
+      "season": 2018,
+      "participation_rows": 47875,
+      "pbp_rows": 47109,
+      "jets_joined_rows": 1047,
+      "status": "available"
+    },
+    {
+      "season": 2019,
+      "participation_rows": 48034,
+      "pbp_rows": 47260,
+      "jets_joined_rows": 1022,
+      "status": "available"
+    },
+    {
+      "season": 2020,
+      "participation_rows": 48513,
+      "pbp_rows": 47705,
+      "jets_joined_rows": 1057,
+      "status": "available"
+    },
+    {
+      "season": 2021,
+      "participation_rows": 50714,
+      "pbp_rows": 49922,
+      "jets_joined_rows": 1126,
+      "status": "available"
+    },
+    {
+      "season": 2022,
+      "participation_rows": 50150,
+      "pbp_rows": 49434,
+      "jets_joined_rows": 1078,
+      "status": "available"
+    },
+    {
+      "season": 2023,
+      "participation_rows": 46168,
+      "pbp_rows": 49665,
+      "jets_joined_rows": 1073,
+      "status": "available"
+    },
+    {
+      "season": 2024,
+      "participation_rows": 45919,
+      "pbp_rows": 49492,
+      "jets_joined_rows": 1056,
+      "status": "available"
+    },
+    {
+      "season": 2025,
+      "participation_rows": 45184,
+      "pbp_rows": 48771,
+      "jets_joined_rows": 1053,
+      "status": "available"
+    }
+  ]
+}
