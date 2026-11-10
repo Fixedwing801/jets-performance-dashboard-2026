@@ -1,0 +1,42 @@
+week,game_type,team,position,gsis_id,full_name,report_status,report_primary_injury,report_secondary_injury,practice_primary_injury,practice_secondary_injury,practice_status,name_key,player,defensive_snaps,defensive_snap_share,usage_band,recorded_game_snaps,snap_participation
+1,REG,NYJ,DE,00-0036902,Joseph Ossai,Out,Foot,,Foot,,Did Not Participate In Practice,josephossai,,,,,0.0,No recorded defensive snaps
+1,REG,NYJ,CB,00-0041038,D'Angelo Ponds,Doubtful,Calf,,Calf,,Limited Participation in Practice,dangeloponds,,,,,0.0,No recorded defensive snaps
+2,REG,NYJ,DT,00-0033051,David Onyemata,,,,Not injury related - resting player,,Full Participation in Practice,davidonyemata,David Onyemata,13.0,0.22,Spot / low,13.0,Played defensive snaps
+2,REG,NYJ,S,00-0034789,Minkah Fitzpatrick,Out,Groin,,Groin,,Did Not Participate In Practice,minkahfitzpatrick,,,,,0.0,No recorded defensive snaps
+2,REG,NYJ,LB,00-0036500,Jamien Sherwood,,,,Knee,,Full Participation in Practice,jamiensherwood,Jamien Sherwood,59.0,1.0,High-use,59.0,Played defensive snaps
+2,REG,NYJ,DE,00-0036902,Joseph Ossai,Out,Foot,,Foot,,Did Not Participate In Practice,josephossai,,,,,0.0,No recorded defensive snaps
+2,REG,NYJ,DE,00-0039142,Will McDonald IV,Questionable,Ankle,,Ankle,,Limited Participation in Practice,willmcdonald,Will McDonald,25.0,0.42,Rotation,25.0,Played defensive snaps
+2,REG,NYJ,CB,00-0039372,Jarvis Brownlee Jr.,,,,Shoulder,,Full Participation in Practice,jarvisbrownlee,Jarvis Brownlee,41.0,0.69,Regular,41.0,Played defensive snaps
+2,REG,NYJ,CB,00-0041038,D'Angelo Ponds,,,,Calf,,Full Participation in Practice,dangeloponds,,,,,0.0,No recorded defensive snaps
+3,REG,NYJ,S,00-0034789,Minkah Fitzpatrick,Out,Groin,,Groin,,Did Not Participate In Practice,minkahfitzpatrick,,,,,0.0,No recorded defensive snaps
+3,REG,NYJ,DE,00-0036902,Joseph Ossai,Questionable,Foot,,Foot,,Full Participation in Practice,josephossai,Joseph Ossai,28.0,0.43,Rotation,28.0,Played defensive snaps
+3,REG,NYJ,LB,00-0040186,Francisco Mauigoa,Out,Quadricep,,Quadricep,,Did Not Participate In Practice,franciscomauigoa,,,,,0.0,No recorded defensive snaps
+3,REG,NYJ,DE,00-0041026,David Bailey,,,,Elbow,,Full Participation in Practice,davidbailey,David Bailey,44.0,0.68,Regular,44.0,Played defensive snaps
+4,REG,NYJ,S,00-0034789,Minkah Fitzpatrick,,,,Groin,,Full Participation in Practice,minkahfitzpatrick,Minkah Fitzpatrick,93.0,1.0,High-use,93.0,Played defensive snaps
+4,REG,NYJ,DE,00-0037083,Kingsley Enagbare,Questionable,Knee,,Knee,,Limited Participation in Practice,kingsleyenagbare,,,,,0.0,No recorded defensive snaps
+4,REG,NYJ,LB,00-0040186,Francisco Mauigoa,Out,Quadricep,,Quadricep,,Did Not Participate In Practice,franciscomauigoa,,,,,0.0,No recorded defensive snaps
+5,REG,NYJ,DE,00-0037083,Kingsley Enagbare,Questionable,Knee,,Knee,,Full Participation in Practice,kingsleyenagbare,Kingsley Enagbare,54.0,0.79,High-use,54.0,Played defensive snaps
+5,REG,NYJ,DE,00-0039142,Will McDonald IV,Questionable,Calf,,Calf,,Limited Participation in Practice,willmcdonald,Will McDonald,29.0,0.43,Rotation,29.0,Played defensive snaps
+5,REG,NYJ,CB,00-0039372,Jarvis Brownlee Jr.,,,,Concussion,,Full Participation in Practice,jarvisbrownlee,Jarvis Brownlee,59.0,0.87,High-use,59.0,Played defensive snaps
+5,REG,NYJ,LB,00-0040186,Francisco Mauigoa,Out,Quadricep,,Quadricep,,Did Not Participate In Practice,franciscomauigoa,,,,,0.0,No recorded defensive snaps
+6,REG,NYJ,DE,00-0036902,Joseph Ossai,Out,Ankle,,Ankle,,Did Not Participate In Practice,josephossai,,,,,0.0,No recorded defensive snaps
+6,REG,NYJ,S,00-0038123,Dane Belton,Questionable,Knee,,Knee,,Full Participation in Practice,danebelton,Dane Belton,68.0,1.0,High-use,68.0,Played defensive snaps
+6,REG,NYJ,LB,00-0040186,Francisco Mauigoa,,,,Quadricep,,Full Participation in Practice,franciscomauigoa,,,,,0.0,No recorded defensive snaps
+7,REG,NYJ,LB,00-0029607,Demario Davis,,,,Not injury related - resting player,,Full Participation in Practice,demariodavis,Demario Davis,65.0,1.0,High-use,65.0,Played defensive snaps
+7,REG,NYJ,DT,00-0034782,Harrison Phillips,,,,Not injury related - resting player,,Full Participation in Practice,harrisonphillips,Harrison Phillips,46.0,0.71,High-use,46.0,Played defensive snaps
+7,REG,NYJ,DE,00-0036902,Joseph Ossai,Out,Ankle,,Ankle,,Did Not Participate In Practice,josephossai,,,,,0.0,No recorded defensive snaps
+7,REG,NYJ,DE,00-0039142,Will McDonald IV,,,,Toe,,Full Participation in Practice,willmcdonald,Will McDonald,27.0,0.42,Rotation,27.0,Played defensive snaps
+7,REG,NYJ,DT,00-0039886,T'Vondre Sweat,,,,Elbow,,Full Participation in Practice,tvondresweat,T'Vondre Sweat,22.0,0.34,Rotation,22.0,Played defensive snaps
+7,REG,NYJ,LB,00-0040186,Francisco Mauigoa,Out,Quadricep,,Quadricep,,Did Not Participate In Practice,franciscomauigoa,,,,,0.0,No recorded defensive snaps
+8,REG,NYJ,LB,00-0029607,Demario Davis,,,,Not injury related - resting player,,Full Participation in Practice,demariodavis,Demario Davis,62.0,0.98,High-use,62.0,Played defensive snaps
+8,REG,NYJ,DT,00-0034782,Harrison Phillips,,,,Not injury related - resting player,,Full Participation in Practice,harrisonphillips,Harrison Phillips,38.0,0.6,Regular,38.0,Played defensive snaps
+8,REG,NYJ,DE,00-0036902,Joseph Ossai,Out,Ankle,,Ankle,,Did Not Participate In Practice,josephossai,,,,,0.0,No recorded defensive snaps
+8,REG,NYJ,DT,00-0039886,T'Vondre Sweat,Out,Knee,,Knee,,Did Not Participate In Practice,tvondresweat,,,,,0.0,No recorded defensive snaps
+8,REG,NYJ,DE,00-0041026,David Bailey,Doubtful,Groin,,Groin,,Did Not Participate In Practice,davidbailey,,,,,0.0,No recorded defensive snaps
+9,REG,NYJ,LB,00-0029607,Demario Davis,,,,Not injury related - resting player,,Full Participation in Practice,demariodavis,Demario Davis,64.0,0.97,High-use,64.0,Played defensive snaps
+9,REG,NYJ,DT,00-0034782,Harrison Phillips,Questionable,Ankle,,Ankle,,Full Participation in Practice,harrisonphillips,Harrison Phillips,27.0,0.41,Rotation,27.0,Played defensive snaps
+9,REG,NYJ,DE,00-0036902,Joseph Ossai,Out,Ankle,,Ankle,,Limited Participation in Practice,josephossai,,,,,0.0,No recorded defensive snaps
+9,REG,NYJ,CB,00-0036986,Nahshon Wright,Out,Back,,Back,,Did Not Participate In Practice,nahshonwright,,,,,0.0,No recorded defensive snaps
+9,REG,NYJ,LB,00-0039347,Trevin Wallace,Out,Groin,,Groin,,Did Not Participate In Practice,trevinwallace,,,,,0.0,No recorded defensive snaps
+9,REG,NYJ,DE,00-0041026,David Bailey,,,,Groin,,Full Participation in Practice,davidbailey,David Bailey,52.0,0.79,High-use,52.0,Played defensive snaps
+9,REG,NYJ,S,00-0041120,VJ Payne,Out,Knee,,Knee,,Full Participation in Practice,vjpayne,,,,,0.0,No recorded defensive snaps

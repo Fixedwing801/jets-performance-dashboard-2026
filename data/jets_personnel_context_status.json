@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-10T14:14:36.643626+00:00",
+  "generated_utc": "2026-11-10T14:15:36.980867+00:00",
   "weeks_with_snap_data": [
     1,
     2,
@@ -19,7 +19,7 @@
   ],
   "injury_rows": 80,
   "defensive_injury_rows": 41,
-  "defensive_injury_snap_matches": 15,
+  "defensive_injury_snap_matches": 20,
   "limitations": [
     "PFR snap counts show player exposure by game, not the exact 11 defenders on each charted passing play.",
     "Weekly position-group snap shares are aggregate exposure and cannot establish which personnel were on the field for a given play.",
