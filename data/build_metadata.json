@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-10T20:35:47.148107+00:00",
+  "generated_utc": "2026-11-10T20:37:17.784363+00:00",
   "source_rows": 23822,
   "jets_game_side_rows": 18,
   "weeks": [
@@ -41,5 +41,5 @@
       "ftn_charting_2026.parquet": "available"
     }
   },
-  "source_status_generated_utc": "2026-11-10T20:35:40.565983+00:00"
+  "source_status_generated_utc": "2026-11-10T20:37:10.847440+00:00"
 }
