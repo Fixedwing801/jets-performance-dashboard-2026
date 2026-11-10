@@ -1,7 +1,7 @@
 {
   "source": "Sharp Football Analysis public coverage-schemes table",
   "url": "https://www.sharpfootballanalysis.com/stats-nfl/nfl-coverage-schemes/",
-  "retrieved_utc": "2026-11-10T17:48:41.288938+00:00",
+  "retrieved_utc": "2026-11-10T17:50:51.734375+00:00",
   "status": "available",
   "fields": [
     "team",
@@ -16,12 +16,12 @@
   ],
   "team_row": {
     "team": "NYJ",
-    "man rate": "26.1",
-    "zone rate": "63.9",
-    "middle closed rate": "45.8",
-    "middle open rate": "48.7",
+    "man rate": "27.7",
+    "zone rate": "62.9",
+    "middle closed rate": "47.1",
+    "middle open rate": "47.8",
     "source_url": "https://www.sharpfootballanalysis.com/stats-nfl/nfl-coverage-schemes/",
-    "retrieved_utc": "2026-11-10T17:48:41.288938+00:00",
+    "retrieved_utc": "2026-11-10T17:50:51.734375+00:00",
     "source_updated_date": "See source page; captured from publicly displayed table",
     "data_granularity": "published team aggregate; not play-level labels"
   }
