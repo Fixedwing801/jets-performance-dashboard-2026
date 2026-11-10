@@ -1,0 +1,54 @@
+{
+  "generated_utc": "2026-11-10T12:24:12.851768+00:00",
+  "pipeline": "Jets Performance Lab",
+  "sources": {
+    "snap_counts.csv": {
+      "url": "https://github.com/nflverse/nflverse-data/releases/download/snap_counts/snap_counts.csv",
+      "purpose": "Player participation and snap share",
+      "status": "unavailable",
+      "checked_utc": "2026-11-10T12:24:12.851844+00:00",
+      "error": "404 Client Error: Not Found for url: https://github.com/nflverse/nflverse-data/releases/download/snap_counts/snap_counts.csv",
+      "last_successful_utc": null,
+      "last_known_bytes": null
+    },
+    "roster_weekly.csv": {
+      "url": "https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly.csv",
+      "purpose": "Weekly player roster and position context",
+      "status": "unavailable",
+      "checked_utc": "2026-11-10T12:24:12.995059+00:00",
+      "error": "404 Client Error: Not Found for url: https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly.csv",
+      "last_successful_utc": null,
+      "last_known_bytes": null
+    },
+    "player_stats.csv": {
+      "url": "https://github.com/nflverse/nflverse-data/releases/download/player_stats/player_stats.csv",
+      "purpose": "Supplementary player production",
+      "status": "available",
+      "checked_utc": "2026-11-10T12:24:13.124914+00:00",
+      "last_successful_utc": "2026-11-10T12:24:13.124914+00:00",
+      "bytes": 33447747,
+      "columns": 53,
+      "row_count_estimate": 134470,
+      "last_modified": "Wed, 07 May 2025 08:13:09 GMT",
+      "etag": "\"0x8DD8D3F00CA2441\""
+    },
+    "injuries.csv": {
+      "url": "https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries.csv",
+      "purpose": "Injury and practice availability",
+      "status": "unavailable",
+      "checked_utc": "2026-11-10T12:24:13.488496+00:00",
+      "error": "404 Client Error: Not Found for url: https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries.csv",
+      "last_successful_utc": null,
+      "last_known_bytes": null
+    },
+    "ftn_charting_2026.csv": {
+      "url": "https://github.com/nflverse/nflverse-data/releases/download/ftn_charting/ftn_charting_2026.csv",
+      "purpose": "Charted formations, personnel and coverage where licensed and supplied",
+      "status": "unavailable",
+      "checked_utc": "2026-11-10T12:24:13.624252+00:00",
+      "error": "unexpected schema; required one of each column group: [['game_id'], ['play_id']]",
+      "last_successful_utc": null,
+      "last_known_bytes": null
+    }
+  }
+}
