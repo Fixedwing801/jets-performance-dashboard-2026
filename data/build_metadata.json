@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-11T18:51:49.216071+00:00",
+  "generated_utc": "2026-11-11T19:27:55.514810+00:00",
   "source_rows": 23822,
   "jets_game_side_rows": 18,
   "weeks": [
@@ -31,6 +31,7 @@
     "missing_epa_rows": 272,
     "duplicate_game_play_keys": 0,
     "source_status": {
+      "play_by_play_2026.csv.gz": "available",
       "snap_counts_2026.parquet": "available",
       "roster_weekly_2026.parquet": "available",
       "stats_player_week_2026.parquet": "available",
@@ -38,8 +39,12 @@
       "ngs_passing.parquet": "available",
       "ngs_receiving.parquet": "available",
       "ngs_rushing.parquet": "available",
-      "ftn_charting_2026.parquet": "available"
+      "ftn_charting_2026.parquet": "available",
+      "pfr_advstats_week_pass_2026.parquet": "available",
+      "pfr_advstats_week_rush_2026.parquet": "available",
+      "pfr_advstats_week_rec_2026.parquet": "available",
+      "pfr_advstats_week_def_2026.parquet": "available"
     }
   },
-  "source_status_generated_utc": "2026-11-11T18:51:43.273333+00:00"
+  "source_status_generated_utc": "2026-11-11T19:27:50.784825+00:00"
 }
