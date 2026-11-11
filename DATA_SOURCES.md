@@ -12,6 +12,7 @@
 - NFL Next Gen Stats: quarterback, receiving and rushing tracking metrics, including separation/cushion and yards over expected where published.
 - FTN charting via nflverse: charted personnel, formations, motion, play action, pressure and coverage fields when released.
 - PFR weekly advanced statistics: passing, rushing, receiving and defensive player-level context.
+- ESPN Total QBR: a separate quarterback metric for context alongside passer rating, EPA and tracking data.
 
 ## Availability and update cadence
 The pipeline checks these releases every six hours during the NFL season. Upstream feeds have different publication schedules: cleaned PBP is updated after game days and may receive midweek corrections; FTN charting and PFR snap/advanced-stat feeds are polled several times daily; NGS, rosters and injuries generally update daily. The dashboard cannot show a feed before its provider publishes it.
