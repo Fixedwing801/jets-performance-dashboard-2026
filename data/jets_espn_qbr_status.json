@@ -1,0 +1,23 @@
+{
+  "generated_utc": "2026-11-11T19:30:24.929454+00:00",
+  "source": "ESPN Total QBR via nflverse/espnscrapeR",
+  "status": "available",
+  "rows": 8,
+  "columns": [
+    "season",
+    "game_week",
+    "team_abb",
+    "name_display",
+    "name_short",
+    "rank",
+    "qbr_total",
+    "qbr_raw",
+    "epa_total",
+    "qb_plays",
+    "pass",
+    "run",
+    "exp_sack",
+    "penalty",
+    "qualified"
+  ]
+}

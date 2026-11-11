@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-11T19:29:09.861024+00:00",
+  "generated_utc": "2026-11-11T19:30:06.681989+00:00",
   "source_rows": 23822,
   "jets_game_side_rows": 18,
   "weeks": [
@@ -43,8 +43,9 @@
       "pfr_advstats_week_pass_2026.parquet": "available",
       "pfr_advstats_week_rush_2026.parquet": "available",
       "pfr_advstats_week_rec_2026.parquet": "available",
-      "pfr_advstats_week_def_2026.parquet": "available"
+      "pfr_advstats_week_def_2026.parquet": "available",
+      "espn_qbr_week_level.parquet": "available"
     }
   },
-  "source_status_generated_utc": "2026-11-11T19:29:05.543387+00:00"
+  "source_status_generated_utc": "2026-11-11T19:30:03.063557+00:00"
 }
