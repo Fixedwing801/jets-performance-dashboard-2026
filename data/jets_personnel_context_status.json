@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-12T01:59:33.673067+00:00",
+  "generated_utc": "2026-11-12T07:07:16.999915+00:00",
   "weeks_with_snap_data": [
     1,
     2,
@@ -17,8 +17,8 @@
     "Linebacker",
     "Secondary"
   ],
-  "injury_rows": 80,
-  "defensive_injury_rows": 41,
+  "injury_rows": 87,
+  "defensive_injury_rows": 46,
   "defensive_injury_snap_matches": 20,
   "limitations": [
     "PFR snap counts show player exposure by game, not the exact 11 defenders on each charted passing play.",
