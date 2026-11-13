@@ -135,3 +135,4 @@ game_id,game_date,week,season,stadium,game_stadium,roof,temp,wind,home_team,away
 2026_09_NYG_PHI,2026-11-08,9,2026,Lincoln Financial Field,Lincoln Financial Field,outdoors,,,PHI,NYG,NYG,PHI,,,,,,
 2026_09_NYJ_KC,2026-11-08,9,2026,Arrowhead Stadium,GEHA Field at Arrowhead Stadium,outdoors,,,KC,NYJ,NYJ,KC,,,62.0,-0.3018711145667908,64.0,0.16629074333604862
 2026_09_TB_CHI,2026-11-08,9,2026,Soldier Field,Soldier Field,outdoors,,,CHI,TB,CHI,TB,,,,,,
+2026_10_WAS_NYG,2026-11-12,10,2026,MetLife Stadium,MetLife Stadium,outdoors,,,NYG,WAS,NYG,WAS,,,,,,

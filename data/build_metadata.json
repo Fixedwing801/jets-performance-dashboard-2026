@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-11-13T00:58:12.787458+00:00",
-  "source_rows": 23822,
+  "generated_utc": "2026-11-13T07:06:19.236612+00:00",
+  "source_rows": 24002,
   "jets_game_side_rows": 18,
   "weeks": [
     1,
@@ -11,11 +11,12 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "quality": {
-    "source_rows": 23822,
-    "eligible_scrimmage_plays": 16737,
+    "source_rows": 24002,
+    "eligible_scrimmage_plays": 16864,
     "jets_game_side_rows": 18,
     "weeks_present": [
       1,
@@ -26,9 +27,10 @@
       6,
       7,
       8,
-      9
+      9,
+      10
     ],
-    "missing_epa_rows": 272,
+    "missing_epa_rows": 274,
     "duplicate_game_play_keys": 0,
     "source_status": {
       "play_by_play_2026.csv.gz": "available",
@@ -47,5 +49,5 @@
       "espn_qbr_week_level.parquet": "available"
     }
   },
-  "source_status_generated_utc": "2026-11-13T00:58:07.295172+00:00"
+  "source_status_generated_utc": "2026-11-13T07:06:12.181070+00:00"
 }

@@ -1,16 +1,14 @@
 {
-  "generated_utc": "2026-11-13T00:58:07.295172+00:00",
+  "generated_utc": "2026-11-13T07:06:12.181070+00:00",
   "pipeline": "Jets Performance Lab",
   "sources": {
     "play_by_play_2026.csv.gz": {
       "url": "https://github.com/nflverse/nflverse-data/releases/download/pbp/play_by_play_2026.csv.gz",
-      "checked_utc": "2026-11-13T00:58:07.295374+00:00",
+      "checked_utc": "2026-11-13T07:06:12.181240+00:00",
       "status": "available",
-      "unchanged": true,
-      "last_successful_utc": "2026-11-12T18:50:32.786603+00:00",
-      "bytes": 9346348,
-      "last_modified": "Thu, 12 Nov 2026 17:34:25 GMT",
-      "etag": "\"0x8DF40E3325A84B4\"",
+      "unchanged": false,
+      "last_successful_utc": "2026-11-13T07:06:12.181240+00:00",
+      "bytes": 9416763,
       "columns": [
         "play_id",
         "game_id",
@@ -385,11 +383,13 @@
         "xpass",
         "pass_oe"
       ],
-      "row_count_estimate": null
+      "row_count_estimate": null,
+      "last_modified": "Fri, 13 Nov 2026 05:33:52 GMT",
+      "etag": "\"0x8DF4147B3CAF167\""
     },
     "snap_counts_2026.parquet": {
       "url": "https://github.com/nflverse/nflverse-data/releases/download/snap_counts/snap_counts_2026.parquet",
-      "checked_utc": "2026-11-13T00:58:07.539519+00:00",
+      "checked_utc": "2026-11-13T07:06:12.555019+00:00",
       "status": "available",
       "unchanged": true,
       "last_successful_utc": "2026-11-11T19:30:55.498553+00:00",
@@ -419,13 +419,11 @@
     },
     "roster_weekly_2026.parquet": {
       "url": "https://github.com/nflverse/nflverse-data/releases/download/weekly_rosters/roster_weekly_2026.parquet",
-      "checked_utc": "2026-11-13T00:58:07.648303+00:00",
+      "checked_utc": "2026-11-13T07:06:12.628150+00:00",
       "status": "available",
-      "unchanged": true,
-      "last_successful_utc": "2026-11-12T18:50:33.274198+00:00",
-      "bytes": 818687,
-      "last_modified": "Thu, 12 Nov 2026 15:58:36 GMT",
-      "etag": "\"0x8DF40D5CFD3E4A8\"",
+      "unchanged": false,
+      "last_successful_utc": "2026-11-13T07:06:12.628150+00:00",
+      "bytes": 818507,
       "columns": [
         "season",
         "team",
@@ -464,18 +462,18 @@
         "draft_club",
         "draft_number"
       ],
-      "row_count_estimate": 24549,
+      "row_count_estimate": 24561,
+      "last_modified": "Fri, 13 Nov 2026 07:03:56 GMT",
+      "etag": "\"0x8DF4154491A941E\"",
       "purpose": "Weekly roster, position and stable player-ID crosswalk"
     },
     "stats_player_week_2026.parquet": {
       "url": "https://github.com/nflverse/nflverse-data/releases/download/stats_player/stats_player_week_2026.parquet",
-      "checked_utc": "2026-11-13T00:58:07.755585+00:00",
+      "checked_utc": "2026-11-13T07:06:12.640947+00:00",
       "status": "available",
-      "unchanged": true,
-      "last_successful_utc": "2026-11-12T18:50:33.449056+00:00",
-      "bytes": 497666,
-      "last_modified": "Thu, 12 Nov 2026 17:36:33 GMT",
-      "etag": "\"0x8DF40E37E5E0F05\"",
+      "unchanged": false,
+      "last_successful_utc": "2026-11-13T07:06:12.640947+00:00",
+      "bytes": 499988,
       "columns": [
         "player_id",
         "player_name",
@@ -628,18 +626,18 @@
         "fantasy_points",
         "fantasy_points_ppr"
       ],
-      "row_count_estimate": 9464,
+      "row_count_estimate": 9534,
+      "last_modified": "Fri, 13 Nov 2026 05:35:35 GMT",
+      "etag": "\"0x8DF4147F0FCBD12\"",
       "purpose": "Weekly player production and opportunity"
     },
     "injuries_2026.parquet": {
       "url": "https://github.com/nflverse/nflverse-data/releases/download/injuries/injuries_2026.parquet",
-      "checked_utc": "2026-11-13T00:58:07.865896+00:00",
+      "checked_utc": "2026-11-13T07:06:12.722329+00:00",
       "status": "available",
-      "unchanged": true,
-      "last_successful_utc": "2026-11-12T18:50:33.602016+00:00",
-      "bytes": 64510,
-      "last_modified": "Thu, 12 Nov 2026 15:56:22 GMT",
-      "etag": "\"0x8DF40D57F9DA768\"",
+      "unchanged": false,
+      "last_successful_utc": "2026-11-13T07:06:12.722329+00:00",
+      "bytes": 64823,
       "columns": [
         "season",
         "season_type",
@@ -658,12 +656,14 @@
         "practice_secondary_injury",
         "practice_status"
       ],
-      "row_count_estimate": 3097,
+      "row_count_estimate": 3117,
+      "last_modified": "Fri, 13 Nov 2026 07:01:40 GMT",
+      "etag": "\"0x8DF4153F7C420C3\"",
       "purpose": "Weekly injury and practice availability"
     },
     "ngs_passing.parquet": {
       "url": "https://github.com/nflverse/nflverse-data/releases/download/nextgen_stats/ngs_passing.parquet",
-      "checked_utc": "2026-11-13T00:58:07.970966+00:00",
+      "checked_utc": "2026-11-13T07:06:12.802124+00:00",
       "status": "available",
       "unchanged": true,
       "last_successful_utc": "2026-11-12T18:50:33.782813+00:00",
@@ -706,7 +706,7 @@
     },
     "ngs_receiving.parquet": {
       "url": "https://github.com/nflverse/nflverse-data/releases/download/nextgen_stats/ngs_receiving.parquet",
-      "checked_utc": "2026-11-13T00:58:08.080785+00:00",
+      "checked_utc": "2026-11-13T07:06:12.874442+00:00",
       "status": "available",
       "unchanged": true,
       "last_successful_utc": "2026-11-12T18:50:33.955702+00:00",
@@ -743,7 +743,7 @@
     },
     "ngs_rushing.parquet": {
       "url": "https://github.com/nflverse/nflverse-data/releases/download/nextgen_stats/ngs_rushing.parquet",
-      "checked_utc": "2026-11-13T00:58:08.190818+00:00",
+      "checked_utc": "2026-11-13T07:06:12.940910+00:00",
       "status": "available",
       "unchanged": true,
       "last_successful_utc": "2026-11-12T18:50:34.237083+00:00",
@@ -779,7 +779,7 @@
     },
     "ftn_charting_2026.parquet": {
       "url": "https://github.com/nflverse/nflverse-data/releases/download/ftn_charting/ftn_charting_2026.parquet",
-      "checked_utc": "2026-11-13T00:58:08.305769+00:00",
+      "checked_utc": "2026-11-13T07:06:13.009578+00:00",
       "status": "available",
       "unchanged": true,
       "last_successful_utc": "2026-11-12T01:38:39.961538+00:00",
@@ -822,7 +822,7 @@
     },
     "pfr_advstats_week_pass_2026.parquet": {
       "url": "https://github.com/nflverse/nflverse-data/releases/download/pfr_advstats/advstats_week_pass_2026.parquet",
-      "checked_utc": "2026-11-13T00:58:08.421763+00:00",
+      "checked_utc": "2026-11-13T07:06:13.082679+00:00",
       "status": "available",
       "unchanged": true,
       "last_successful_utc": "2026-11-12T13:00:45.526243+00:00",
@@ -860,7 +860,7 @@
     },
     "pfr_advstats_week_rush_2026.parquet": {
       "url": "https://github.com/nflverse/nflverse-data/releases/download/pfr_advstats/advstats_week_rush_2026.parquet",
-      "checked_utc": "2026-11-13T00:58:08.562849+00:00",
+      "checked_utc": "2026-11-13T07:06:13.141034+00:00",
       "status": "available",
       "unchanged": true,
       "last_successful_utc": "2026-11-12T13:00:45.680963+00:00",
@@ -890,7 +890,7 @@
     },
     "pfr_advstats_week_rec_2026.parquet": {
       "url": "https://github.com/nflverse/nflverse-data/releases/download/pfr_advstats/advstats_week_rec_2026.parquet",
-      "checked_utc": "2026-11-13T00:58:08.684849+00:00",
+      "checked_utc": "2026-11-13T07:06:13.215283+00:00",
       "status": "available",
       "unchanged": true,
       "last_successful_utc": "2026-11-12T13:00:45.829775+00:00",
@@ -921,7 +921,7 @@
     },
     "pfr_advstats_week_def_2026.parquet": {
       "url": "https://github.com/nflverse/nflverse-data/releases/download/pfr_advstats/advstats_week_def_2026.parquet",
-      "checked_utc": "2026-11-13T00:58:08.800078+00:00",
+      "checked_utc": "2026-11-13T07:06:13.278950+00:00",
       "status": "available",
       "unchanged": true,
       "last_successful_utc": "2026-11-12T13:00:45.967494+00:00",
@@ -964,7 +964,7 @@
     },
     "espn_qbr_week_level.parquet": {
       "url": "https://github.com/nflverse/nflverse-data/releases/download/espn_data/qbr_week_level.parquet",
-      "checked_utc": "2026-11-13T00:58:08.945062+00:00",
+      "checked_utc": "2026-11-13T07:06:13.347091+00:00",
       "status": "available",
       "unchanged": true,
       "last_successful_utc": "2026-11-12T18:50:35.295775+00:00",
