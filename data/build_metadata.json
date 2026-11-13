@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-13T09:14:30.660284+00:00",
+  "generated_utc": "2026-11-13T09:15:35.722771+00:00",
   "source_rows": 24002,
   "jets_game_side_rows": 18,
   "weeks": [
@@ -55,5 +55,5 @@
       "espn_qbr_week_level.parquet": "available"
     }
   },
-  "source_status_generated_utc": "2026-11-13T09:14:24.137632+00:00"
+  "source_status_generated_utc": "2026-11-13T09:15:29.499134+00:00"
 }
