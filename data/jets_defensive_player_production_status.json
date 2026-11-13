@@ -1,9 +1,12 @@
 {
-  "generated_utc": "2026-11-13T08:20:46.706221+00:00",
+  "generated_utc": "2026-11-13T08:23:12.398232+00:00",
   "snap_player_week_rows": 159,
-  "matched_player_week_rows": 140,
-  "unmatched_player_week_rows": 19,
-  "match_rate": 0.8805031446540881,
+  "matched_player_week_rows": 159,
+  "unmatched_player_week_rows": 0,
+  "match_rate": 1.0,
+  "weekly_stat_record_rows": 140,
+  "no_weekly_stat_record_rows": 19,
+  "weekly_stat_record_rate": 0.8805031446540881,
   "weeks": [
     1,
     2,
@@ -20,6 +23,7 @@
     "QB hits and sacks are recorded outcomes; they do not capture every pressure or pass-rush win.",
     "Rates per 100 defensive snaps are descriptive workload normalizations, not causal or position-adjusted player grades.",
     "Tackles and passes defended depend on role, opponent play volume and opportunity; comparisons across positions are not direct quality rankings.",
-    "Weekly GSIS player IDs are used for the primary snap-to-stat join; records without a usable ID remain unmatched and are counted in status."
+    "Weekly GSIS player IDs are used for the primary snap-to-stat join; unique exact player-name matches are used only where a snap ID is missing.",
+    "A resolved snap record can have no weekly box-score row; this is distinguished from an unresolved identity and does not imply inactivity."
   ]
 }
