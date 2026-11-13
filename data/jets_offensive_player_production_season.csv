@@ -1,7 +1,7 @@
 player,position,position_group,player_id,games,offense_snaps,avg_snap_share,completions,pass_attempts,passing_yards,passing_tds,passing_interceptions,sacks_suffered,passing_epa,carries,rushing_yards,rushing_tds,receptions,targets,receiving_yards,receiving_tds,receiving_epa,fumbles_lost,matched_weeks,stats_record_weeks,total_yards,total_tds,touches,yards_per_touch,yards_per_100_snaps,touches_per_100_snaps,targets_per_100_snaps,passing_epa_per_attempt,receiving_yards_per_target
 Joe Tippmann,C,OL,00-0039145,9,557.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9,3,0.0,0.0,0.0,,0.0,0.0,0.0,,
 Josh Myers,C,OL,00-0036622,9,557.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9,2,0.0,0.0,0.0,,0.0,0.0,0.0,,
-Olu Fashanu,OL,OL,,9,557.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,,0.0,0.0,0.0,,
+Olu Fashanu,OL,OL,00-0039790,9,557.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9,4,0.0,0.0,0.0,,0.0,0.0,0.0,,
 Armand Membou,T,OL,00-0040123,9,556.0,0.9966666666666667,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9,2,0.0,0.0,0.0,,0.0,0.0,0.0,,
 Dylan Parham,OL,OL,00-0037255,5,306.0,0.916,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5,1,0.0,0.0,0.0,,0.0,0.0,0.0,,
 Jordan Meredith,OL,OL,00-0036604,5,251.0,0.884,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5,1,0.0,0.0,0.0,,0.0,0.0,0.0,,
