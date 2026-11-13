@@ -2,7 +2,7 @@ pfr_player_id,player,position,week,offense_snaps,offense_pct,defense_snaps,defen
 MembAr00,Armand Membou,T,1,67.0,1.0,0.0,0.0,6.0,0.22,,00-0040123,
 TippJo00,Joe Tippmann,C,1,67.0,1.0,0.0,0.0,6.0,0.22,,00-0039145,
 ParhDy00,Dylan Parham,OL,1,67.0,1.0,0.0,0.0,6.0,0.22,,00-0037255,
-FashOl00,Olu Fashanu,OL,1,67.0,1.0,0.0,0.0,6.0,0.22,,00-0039790,
+FashOl00,Olu Fashanu,OL,1,67.0,1.0,0.0,0.0,6.0,0.22,,,
 SmitGe00,Geno Smith,QB,1,67.0,1.0,0.0,0.0,0.0,0.0,SmitGe00,00-0030565,Geno Smith
 MyerJo00,Josh Myers,C,1,67.0,1.0,0.0,0.0,0.0,0.0,,00-0036622,
 WilsGa00,Garrett Wilson,WR,1,50.0,0.75,0.0,0.0,1.0,0.04,WilsGa00,00-0037740,Garrett Wilson
@@ -48,7 +48,7 @@ MitcMa02,Max Mitchell,OL,1,0.0,0.0,0.0,0.0,6.0,0.22,,00-0038114,
 MembAr00,Armand Membou,T,2,74.0,1.0,0.0,0.0,3.0,0.1,,00-0040123,
 ParhDy00,Dylan Parham,OL,2,74.0,1.0,0.0,0.0,3.0,0.1,,00-0037255,
 TippJo00,Joe Tippmann,C,2,74.0,1.0,0.0,0.0,3.0,0.1,,00-0039145,
-FashOl00,Olu Fashanu,OL,2,74.0,1.0,0.0,0.0,3.0,0.1,,00-0039790,
+FashOl00,Olu Fashanu,OL,2,74.0,1.0,0.0,0.0,3.0,0.1,,,
 MyerJo00,Josh Myers,C,2,74.0,1.0,0.0,0.0,0.0,0.0,,00-0036622,
 SmitGe00,Geno Smith,QB,2,74.0,1.0,0.0,0.0,0.0,0.0,SmitGe00,00-0030565,Geno Smith
 WilsGa00,Garrett Wilson,WR,2,65.0,0.88,0.0,0.0,0.0,0.0,WilsGa00,00-0037740,Garrett Wilson
@@ -92,7 +92,7 @@ WrigNa00,Nahshon Wright,DB,2,0.0,0.0,0.0,0.0,6.0,0.21,WrigNa00,00-0036986,Nahsho
 OkorCh00,Chukwuma Okorafor,OL,2,0.0,0.0,0.0,0.0,3.0,0.1,,00-0034768,
 MitcMa02,Max Mitchell,OL,2,0.0,0.0,0.0,0.0,3.0,0.1,,00-0038114,
 MembAr00,Armand Membou,T,3,66.0,1.0,0.0,0.0,2.0,0.09,,00-0040123,
-FashOl00,Olu Fashanu,OL,3,66.0,1.0,0.0,0.0,2.0,0.09,,00-0039790,
+FashOl00,Olu Fashanu,OL,3,66.0,1.0,0.0,0.0,2.0,0.09,,,
 TippJo00,Joe Tippmann,C,3,66.0,1.0,0.0,0.0,2.0,0.09,,00-0039145,
 MyerJo00,Josh Myers,C,3,66.0,1.0,0.0,0.0,1.0,0.04,,00-0036622,
 SmitGe00,Geno Smith,QB,3,66.0,1.0,0.0,0.0,0.0,0.0,SmitGe00,00-0030565,Geno Smith
@@ -140,7 +140,7 @@ PritJa00,Jamaal Pritchett,WR,3,0.0,0.0,0.0,0.0,3.0,0.13,PritJa00,00-0040405,Jama
 OkorCh00,Chukwuma Okorafor,OL,3,0.0,0.0,0.0,0.0,2.0,0.09,,00-0034768,
 MyerJo00,Josh Myers,C,4,32.0,1.0,0.0,0.0,3.0,0.13,,00-0036622,
 TippJo00,Joe Tippmann,C,4,32.0,1.0,0.0,0.0,3.0,0.13,,00-0039145,
-FashOl00,Olu Fashanu,OL,4,32.0,1.0,0.0,0.0,3.0,0.13,,00-0039790,
+FashOl00,Olu Fashanu,OL,4,32.0,1.0,0.0,0.0,3.0,0.13,,,
 MereJo00,Jordan Meredith,OL,4,32.0,1.0,0.0,0.0,0.0,0.0,,00-0036604,
 WilsGa00,Garrett Wilson,WR,4,32.0,1.0,0.0,0.0,0.0,0.0,WilsGa00,00-0037740,Garrett Wilson
 SmitGe00,Geno Smith,QB,4,32.0,1.0,0.0,0.0,0.0,0.0,SmitGe00,00-0030565,Geno Smith
@@ -187,7 +187,7 @@ MitcMa02,Max Mitchell,OL,4,0.0,0.0,0.0,0.0,3.0,0.13,,00-0038114,
 TippJo00,Joe Tippmann,C,5,70.0,1.0,0.0,0.0,3.0,0.1,,00-0039145,
 MyerJo00,Josh Myers,C,5,70.0,1.0,0.0,0.0,3.0,0.1,,00-0036622,
 MembAr00,Armand Membou,T,5,70.0,1.0,0.0,0.0,3.0,0.1,,00-0040123,
-FashOl00,Olu Fashanu,OL,5,70.0,1.0,0.0,0.0,3.0,0.1,,00-0039790,
+FashOl00,Olu Fashanu,OL,5,70.0,1.0,0.0,0.0,3.0,0.1,,,
 MereJo00,Jordan Meredith,OL,5,70.0,1.0,0.0,0.0,0.0,0.0,,00-0036604,
 SmitGe00,Geno Smith,QB,5,70.0,1.0,0.0,0.0,0.0,0.0,SmitGe00,00-0030565,Geno Smith
 WilsGa00,Garrett Wilson,WR,5,65.0,0.93,0.0,0.0,0.0,0.0,WilsGa00,00-0037740,Garrett Wilson
@@ -233,7 +233,7 @@ MitcMa02,Max Mitchell,OL,5,0.0,0.0,0.0,0.0,3.0,0.1,,00-0038114,
 OkorCh00,Chukwuma Okorafor,OL,5,0.0,0.0,0.0,0.0,3.0,0.1,,00-0034768,
 TippJo00,Joe Tippmann,C,6,62.0,1.0,0.0,0.0,5.0,0.19,,00-0039145,
 MyerJo00,Josh Myers,C,6,62.0,1.0,0.0,0.0,5.0,0.19,,00-0036622,
-FashOl00,Olu Fashanu,OL,6,62.0,1.0,0.0,0.0,5.0,0.19,,00-0039790,
+FashOl00,Olu Fashanu,OL,6,62.0,1.0,0.0,0.0,5.0,0.19,,,
 MembAr00,Armand Membou,T,6,62.0,1.0,0.0,0.0,5.0,0.19,,00-0040123,
 SmitGe00,Geno Smith,QB,6,62.0,1.0,0.0,0.0,0.0,0.0,SmitGe00,00-0030565,Geno Smith
 MereJo00,Jordan Meredith,OL,6,62.0,1.0,0.0,0.0,0.0,0.0,,00-0036604,
@@ -281,7 +281,7 @@ MauiFr00,Francisco Mauigoa,LB,6,0.0,0.0,0.0,0.0,2.0,0.08,MauiFr00,00-0040186,Fra
 MyerJo00,Josh Myers,C,7,59.0,1.0,0.0,0.0,4.0,0.17,,00-0036622,
 MembAr00,Armand Membou,T,7,59.0,1.0,0.0,0.0,4.0,0.17,,00-0040123,
 TippJo00,Joe Tippmann,C,7,59.0,1.0,0.0,0.0,4.0,0.17,,00-0039145,
-FashOl00,Olu Fashanu,OL,7,59.0,1.0,0.0,0.0,4.0,0.17,,00-0039790,
+FashOl00,Olu Fashanu,OL,7,59.0,1.0,0.0,0.0,4.0,0.17,,,
 MereJo00,Jordan Meredith,OL,7,59.0,1.0,0.0,0.0,0.0,0.0,,00-0036604,
 SmitGe00,Geno Smith,QB,7,59.0,1.0,0.0,0.0,0.0,0.0,SmitGe00,00-0030565,Geno Smith
 WilsGa00,Garrett Wilson,WR,7,50.0,0.85,0.0,0.0,0.0,0.0,WilsGa00,00-0037740,Garrett Wilson
@@ -326,7 +326,7 @@ WrigNa00,Nahshon Wright,DB,7,0.0,0.0,0.0,0.0,4.0,0.17,WrigNa00,00-0036986,Nahsho
 ReedTr01,Troy Reeder,LB,7,0.0,0.0,0.0,0.0,2.0,0.08,ReedTr01,00-0035617,Troy Reeder
 TippJo00,Joe Tippmann,C,8,64.0,1.0,0.0,0.0,7.0,0.22,,00-0039145,
 MyerJo00,Josh Myers,C,8,64.0,1.0,0.0,0.0,7.0,0.22,,00-0036622,
-FashOl00,Olu Fashanu,OL,8,64.0,1.0,0.0,0.0,7.0,0.22,,00-0039790,
+FashOl00,Olu Fashanu,OL,8,64.0,1.0,0.0,0.0,7.0,0.22,,,
 MembAr00,Armand Membou,T,8,64.0,1.0,0.0,0.0,7.0,0.22,,00-0040123,
 SmitGe00,Geno Smith,QB,8,64.0,1.0,0.0,0.0,0.0,0.0,SmitGe00,00-0030565,Geno Smith
 ParhDy00,Dylan Parham,OL,8,64.0,1.0,0.0,0.0,0.0,0.0,,00-0037255,
@@ -371,7 +371,7 @@ OkorCh00,Chukwuma Okorafor,OL,8,0.0,0.0,0.0,0.0,7.0,0.22,,00-0034768,
 NwanKe00,Kene Nwangwu,RB,8,0.0,0.0,0.0,0.0,7.0,0.22,NwanKe00,00-0036842,Kene Nwangwu
 TippJo00,Joe Tippmann,C,9,63.0,1.0,0.0,0.0,5.0,0.17,,00-0039145,
 MyerJo00,Josh Myers,C,9,63.0,1.0,0.0,0.0,5.0,0.17,,00-0036622,
-FashOl00,Olu Fashanu,OL,9,63.0,1.0,0.0,0.0,5.0,0.17,,00-0039790,
+FashOl00,Olu Fashanu,OL,9,63.0,1.0,0.0,0.0,5.0,0.17,,,
 MembAr00,Armand Membou,T,9,63.0,1.0,0.0,0.0,5.0,0.17,,00-0040123,
 SmitGe00,Geno Smith,QB,9,63.0,1.0,0.0,0.0,0.0,0.0,SmitGe00,00-0030565,Geno Smith
 ParhDy00,Dylan Parham,OL,9,63.0,1.0,0.0,0.0,0.0,0.0,,00-0037255,
