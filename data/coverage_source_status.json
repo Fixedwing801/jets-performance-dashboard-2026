@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-13T08:39:28.077164+00:00",
+  "generated_utc": "2026-11-13T08:42:46.189431+00:00",
   "team": "NYJ",
   "seasons_requested": [
     2016,
@@ -24,6 +24,20 @@
     2023,
     2024,
     2025
+  ],
+  "labelled_seasons": [
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "available_but_unlabelled_seasons": [
+    2016,
+    2017
   ],
   "latest_complete_coverage_season": 2025,
   "source": "nflverse pbp_participation joined to nflverse play-by-play",

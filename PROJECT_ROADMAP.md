@@ -38,15 +38,15 @@ All 14 tracked core/enrichment feeds were marked available in the latest source-
 - EPA/play uses run/pass scrimmage plays with non-null EPA only.
 - Rates are aggregated using their own valid denominators.
 - Team offensive EPA ranks high-to-low; defensive EPA allowed ranks low-to-high.
-- Player ID resolution uses exact normalized names first. Initial+surnname fallback is restricted to genuinely abbreviated snap names and remains disabled when the alias is ambiguous.
+- Player ID resolution uses exact normalized names first. Initial+surname fallback is restricted to genuinely abbreviated snap names and remains disabled when the alias is ambiguous.
 - The EPA chart panel's existing layout and styling remain locked. No chart-panel layout changes are authorised by this roadmap.
 
 ## Completed in this review
 
 1. Verified the latest full workflow run and checked the earlier failed test run.
 2. Confirmed that the earlier player-crosswalk test failure is resolved on the current main branch; the latest completed workflow test stage passed.
-3. Tightened initial+surnname matching so a full player name cannot be assigned to another player merely because their first initial and surname match.
-4. Added regression tests for abbreviated-name matching, full-name false matches, and ambiguous initial+surnname aliases.
+3. Tightened initial+surname matching so a full player name cannot be assigned to another player merely because their first initial and surname match.
+4. Added regression tests for abbreviated-name matching, full-name false matches, and ambiguous initial+surname aliases.
 5. Added explicit coverage-label season availability to the historical coverage manifest and dashboard note.
 
 ## Next priorities
