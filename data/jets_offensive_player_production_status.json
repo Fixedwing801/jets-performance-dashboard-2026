@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-14T08:04:47.740885+00:00",
+  "generated_utc": "2026-11-14T08:08:24.802776+00:00",
   "snap_player_week_rows": 155,
   "matched_player_week_rows": 155,
   "unmatched_player_week_rows": 0,
@@ -7,6 +7,9 @@
   "weekly_stat_record_rows": 104,
   "no_weekly_stat_record_rows": 51,
   "weekly_stat_record_rate": 0.6709677419354839,
+  "total_snap_exposure": 6127,
+  "stats_record_snap_exposure": 3936,
+  "stats_record_snap_coverage_pct": 64.24024808225886,
   "weeks": [
     1,
     2,
@@ -25,6 +28,8 @@
     "Receiving yards per target and rushing/receiving production depend on role, play design and opportunity.",
     "Offensive line output is assessed through snap exposure and team-level results; individual blocking grades are not available in the free sources.",
     "Stable GSIS IDs are used where available; unique normalized player names from the weekly roster and player-stat feeds fill missing crosswalks. Ambiguous names remain unresolved.",
-    "A resolved snap record can have no weekly box-score row, particularly an offensive lineman with no recorded box-score event; this is distinguished from an unresolved player identity."
+    "A resolved snap record can have no weekly box-score row, particularly an offensive lineman with no recorded box-score event; this is distinguished from an unresolved player identity.",
+    "Weekly production fields remain missing when no weekly player-stat row exists; they are not converted to zero.",
+    "Season per-snap production rates use only snaps from weeks with a corresponding player-stat row; total snaps and stat-record snap coverage are shown separately."
   ]
 }
