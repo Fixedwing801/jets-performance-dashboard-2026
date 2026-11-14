@@ -188,13 +188,13 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 4,REG,NYJ,DL,00-0036843,LoudIs00,Isaiahh Loudermilk,DEV
 9,REG,NYJ,DL,00-0036843,LoudIs00,Isaiahh Loudermilk,DEV
 10,REG,NYJ,DL,00-0036843,LoudIs00,Isaiahh Loudermilk,DEV
+5,REG,NYJ,OL,00-0036859,,Jimmy Morrissey,DEV
+6,REG,NYJ,OL,00-0036859,,Jimmy Morrissey,DEV
+10,REG,NYJ,OL,00-0036859,,Jimmy Morrissey,DEV
+4,REG,NYJ,OL,00-0036859,,Jimmy Morrissey,DEV
+7,REG,NYJ,OL,00-0036859,,Jimmy Morrissey,DEV
 9,REG,NYJ,OL,00-0036859,,Jimmy Morrissey,DEV
 8,REG,NYJ,OL,00-0036859,,Jimmy Morrissey,DEV
-10,REG,NYJ,OL,00-0036859,,Jimmy Morrissey,DEV
-5,REG,NYJ,OL,00-0036859,,Jimmy Morrissey,DEV
-7,REG,NYJ,OL,00-0036859,,Jimmy Morrissey,DEV
-6,REG,NYJ,OL,00-0036859,,Jimmy Morrissey,DEV
-4,REG,NYJ,OL,00-0036859,,Jimmy Morrissey,DEV
 1,REG,NYJ,DB,00-0036885,BrowTr03,Tre Brown,RES
 3,REG,NYJ,DB,00-0036885,BrowTr03,Tre Brown,RES
 8,REG,NYJ,DB,00-0036885,BrowTr03,Tre Brown,RES
@@ -213,13 +213,13 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 10,REG,NYJ,LB,00-0036902,OssaJo00,Joseph Ossai,ACT
 3,REG,NYJ,LB,00-0036902,OssaJo00,Joseph Ossai,ACT
 2,REG,NYJ,LB,00-0036902,OssaJo00,Joseph Ossai,INA
-2,REG,NYJ,DB,00-0036941,CiscAn00,Andre Cisco,ACT
-9,REG,NYJ,DB,00-0036941,CiscAn00,Andre Cisco,ACT
-4,REG,NYJ,DB,00-0036941,CiscAn00,Andre Cisco,ACT
-7,REG,NYJ,DB,00-0036941,CiscAn00,Andre Cisco,ACT
 6,REG,NYJ,DB,00-0036941,CiscAn00,Andre Cisco,ACT
+9,REG,NYJ,DB,00-0036941,CiscAn00,Andre Cisco,ACT
+7,REG,NYJ,DB,00-0036941,CiscAn00,Andre Cisco,ACT
 8,REG,NYJ,DB,00-0036941,CiscAn00,Andre Cisco,ACT
 1,REG,NYJ,DB,00-0036941,CiscAn00,Andre Cisco,ACT
+2,REG,NYJ,DB,00-0036941,CiscAn00,Andre Cisco,ACT
+4,REG,NYJ,DB,00-0036941,CiscAn00,Andre Cisco,ACT
 3,REG,NYJ,DB,00-0036941,CiscAn00,Andre Cisco,ACT
 5,REG,NYJ,DB,00-0036941,CiscAn00,Andre Cisco,ACT
 8,REG,NYJ,DB,00-0036986,WrigNa00,Nahshon Wright,INA
@@ -368,11 +368,11 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 6,REG,NYJ,OL,00-0038194,,Kohl Levao,ACT
 3,REG,NYJ,OL,00-0038194,,Kohl Levao,DEV
 1,REG,NYJ,OL,00-0038223,,Liam Fornadel,CUT
-1,REG,NYJ,K,00-0038905,GrupBl00,Blake Grupe,INA
-4,REG,NYJ,K,00-0038905,GrupBl00,Blake Grupe,DEV
-2,REG,NYJ,K,00-0038905,GrupBl00,Blake Grupe,INA
 3,REG,NYJ,K,00-0038905,GrupBl00,Blake Grupe,INA
+1,REG,NYJ,K,00-0038905,GrupBl00,Blake Grupe,INA
+2,REG,NYJ,K,00-0038905,GrupBl00,Blake Grupe,INA
 5,REG,NYJ,K,00-0038905,GrupBl00,Blake Grupe,DEV
+4,REG,NYJ,K,00-0038905,GrupBl00,Blake Grupe,DEV
 5,REG,NYJ,LB,00-0039142,McDoWi00,Will McDonald IV,ACT
 4,REG,NYJ,LB,00-0039142,McDoWi00,Will McDonald IV,ACT
 8,REG,NYJ,LB,00-0039142,McDoWi00,Will McDonald IV,ACT
@@ -401,8 +401,8 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 3,REG,NYJ,QB,00-0039152,LeviWi00,Will Levis,DEV
 6,REG,NYJ,QB,00-0039152,LeviWi00,Will Levis,DEV
 8,REG,NYJ,QB,00-0039152,LeviWi00,Will Levis,DEV
-9,REG,NYJ,OL,00-0039158,,Blake Freeland,INA
 10,REG,NYJ,OL,00-0039158,,Blake Freeland,ACT
+9,REG,NYJ,OL,00-0039158,,Blake Freeland,INA
 10,REG,NYJ,LB,00-0039284,McGrBr00,Braiden McGregor,RES
 2,REG,NYJ,LB,00-0039284,McGrBr00,Braiden McGregor,ACT
 5,REG,NYJ,LB,00-0039284,McGrBr00,Braiden McGregor,RES
@@ -596,8 +596,8 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 6,REG,NYJ,LB,00-0040196,BaroTy00,Tyler Baron,RES
 1,REG,NYJ,WR,00-0040247,BergJu00,Junior Bergen,CUT
 3,REG,NYJ,DB,00-0040310,,John Saunders Jr.,DEV
-4,REG,NYJ,DB,00-0040310,,John Saunders Jr.,CUT
 2,REG,NYJ,DB,00-0040310,,John Saunders Jr.,DEV
+4,REG,NYJ,DB,00-0040310,,John Saunders Jr.,CUT
 1,REG,NYJ,WR,00-0040324,,Cam Camper,CUT
 1,REG,NYJ,DB,00-0040396,ClarDe03,Dean Clark,CUT
 8,REG,NYJ,DB,00-0040397,ClarJo00,Jordan Clark,DEV
@@ -664,15 +664,15 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 5,REG,NYJ,LB,00-0040793,,Paschal Ekeji,DEV
 1,REG,NYJ,RB,00-0040937,,Dominic Richardson,RES
 10,REG,NYJ,DL,00-0040956,,Amari McNeill,DEV
-9,REG,NYJ,DL,00-0040956,,Amari McNeill,DEV
 8,REG,NYJ,DL,00-0040956,,Amari McNeill,DEV
-8,REG,NYJ,OL,00-0040979,,Nick Dawkins,DEV
-4,REG,NYJ,OL,00-0040979,,Nick Dawkins,DEV
+9,REG,NYJ,DL,00-0040956,,Amari McNeill,DEV
 9,REG,NYJ,OL,00-0040979,,Nick Dawkins,DEV
+4,REG,NYJ,OL,00-0040979,,Nick Dawkins,DEV
 10,REG,NYJ,OL,00-0040979,,Nick Dawkins,DEV
 6,REG,NYJ,OL,00-0040979,,Nick Dawkins,DEV
-7,REG,NYJ,OL,00-0040979,,Nick Dawkins,DEV
+8,REG,NYJ,OL,00-0040979,,Nick Dawkins,DEV
 5,REG,NYJ,OL,00-0040979,,Nick Dawkins,DEV
+7,REG,NYJ,OL,00-0040979,,Nick Dawkins,DEV
 1,REG,NYJ,DB,00-0041010,,Tanner Wall,CUT
 1,REG,NYJ,DL,00-0041012,,Anthony Dunn,CUT
 7,REG,NYJ,LB,00-0041026,BailDa02,David Bailey,ACT
@@ -813,13 +813,13 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 5,REG,NYJ,DL,00-0041549,JackDa06,Darrell Jackson Jr.,ACT
 3,REG,NYJ,DL,00-0041549,JackDa06,Darrell Jackson Jr.,ACT
 1,REG,NYJ,TE,00-0041577,,Connor Hulstein,RES
-7,REG,NYJ,RB,,,Al-Jay Henderson,DEV
 8,REG,NYJ,RB,,,Al-Jay Henderson,DEV
-10,REG,NYJ,RB,,,Al-Jay Henderson,DEV
+4,REG,NYJ,RB,,,Al-Jay Henderson,DEV
 2,REG,NYJ,RB,,,Al-Jay Henderson,DEV
 3,REG,NYJ,RB,,,Al-Jay Henderson,DEV
-4,REG,NYJ,RB,,,Al-Jay Henderson,DEV
+10,REG,NYJ,RB,,,Al-Jay Henderson,DEV
 5,REG,NYJ,RB,,,Al-Jay Henderson,DEV
+7,REG,NYJ,RB,,,Al-Jay Henderson,DEV
 6,REG,NYJ,RB,,,Al-Jay Henderson,DEV
 9,REG,NYJ,RB,,,Al-Jay Henderson,DEV
 1,REG,NYJ,RB,,,Al-Jay Henderson,DEV

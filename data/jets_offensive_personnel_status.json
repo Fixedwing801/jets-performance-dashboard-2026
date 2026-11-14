@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-14T06:53:58.809705+00:00",
+  "generated_utc": "2026-11-14T08:04:46.844085+00:00",
   "weeks_with_snap_data": [
     1,
     2,
@@ -19,8 +19,8 @@
     "Tight end",
     "Wide receiver"
   ],
-  "injury_rows": 41,
-  "offensive_injury_rows": 41,
+  "injury_rows": 42,
+  "offensive_injury_rows": 42,
   "offensive_injury_snap_matches": 12,
   "limitations": [
     "PFR snap counts measure player exposure by game, not exact personnel group or formation on each play.",

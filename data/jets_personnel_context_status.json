@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-14T06:53:56.927270+00:00",
+  "generated_utc": "2026-11-14T08:04:44.797918+00:00",
   "weeks_with_snap_data": [
     1,
     2,
@@ -17,7 +17,7 @@
     "Linebacker",
     "Secondary"
   ],
-  "injury_rows": 88,
+  "injury_rows": 89,
   "defensive_injury_rows": 47,
   "defensive_injury_snap_matches": 20,
   "limitations": [

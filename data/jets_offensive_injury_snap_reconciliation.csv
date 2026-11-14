@@ -38,5 +38,6 @@ week,game_type,team,position,gsis_id,full_name,report_status,report_primary_inju
 9,REG,NYJ,WR,00-0037740,Garrett Wilson,Out,Concussion,,Concussion,,Did Not Participate In Practice,garrettwilson,,,,,0.0,No recorded offensive snaps
 9,REG,NYJ,RB,00-0038120,Breece Hall,,,,Quadricep,,Full Participation in Practice,breecehall,Breece Hall,27.0,0.43,Rotation,27.0,Played offensive snaps
 9,REG,NYJ,TE,00-0040736,Mason Taylor,,,,Back,,Full Participation in Practice,masontaylor,Mason Taylor,40.0,0.63,Regular,40.0,Played offensive snaps
-10,REG,NYJ,WR,00-0037740,Garrett Wilson,,,,Concussion,,Limited Participation in Practice,garrettwilson,,,,,0.0,No recorded offensive snaps
-10,REG,NYJ,WR,00-0041511,Omar Cooper Jr.,,,,Ankle,,Limited Participation in Practice,omarcooperjr,,,,,0.0,No recorded offensive snaps
+10,REG,NYJ,WR,00-0037740,Garrett Wilson,Questionable,Concussion,,Concussion,,Full Participation in Practice,garrettwilson,,,,,0.0,No recorded offensive snaps
+10,REG,NYJ,WR,00-0039890,Adonai Mitchell,Questionable,Knee,,Knee,,Full Participation in Practice,adonaimitchell,,,,,0.0,No recorded offensive snaps
+10,REG,NYJ,WR,00-0041511,Omar Cooper Jr.,Questionable,Ankle,,Ankle,,Full Participation in Practice,omarcooperjr,,,,,0.0,No recorded offensive snaps
