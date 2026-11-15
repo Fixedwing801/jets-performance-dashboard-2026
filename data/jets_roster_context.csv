@@ -362,7 +362,7 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 7,REG,NYJ,OL,00-0038194,,Kohl Levao,ACT
 1,REG,NYJ,OL,00-0038194,,Kohl Levao,DEV
 2,REG,NYJ,OL,00-0038194,,Kohl Levao,DEV
-10,REG,NYJ,OL,00-0038194,,Kohl Levao,ACT
+10,REG,NYJ,OL,00-0038194,,Kohl Levao,CUT
 8,REG,NYJ,OL,00-0038194,,Kohl Levao,INA
 9,REG,NYJ,OL,00-0038194,,Kohl Levao,INA
 6,REG,NYJ,OL,00-0038194,,Kohl Levao,ACT
@@ -725,7 +725,7 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 10,REG,NYJ,OL,00-0041097,,Anez Cooper,RES
 4,REG,NYJ,OL,00-0041097,,Anez Cooper,RES
 2,REG,NYJ,OL,00-0041097,,Anez Cooper,RES
-10,REG,NYJ,DB,00-0041120,PaynVJ00,VJ Payne,RES
+10,REG,NYJ,DB,00-0041120,PaynVJ00,VJ Payne,ACT
 7,REG,NYJ,DB,00-0041120,PaynVJ00,VJ Payne,RES
 5,REG,NYJ,DB,00-0041120,PaynVJ00,VJ Payne,RES
 2,REG,NYJ,DB,00-0041120,PaynVJ00,VJ Payne,RES
