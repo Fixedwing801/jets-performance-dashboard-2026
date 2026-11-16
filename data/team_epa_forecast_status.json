@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-11-16T00:51:40.952906+00:00",
+  "generated_utc": "2026-11-16T01:13:27.741506+00:00",
   "source": "nflverse 2026 play-by-play",
   "latest_week": 10,
   "forecast_week": 11,
-  "backtest_observations": 388,
+  "backtest_observations": 400,
   "formula": "60% play-weighted mean of latest three team games + 40% play-weighted season-to-date mean; shrink 20% toward play-weighted league mean",
   "scope": "Team-level EPA/play forecast, not opponent/matchup-adjusted and not a player projection",
   "caveats": [
@@ -16,50 +16,50 @@
     {
       "side": "defense",
       "model": "blended_recent_and_season",
-      "observations": 194,
-      "mae": 0.16353281467594458,
-      "rmse": 0.20774897274290055,
-      "mean_error": 0.02004534370820288
+      "observations": 200,
+      "mae": 0.16735741160389728,
+      "rmse": 0.21299978702155628,
+      "mean_error": 0.01751084397542797
     },
     {
       "side": "defense",
       "model": "team_season_average",
-      "observations": 194,
-      "mae": 0.16891962674627944,
-      "rmse": 0.212187049560475,
-      "mean_error": 0.021723044138082265
+      "observations": 200,
+      "mae": 0.17223652542693912,
+      "rmse": 0.21654477966962934,
+      "mean_error": 0.01941375906578069
     },
     {
       "side": "defense",
       "model": "league_average",
-      "observations": 194,
-      "mae": 0.16465516079886838,
-      "rmse": 0.2046373143707067,
-      "mean_error": 0.02320742565931914
+      "observations": 200,
+      "mae": 0.17009253554379755,
+      "rmse": 0.2126437484784566,
+      "mean_error": 0.020863395657417915
     },
     {
       "side": "offense",
       "model": "blended_recent_and_season",
-      "observations": 194,
-      "mae": 0.16140840215597174,
-      "rmse": 0.20269089133933285,
-      "mean_error": 0.020146132345211204
+      "observations": 200,
+      "mae": 0.16519725975120797,
+      "rmse": 0.20785973057795745,
+      "mean_error": 0.018780706132839126
     },
     {
       "side": "offense",
       "model": "team_season_average",
-      "observations": 194,
-      "mae": 0.16204708415997515,
-      "rmse": 0.20459019364981332,
-      "mean_error": 0.021923775490977834
+      "observations": 200,
+      "mae": 0.1658899866780503,
+      "rmse": 0.2095021051547775,
+      "mean_error": 0.020860667410117342
     },
     {
       "side": "offense",
       "model": "league_average",
-      "observations": 194,
-      "mae": 0.1646551607988684,
-      "rmse": 0.2046373143707067,
-      "mean_error": 0.02320742565931914
+      "observations": 200,
+      "mae": 0.17009253554379758,
+      "rmse": 0.2126437484784566,
+      "mean_error": 0.020863395657417908
     }
   ]
 }
