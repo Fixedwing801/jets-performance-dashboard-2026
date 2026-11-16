@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-16T00:35:24.689826+00:00",
+  "generated_utc": "2026-11-16T00:44:11.739405+00:00",
   "source_rows": 25405,
   "jets_game_side_rows": 20,
   "weeks": [
@@ -52,8 +52,9 @@
       "pfr_advstats_week_rush_2026.parquet": "available",
       "pfr_advstats_week_rec_2026.parquet": "available",
       "pfr_advstats_week_def_2026.parquet": "available",
-      "espn_qbr_week_level.parquet": "available"
+      "espn_qbr_week_level.parquet": "available",
+      "pbp_participation_2026.parquet": "pending_postseason"
     }
   },
-  "source_status_generated_utc": "2026-11-16T00:35:18.333307+00:00"
+  "source_status_generated_utc": "2026-11-16T00:44:05.133312+00:00"
 }

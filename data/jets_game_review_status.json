@@ -1,0 +1,16 @@
+{
+  "generated_utc": "2026-11-16T00:44:47.340842+00:00",
+  "games_reviewed": 10,
+  "latest_week": 10,
+  "latest_opponent": "BUF",
+  "rows": 20,
+  "complete_pregame_baselines": 18,
+  "latest_game_player_rows": 0,
+  "limitations": [
+    "Pregame expectation is the equal-weight mean of the Jets' and opponent's season-to-date EPA rates through the previous week; it is a descriptive reference, not a calibrated win or scoring forecast.",
+    "A game is reviewed only when the Jets game-level play-by-play metrics are present.",
+    "Player tables are descriptive production leaders, not causal impact grades; missing player-stat rows are not converted to zero.",
+    "Exact down-and-distance, formation, coverage-call and on-play personnel attribution require play-level source fields and are not inferred from aggregate game metrics.",
+    "Defensive EPA is interpreted in the opposite direction: lower actual EPA allowed than the pregame baseline is favourable."
+  ]
+}
