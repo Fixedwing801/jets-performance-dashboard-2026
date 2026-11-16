@@ -145,5 +145,5 @@ game_id,game_date,week,season,stadium,game_stadium,roof,temp,wind,home_team,away
 2026_10_MIN_GB,2026-11-15,10,2026,Lambeau Field,Lambeau Field,outdoors,,,GB,MIN,MIN,GB,,,,,,
 2026_10_NE_DET,2026-11-15,10,2026,FC Bayern Munich Stadium,FC Bayern Munich Stadium,dome,,,DET,NE,NE,DET,,,,,,
 2026_10_SEA_LV,2026-11-15,10,2026,Allegiant Stadium,Allegiant Stadium,dome,,,LV,SEA,SEA,LV,,,,,,
-2026_10_SF_DAL,2026-11-15,10,2026,AT&T Stadium,AT&T Stadium,,,,DAL,SF,DAL,SF,,,,,,
+2026_10_SF_DAL,2026-11-15,10,2026,AT&T Stadium,AT&T Stadium,closed,,,DAL,SF,DAL,SF,,,,,,
 2026_10_WAS_NYG,2026-11-12,10,2026,MetLife Stadium,MetLife Stadium,outdoors,,,NYG,WAS,NYG,WAS,,,,,,
