@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-11-16T02:36:47.188937+00:00",
-  "source_rows": 25906,
+  "generated_utc": "2026-11-16T08:23:32.925102+00:00",
+  "source_rows": 26071,
   "jets_game_side_rows": 20,
   "weeks": [
     1,
@@ -15,8 +15,8 @@
     10
   ],
   "quality": {
-    "source_rows": 25906,
-    "eligible_scrimmage_plays": 18207,
+    "source_rows": 26071,
+    "eligible_scrimmage_plays": 18328,
     "jets_game_side_rows": 20,
     "weeks_present": [
       1,
@@ -30,12 +30,12 @@
       9,
       10
     ],
-    "missing_epa_rows": 296,
-    "scrimmage_plays_total": 18207,
+    "missing_epa_rows": 298,
+    "scrimmage_plays_total": 18328,
     "missing_epa_scrimmage_rows": 0,
     "missing_success_scrimmage_rows": 0,
     "missing_epa_by_play_type": {
-      "unknown": 296
+      "unknown": 298
     },
     "duplicate_game_play_keys": 0,
     "source_status": {
@@ -56,5 +56,5 @@
       "pbp_participation_2026.parquet": "pending_postseason"
     }
   },
-  "source_status_generated_utc": "2026-11-16T02:36:42.243098+00:00"
+  "source_status_generated_utc": "2026-11-16T08:23:25.122104+00:00"
 }

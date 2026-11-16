@@ -48,7 +48,7 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 10,REG,NYJ,LS,00-0033260,,Thomas Hennessy,ACT
 6,REG,NYJ,LS,00-0033260,,Thomas Hennessy,ACT
 2,REG,NYJ,LS,00-0033260,,Thomas Hennessy,ACT
-10,REG,NYJ,WR,00-0033375,PatrTi00,Tim Patrick,ACT
+10,REG,NYJ,WR,00-0033375,PatrTi00,Tim Patrick,INA
 2,REG,NYJ,WR,00-0033375,PatrTi00,Tim Patrick,RES
 4,REG,NYJ,WR,00-0033375,PatrTi00,Tim Patrick,RES
 7,REG,NYJ,WR,00-0033375,PatrTi00,Tim Patrick,ACT
@@ -299,7 +299,7 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 3,REG,NYJ,TE,00-0037755,WoodJe01,Jelani Woods,ACT
 1,REG,NYJ,TE,00-0037755,WoodJe01,Jelani Woods,ACT
 9,REG,NYJ,TE,00-0037755,WoodJe01,Jelani Woods,ACT
-10,REG,NYJ,TE,00-0037755,WoodJe01,Jelani Woods,ACT
+10,REG,NYJ,TE,00-0037755,WoodJe01,Jelani Woods,INA
 7,REG,NYJ,TE,00-0037755,WoodJe01,Jelani Woods,ACT
 5,REG,NYJ,TE,00-0037755,WoodJe01,Jelani Woods,ACT
 8,REG,NYJ,TE,00-0037755,WoodJe01,Jelani Woods,ACT
@@ -417,7 +417,7 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 6,REG,NYJ,LB,00-0039347,WallTr00,Trevin Wallace,ACT
 5,REG,NYJ,LB,00-0039347,WallTr00,Trevin Wallace,ACT
 9,REG,NYJ,LB,00-0039347,WallTr00,Trevin Wallace,INA
-10,REG,NYJ,LB,00-0039347,WallTr00,Trevin Wallace,ACT
+10,REG,NYJ,LB,00-0039347,WallTr00,Trevin Wallace,INA
 8,REG,NYJ,LB,00-0039347,WallTr00,Trevin Wallace,ACT
 4,REG,NYJ,LB,00-0039347,WallTr00,Trevin Wallace,ACT
 2,REG,NYJ,LB,00-0039347,WallTr00,Trevin Wallace,INA
@@ -427,7 +427,7 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 1,REG,NYJ,DB,00-0039372,BrowJa09,Jarvis Brownlee Jr.,ACT
 3,REG,NYJ,DB,00-0039372,BrowJa09,Jarvis Brownlee Jr.,ACT
 9,REG,NYJ,DB,00-0039372,BrowJa09,Jarvis Brownlee Jr.,ACT
-10,REG,NYJ,DB,00-0039372,BrowJa09,Jarvis Brownlee Jr.,ACT
+10,REG,NYJ,DB,00-0039372,BrowJa09,Jarvis Brownlee Jr.,INA
 5,REG,NYJ,DB,00-0039372,BrowJa09,Jarvis Brownlee Jr.,ACT
 6,REG,NYJ,DB,00-0039372,BrowJa09,Jarvis Brownlee Jr.,ACT
 7,REG,NYJ,DB,00-0039372,BrowJa09,Jarvis Brownlee Jr.,INA
@@ -452,7 +452,7 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 5,REG,NYJ,LB,00-0039447,LynnNa00,Nate Lynn,INA
 8,REG,NYJ,LB,00-0039447,LynnNa00,Nate Lynn,ACT
 2,REG,NYJ,LB,00-0039447,LynnNa00,Nate Lynn,DEV
-10,REG,NYJ,LB,00-0039447,LynnNa00,Nate Lynn,ACT
+10,REG,NYJ,LB,00-0039447,LynnNa00,Nate Lynn,INA
 1,REG,NYJ,LB,00-0039447,LynnNa00,Nate Lynn,DEV
 4,REG,NYJ,WR,00-0039451,WillIs03,Isaiah Williams,ACT
 8,REG,NYJ,WR,00-0039451,WillIs03,Isaiah Williams,ACT

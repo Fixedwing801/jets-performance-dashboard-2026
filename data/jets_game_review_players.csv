@@ -1,1 +1,17 @@
-
+week,side,player,player_id,position,snap_share,data_basis,completions,pass_attempts,passing_interceptions,passing_yards,rushing_yards,receiving_yards,total_yards,total_tds,touches,total_tackles,sacks,qb_hits,interceptions,passes_defended,tackles_for_loss,forced_fumbles,disruption_events
+10,offense,Cade Klubnik,00-0041056,QB,,Box score only; snap counts pending,11.0,20.0,1.0,137.0,26.0,0.0,163.0,0.0,3.0,,,,,,,,
+10,offense,Geno Smith,00-0030565,QB,,Box score only; snap counts pending,13.0,21.0,0.0,148.0,0.0,0.0,148.0,0.0,0.0,,,,,,,,
+10,offense,Breece Hall,00-0038120,RB,,Box score only; snap counts pending,0.0,0.0,0.0,0.0,41.0,67.0,108.0,0.0,15.0,,,,,,,,
+10,offense,Garrett Wilson,00-0037740,WR,,Box score only; snap counts pending,0.0,0.0,0.0,0.0,0.0,106.0,106.0,0.0,7.0,,,,,,,,
+10,offense,Adonai Mitchell,00-0039890,WR,,Box score only; snap counts pending,0.0,0.0,0.0,0.0,0.0,59.0,59.0,0.0,3.0,,,,,,,,
+10,offense,Braelon Allen,00-0039794,RB,,Box score only; snap counts pending,0.0,0.0,0.0,0.0,40.0,6.0,46.0,0.0,9.0,,,,,,,,
+10,offense,Isaiah Williams,00-0039451,WR,,Box score only; snap counts pending,0.0,0.0,0.0,0.0,0.0,24.0,24.0,0.0,4.0,,,,,,,,
+10,offense,Mason Taylor,00-0040736,TE,,Box score only; snap counts pending,0.0,0.0,0.0,0.0,0.0,20.0,20.0,0.0,4.0,,,,,,,,
+10,defense,Will McDonald IV,00-0039142,DE,,Box score only; snap counts pending,,,,,,,,,,1.0,1.0,2.0,0.0,0.0,1.0,0.0,4.0
+10,defense,Azareye'h Thomas,00-0040133,CB,,Box score only; snap counts pending,,,,,,,,,,4.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0
+10,defense,Malachi Moore,00-0040165,SAF,,Box score only; snap counts pending,,,,,,,,,,3.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0
+10,defense,Jeremy Ruckert,00-0037805,TE,,Box score only; snap counts pending,,,,,,,,,,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+10,defense,Harrison Phillips,00-0034782,DT,,Box score only; snap counts pending,,,,,,,,,,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,defense,Jamien Sherwood,00-0036500,LB,,Box score only; snap counts pending,,,,,,,,,,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,defense,Dane Belton,00-0038123,SAF,,Box score only; snap counts pending,,,,,,,,,,6.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+10,defense,Demario Davis,00-0029607,OLB,,Box score only; snap counts pending,,,,,,,,,,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
