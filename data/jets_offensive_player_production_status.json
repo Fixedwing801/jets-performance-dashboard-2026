@@ -1,15 +1,15 @@
 {
-  "generated_utc": "2026-11-16T08:36:55.791722+00:00",
-  "snap_player_week_rows": 155,
-  "matched_player_week_rows": 155,
+  "generated_utc": "2026-11-16T14:58:16.247786+00:00",
+  "snap_player_week_rows": 174,
+  "matched_player_week_rows": 174,
   "unmatched_player_week_rows": 0,
   "match_rate": 1.0,
-  "weekly_stat_record_rows": 104,
-  "no_weekly_stat_record_rows": 51,
-  "weekly_stat_record_rate": 0.6709677419354839,
-  "total_snap_exposure": 6127,
-  "stats_record_snap_exposure": 3936,
-  "stats_record_snap_coverage_pct": 64.24024808225886,
+  "weekly_stat_record_rows": 120,
+  "no_weekly_stat_record_rows": 54,
+  "weekly_stat_record_rate": 0.6896551724137931,
+  "total_snap_exposure": 6908,
+  "stats_record_snap_exposure": 4645,
+  "stats_record_snap_coverage_pct": 67.2408801389693,
   "weeks": [
     1,
     2,
@@ -19,7 +19,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "limitations": [
     "Official weekly box-score and EPA fields are combined with PFR offensive snap exposure.",

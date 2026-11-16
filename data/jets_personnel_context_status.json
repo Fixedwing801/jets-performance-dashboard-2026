@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-16T08:36:53.166598+00:00",
+  "generated_utc": "2026-11-16T14:58:13.967583+00:00",
   "weeks_with_snap_data": [
     1,
     2,
@@ -9,9 +9,10 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
-  "snap_rows": 159,
+  "snap_rows": 176,
   "position_groups": [
     "Defensive line",
     "Linebacker",
@@ -19,7 +20,7 @@
   ],
   "injury_rows": 89,
   "defensive_injury_rows": 47,
-  "defensive_injury_snap_matches": 20,
+  "defensive_injury_snap_matches": 23,
   "limitations": [
     "PFR snap counts show player exposure by game, not the exact 11 defenders on each charted passing play.",
     "Weekly position-group snap shares are aggregate exposure and cannot establish which personnel were on the field for a given play.",

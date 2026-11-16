@@ -1,15 +1,15 @@
 {
-  "generated_utc": "2026-11-16T08:36:54.050389+00:00",
-  "snap_player_week_rows": 159,
-  "matched_player_week_rows": 159,
+  "generated_utc": "2026-11-16T14:58:14.736482+00:00",
+  "snap_player_week_rows": 176,
+  "matched_player_week_rows": 176,
   "unmatched_player_week_rows": 0,
   "match_rate": 1.0,
-  "weekly_stat_record_rows": 140,
-  "no_weekly_stat_record_rows": 19,
-  "weekly_stat_record_rate": 0.8805031446540881,
-  "total_snap_exposure": 6567,
-  "stats_record_snap_exposure": 6296,
-  "stats_record_snap_coverage_pct": 95.87330592355718,
+  "weekly_stat_record_rows": 154,
+  "no_weekly_stat_record_rows": 22,
+  "weekly_stat_record_rate": 0.875,
+  "total_snap_exposure": 7194,
+  "stats_record_snap_exposure": 6871,
+  "stats_record_snap_coverage_pct": 95.51014734500973,
   "weeks": [
     1,
     2,
@@ -19,7 +19,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "limitations": [
     "Weekly defensive statistics are official box-score production, not charted player-level pressure or coverage impact.",

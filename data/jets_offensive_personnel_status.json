@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-16T08:36:54.898496+00:00",
+  "generated_utc": "2026-11-16T14:58:15.474625+00:00",
   "weeks_with_snap_data": [
     1,
     2,
@@ -9,9 +9,10 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
-  "snap_rows": 155,
+  "snap_rows": 174,
   "position_groups": [
     "Offensive line",
     "Quarterback",
@@ -21,7 +22,7 @@
   ],
   "injury_rows": 42,
   "offensive_injury_rows": 42,
-  "offensive_injury_snap_matches": 12,
+  "offensive_injury_snap_matches": 14,
   "limitations": [
     "PFR snap counts measure player exposure by game, not exact personnel group or formation on each play.",
     "Position-group shares are sums of player snaps; because multiple players share a play, interpret as workload composition rather than mutually exclusive shares of 11 players.",

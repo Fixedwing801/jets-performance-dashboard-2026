@@ -15,6 +15,7 @@ week,player,position,defensive_snaps,defensive_snap_share,prior_week_snap_share,
 7,Azareye'h Thomas,CB,65.0,1.0,1.0,0.0,High-use,True,7
 8,Azareye'h Thomas,CB,63.0,1.0,1.0,0.0,High-use,True,8
 9,Azareye'h Thomas,CB,66.0,1.0,1.0,0.0,High-use,True,9
+10,Azareye'h Thomas,CB,57.0,1.0,1.0,0.0,High-use,True,10
 1,Braiden McGregor,DE,17.0,0.34,,,Rotation,False,0
 2,Braiden McGregor,DE,19.0,0.32,0.34,-0.020000000000000018,Rotation,False,0
 3,Braiden McGregor,DE,6.0,0.09,0.32,-0.23,Spot / low,False,0
@@ -28,6 +29,7 @@ week,player,position,defensive_snaps,defensive_snap_share,prior_week_snap_share,
 7,Brandon Stephens,CB,62.0,0.95,0.96,-0.010000000000000009,High-use,True,7
 8,Brandon Stephens,CB,60.0,0.95,0.95,0.0,High-use,True,8
 9,Brandon Stephens,CB,63.0,0.95,0.95,0.0,High-use,True,9
+10,Brandon Stephens,CB,52.0,0.91,0.95,-0.039999999999999925,High-use,True,10
 3,D'Angelo Ponds,CB,2.0,0.03,,,Spot / low,False,0
 4,D'Angelo Ponds,CB,18.0,0.19,0.03,0.16,Spot / low,False,0
 5,D'Angelo Ponds,CB,2.0,0.03,0.19,-0.16,Spot / low,False,0
@@ -35,6 +37,7 @@ week,player,position,defensive_snaps,defensive_snap_share,prior_week_snap_share,
 7,D'Angelo Ponds,CB,30.0,0.46,0.16,0.30000000000000004,Rotation,False,0
 8,D'Angelo Ponds,CB,1.0,0.02,0.46,-0.44,Spot / low,False,0
 9,D'Angelo Ponds,CB,22.0,0.33,0.02,0.31,Rotation,False,0
+10,D'Angelo Ponds,CB,7.0,0.12,0.33,-0.21000000000000002,Spot / low,False,0
 1,Dane Belton,S,50.0,1.0,,,High-use,True,1
 2,Dane Belton,S,59.0,1.0,1.0,0.0,High-use,True,2
 3,Dane Belton,S,65.0,1.0,1.0,0.0,High-use,True,3
@@ -44,6 +47,7 @@ week,player,position,defensive_snaps,defensive_snap_share,prior_week_snap_share,
 7,Dane Belton,S,65.0,1.0,1.0,0.0,High-use,True,7
 8,Dane Belton,S,63.0,1.0,1.0,0.0,High-use,True,8
 9,Dane Belton,S,66.0,1.0,1.0,0.0,High-use,True,9
+10,Dane Belton,S,57.0,1.0,1.0,0.0,High-use,True,10
 1,Darrell Jackson Jr.,DL,8.0,0.16,,,Spot / low,False,0
 2,Darrell Jackson Jr.,DL,13.0,0.22,0.16,0.06,Spot / low,False,0
 3,Darrell Jackson Jr.,DL,23.0,0.35,0.22,0.12999999999999998,Rotation,False,0
@@ -53,6 +57,7 @@ week,player,position,defensive_snaps,defensive_snap_share,prior_week_snap_share,
 7,Darrell Jackson Jr.,DL,38.0,0.58,0.51,0.06999999999999995,Regular,False,0
 8,Darrell Jackson Jr.,DL,42.0,0.67,0.58,0.09000000000000008,Regular,False,0
 9,Darrell Jackson Jr.,DL,47.0,0.71,0.67,0.039999999999999925,High-use,True,1
+10,Darrell Jackson Jr.,DL,39.0,0.68,0.71,-0.029999999999999916,Regular,False,1
 1,David Bailey,DE,35.0,0.7,,,Regular,True,1
 2,David Bailey,DE,43.0,0.73,0.7,0.030000000000000027,High-use,True,2
 3,David Bailey,DE,44.0,0.68,0.73,-0.04999999999999993,Regular,False,2
@@ -61,6 +66,7 @@ week,player,position,defensive_snaps,defensive_snap_share,prior_week_snap_share,
 6,David Bailey,DE,66.0,0.97,0.84,0.13,High-use,True,5
 7,David Bailey,DE,61.0,0.94,0.97,-0.030000000000000027,High-use,True,6
 9,David Bailey,DE,52.0,0.79,0.94,-0.1499999999999999,High-use,True,7
+10,David Bailey,DE,47.0,0.82,0.79,0.029999999999999916,High-use,True,8
 1,David Onyemata,DL,35.0,0.7,,,Regular,True,1
 2,David Onyemata,DL,13.0,0.22,0.7,-0.48,Spot / low,False,1
 1,Demario Davis,LB,50.0,1.0,,,High-use,True,1
@@ -72,6 +78,7 @@ week,player,position,defensive_snaps,defensive_snap_share,prior_week_snap_share,
 7,Demario Davis,LB,65.0,1.0,1.0,0.0,High-use,True,7
 8,Demario Davis,LB,62.0,0.98,1.0,-0.020000000000000018,High-use,True,8
 9,Demario Davis,LB,64.0,0.97,0.98,-0.010000000000000009,High-use,True,9
+10,Demario Davis,LB,55.0,0.96,0.97,-0.010000000000000009,High-use,True,10
 1,Harrison Phillips,DL,27.0,0.54,,,Regular,False,0
 2,Harrison Phillips,DL,32.0,0.54,0.54,0.0,Regular,False,0
 3,Harrison Phillips,DL,44.0,0.68,0.54,0.14,Regular,False,0
@@ -81,11 +88,13 @@ week,player,position,defensive_snaps,defensive_snap_share,prior_week_snap_share,
 7,Harrison Phillips,DL,46.0,0.71,0.54,0.16999999999999993,High-use,True,1
 8,Harrison Phillips,DL,38.0,0.6,0.71,-0.10999999999999999,Regular,False,1
 9,Harrison Phillips,DL,27.0,0.41,0.6,-0.19,Rotation,False,1
+10,Harrison Phillips,DL,30.0,0.53,0.41,0.12000000000000005,Regular,False,1
 3,Jack Heflin,DT,8.0,0.12,,,Spot / low,False,0
 4,Jack Heflin,DT,16.0,0.17,0.12,0.05000000000000002,Spot / low,False,0
 5,Jack Heflin,DT,3.0,0.04,0.17,-0.13,Spot / low,False,0
 8,Jack Heflin,DL,21.0,0.33,0.04,0.29000000000000004,Rotation,False,0
 9,Jack Heflin,DL,23.0,0.35,0.33,0.019999999999999962,Rotation,False,0
+10,Jack Heflin,DL,27.0,0.47,0.35,0.12,Rotation,False,0
 1,Jamien Sherwood,LB,45.0,0.9,,,High-use,True,1
 2,Jamien Sherwood,LB,59.0,1.0,0.9,0.09999999999999998,High-use,True,2
 3,Jamien Sherwood,LB,61.0,0.94,1.0,-0.06000000000000005,High-use,True,3
@@ -95,6 +104,7 @@ week,player,position,defensive_snaps,defensive_snap_share,prior_week_snap_share,
 7,Jamien Sherwood,LB,64.0,0.98,0.94,0.040000000000000036,High-use,True,7
 8,Jamien Sherwood,LB,63.0,1.0,0.98,0.020000000000000018,High-use,True,8
 9,Jamien Sherwood,LB,64.0,0.97,1.0,-0.030000000000000027,High-use,True,9
+10,Jamien Sherwood,LB,56.0,0.98,0.97,0.010000000000000009,High-use,True,10
 1,Jarvis Brownlee,DB,38.0,0.76,,,High-use,True,1
 2,Jarvis Brownlee,DB,41.0,0.69,0.76,-0.07000000000000006,Regular,False,1
 3,Jarvis Brownlee,DB,34.0,0.52,0.69,-0.16999999999999993,Regular,False,1
@@ -106,6 +116,7 @@ week,player,position,defensive_snaps,defensive_snap_share,prior_week_snap_share,
 3,Joseph Ossai,DE,28.0,0.43,,,Rotation,False,0
 4,Joseph Ossai,DE,57.0,0.61,0.43,0.18,Regular,False,0
 5,Joseph Ossai,DE,22.0,0.32,0.61,-0.29,Rotation,False,0
+10,Joseph Ossai,DE,16.0,0.28,0.32,-0.03999999999999998,Rotation,False,0
 1,Jowon Briggs,DL,10.0,0.2,,,Spot / low,False,0
 2,Jowon Briggs,DL,35.0,0.59,0.2,0.38999999999999996,Regular,False,0
 3,Jowon Briggs,DL,45.0,0.69,0.59,0.09999999999999998,Regular,False,0
@@ -115,6 +126,7 @@ week,player,position,defensive_snaps,defensive_snap_share,prior_week_snap_share,
 7,Jowon Briggs,DL,48.0,0.74,0.51,0.22999999999999998,High-use,True,1
 8,Jowon Briggs,DL,49.0,0.78,0.74,0.040000000000000036,High-use,True,2
 9,Jowon Briggs,DL,39.0,0.59,0.78,-0.19000000000000006,Regular,False,2
+10,Jowon Briggs,DL,34.0,0.6,0.59,0.010000000000000009,Regular,False,2
 1,Kingsley Enagbare,DE,33.0,0.66,,,Regular,False,0
 2,Kingsley Enagbare,DE,40.0,0.68,0.66,0.020000000000000018,Regular,False,0
 3,Kingsley Enagbare,DE,38.0,0.58,0.68,-0.10000000000000009,Regular,False,0
@@ -123,9 +135,11 @@ week,player,position,defensive_snaps,defensive_snap_share,prior_week_snap_share,
 7,Kingsley Enagbare,DE,44.0,0.68,0.75,-0.06999999999999995,Regular,False,2
 8,Kingsley Enagbare,DE,55.0,0.87,0.68,0.18999999999999995,High-use,True,3
 9,Kingsley Enagbare,DE,55.0,0.83,0.87,-0.040000000000000036,High-use,True,4
+10,Kingsley Enagbare,DE,33.0,0.58,0.83,-0.25,Regular,False,4
 1,Malachi Moore,DB,7.0,0.14,,,Spot / low,False,0
 2,Malachi Moore,DB,1.0,0.02,0.14,-0.12000000000000001,Spot / low,False,0
 9,Malachi Moore,DB,17.0,0.26,0.02,0.24000000000000002,Rotation,False,0
+10,Malachi Moore,DB,28.0,0.49,0.26,0.22999999999999998,Rotation,False,0
 1,Marcelino McCrary-Ball,LB,5.0,0.1,,,Spot / low,False,0
 1,Minkah Fitzpatrick,S,6.0,0.12,,,Spot / low,False,0
 4,Minkah Fitzpatrick,S,93.0,1.0,0.12,0.88,High-use,True,1
@@ -134,6 +148,8 @@ week,player,position,defensive_snaps,defensive_snap_share,prior_week_snap_share,
 7,Minkah Fitzpatrick,S,65.0,1.0,1.0,0.0,High-use,True,4
 8,Minkah Fitzpatrick,S,63.0,1.0,1.0,0.0,High-use,True,5
 9,Minkah Fitzpatrick,S,65.0,0.98,1.0,-0.020000000000000018,High-use,True,6
+10,Minkah Fitzpatrick,S,57.0,1.0,0.98,0.020000000000000018,High-use,True,7
+10,Nahshon Wright,DB,2.0,0.04,,,Spot / low,False,0
 6,Nate Lynn,DE,8.0,0.12,,,Spot / low,False,0
 7,Nate Lynn,DE,3.0,0.05,0.12,-0.06999999999999999,Spot / low,False,0
 8,Nate Lynn,DE,28.0,0.44,0.05,0.39,Rotation,False,0
@@ -158,3 +174,4 @@ week,player,position,defensive_snaps,defensive_snap_share,prior_week_snap_share,
 7,Will McDonald,DE,27.0,0.42,0.34,0.07999999999999996,Rotation,False,1
 8,Will McDonald,DE,36.0,0.57,0.42,0.14999999999999997,Regular,False,1
 9,Will McDonald,DE,24.0,0.36,0.57,-0.20999999999999996,Rotation,False,1
+10,Will McDonald,DE,30.0,0.53,0.36,0.17000000000000004,Regular,False,1
