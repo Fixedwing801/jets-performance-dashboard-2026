@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-11-17T08:13:53.143298+00:00",
-  "joined_pass_plays": 9682,
+  "generated_utc": "2026-11-17T12:59:07.609566+00:00",
+  "joined_pass_plays": 10530,
   "teams": 32,
-  "jets_charted_pass_plays": 292,
+  "jets_charted_pass_plays": 314,
   "weeks": [
     1,
     2,
@@ -12,7 +12,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "opponent_adjustment": "For each Jets opponent, compare their EPA on passes against NYJ with their EPA on passes against all other defences in the same season.",
   "limitations": [

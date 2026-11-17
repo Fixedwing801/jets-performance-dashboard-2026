@@ -1,6 +1,6 @@
 {
-  "generated_utc": "2026-11-17T08:13:49.593079+00:00",
-  "source_rows_joined": 292,
+  "generated_utc": "2026-11-17T12:59:04.082270+00:00",
+  "source_rows_joined": 314,
   "weeks": [
     1,
     2,
@@ -10,7 +10,8 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "available_charting_fields": [
     "n_blitzers",
