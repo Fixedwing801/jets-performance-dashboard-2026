@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-17T00:57:27.586761+00:00",
+  "generated_utc": "2026-11-17T07:08:25.877228+00:00",
   "source": "nflverse 2026 play-by-play; eligible run/pass plays with non-null EPA",
   "weeks": [
     1,
@@ -48,7 +48,7 @@
     "WAS"
   ],
   "team_count": 32,
-  "rows": 596,
+  "rows": 600,
   "teams_by_week": {
     "1": 32,
     "2": 32,
@@ -59,11 +59,11 @@
     "7": 28,
     "8": 28,
     "9": 30,
-    "10": 26
+    "10": 28
   },
-  "latest_week_team_count": 26,
+  "latest_week_team_count": 28,
   "latest_week_status": "partial",
-  "eligible_team_week_plays": 18328,
+  "eligible_team_week_plays": 18447,
   "bye_weeks_and_missing_team_weeks": "not zero-filled or interpolated",
   "validation": "passed: team/week keys, split denominators, weighted EPA and weekly offense/defense totals"
 }
