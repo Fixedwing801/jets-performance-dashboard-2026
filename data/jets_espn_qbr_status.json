@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-11-16T18:51:47.064556+00:00",
+  "generated_utc": "2026-11-17T00:57:51.121734+00:00",
   "source": "ESPN Total QBR via nflverse/espnscrapeR",
   "status": "available",
-  "rows": 8,
+  "rows": 10,
   "columns": [
     "season",
     "game_week",
@@ -40,10 +40,10 @@
     6,
     7,
     8,
-    9
+    9,
+    10
   ],
   "missing_game_weeks": [
-    4,
-    10
+    4
   ]
 }
