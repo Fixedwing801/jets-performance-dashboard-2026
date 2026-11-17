@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-17T07:08:25.877228+00:00",
+  "generated_utc": "2026-11-17T08:13:36.581514+00:00",
   "source": "nflverse 2026 play-by-play; eligible run/pass plays with non-null EPA",
   "weeks": [
     1,
@@ -61,9 +61,128 @@
     "9": 30,
     "10": 28
   },
+  "week_status": {
+    "1": {
+      "status": "all_scheduled_games_represented",
+      "games_expected": 16,
+      "games_present": 16,
+      "games_missing": 0,
+      "teams_scheduled": 32,
+      "teams_present": 32,
+      "teams_on_bye": 0,
+      "missing_game_ids": [],
+      "unexpected_game_ids": []
+    },
+    "2": {
+      "status": "all_scheduled_games_represented",
+      "games_expected": 16,
+      "games_present": 16,
+      "games_missing": 0,
+      "teams_scheduled": 32,
+      "teams_present": 32,
+      "teams_on_bye": 0,
+      "missing_game_ids": [],
+      "unexpected_game_ids": []
+    },
+    "3": {
+      "status": "all_scheduled_games_represented",
+      "games_expected": 16,
+      "games_present": 16,
+      "games_missing": 0,
+      "teams_scheduled": 32,
+      "teams_present": 32,
+      "teams_on_bye": 0,
+      "missing_game_ids": [],
+      "unexpected_game_ids": []
+    },
+    "4": {
+      "status": "all_scheduled_games_represented",
+      "games_expected": 16,
+      "games_present": 16,
+      "games_missing": 0,
+      "teams_scheduled": 32,
+      "teams_present": 32,
+      "teams_on_bye": 0,
+      "missing_game_ids": [],
+      "unexpected_game_ids": []
+    },
+    "5": {
+      "status": "all_scheduled_games_represented",
+      "games_expected": 15,
+      "games_present": 15,
+      "games_missing": 0,
+      "teams_scheduled": 30,
+      "teams_present": 30,
+      "teams_on_bye": 2,
+      "missing_game_ids": [],
+      "unexpected_game_ids": []
+    },
+    "6": {
+      "status": "all_scheduled_games_represented",
+      "games_expected": 14,
+      "games_present": 14,
+      "games_missing": 0,
+      "teams_scheduled": 28,
+      "teams_present": 28,
+      "teams_on_bye": 4,
+      "missing_game_ids": [],
+      "unexpected_game_ids": []
+    },
+    "7": {
+      "status": "all_scheduled_games_represented",
+      "games_expected": 14,
+      "games_present": 14,
+      "games_missing": 0,
+      "teams_scheduled": 28,
+      "teams_present": 28,
+      "teams_on_bye": 4,
+      "missing_game_ids": [],
+      "unexpected_game_ids": []
+    },
+    "8": {
+      "status": "all_scheduled_games_represented",
+      "games_expected": 14,
+      "games_present": 14,
+      "games_missing": 0,
+      "teams_scheduled": 28,
+      "teams_present": 28,
+      "teams_on_bye": 4,
+      "missing_game_ids": [],
+      "unexpected_game_ids": []
+    },
+    "9": {
+      "status": "all_scheduled_games_represented",
+      "games_expected": 15,
+      "games_present": 15,
+      "games_missing": 0,
+      "teams_scheduled": 30,
+      "teams_present": 30,
+      "teams_on_bye": 2,
+      "missing_game_ids": [],
+      "unexpected_game_ids": []
+    },
+    "10": {
+      "status": "all_scheduled_games_represented",
+      "games_expected": 14,
+      "games_present": 14,
+      "games_missing": 0,
+      "teams_scheduled": 28,
+      "teams_present": 28,
+      "teams_on_bye": 4,
+      "missing_game_ids": [],
+      "unexpected_game_ids": []
+    }
+  },
   "latest_week_team_count": 28,
-  "latest_week_status": "partial",
+  "latest_week_status": "all_scheduled_games_represented",
+  "latest_week_expected_games": 14,
+  "latest_week_games_present": 14,
+  "latest_week_games_missing": 0,
+  "latest_week_teams_on_bye": 4,
+  "schedule_source_status": "available",
+  "schedule_last_successful_utc": "2026-11-17T08:13:29.124414+00:00",
+  "schedule_file_available": true,
   "eligible_team_week_plays": 18447,
   "bye_weeks_and_missing_team_weeks": "not zero-filled or interpolated",
-  "validation": "passed: team/week keys, split denominators, weighted EPA and weekly offense/defense totals"
+  "validation": "passed: team/week keys, split denominators, weighted EPA, weekly offense/defense totals and schedule game-ID coverage where available"
 }
