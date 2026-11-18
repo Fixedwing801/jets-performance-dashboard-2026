@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-11-18T08:11:31.521863+00:00",
+  "generated_utc": "2026-11-18T13:03:24.915288+00:00",
   "source": "nflverse PFR advanced statistics",
   "status": "available",
   "types": {
     "pass": {
       "file": "pfr_advstats_week_pass_2026.parquet",
       "status": "available",
-      "jets_rows": 9,
+      "jets_rows": 11,
       "columns": [
         "stat_type",
         "game_id",
@@ -38,7 +38,7 @@
     "rush": {
       "file": "pfr_advstats_week_rush_2026.parquet",
       "status": "available",
-      "jets_rows": 31,
+      "jets_rows": 35,
       "columns": [
         "stat_type",
         "game_id",
@@ -62,7 +62,7 @@
     "rec": {
       "file": "pfr_advstats_week_rec_2026.parquet",
       "status": "available",
-      "jets_rows": 67,
+      "jets_rows": 74,
       "columns": [
         "stat_type",
         "game_id",
@@ -87,7 +87,7 @@
     "def": {
       "file": "pfr_advstats_week_def_2026.parquet",
       "status": "available",
-      "jets_rows": 109,
+      "jets_rows": 120,
       "columns": [
         "stat_type",
         "game_id",
@@ -122,7 +122,7 @@
       ]
     }
   },
-  "jets_rows": 216,
+  "jets_rows": 240,
   "columns": [
     "stat_type",
     "game_id",
