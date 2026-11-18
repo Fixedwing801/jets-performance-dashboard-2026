@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-18T13:02:51.122045+00:00",
+  "generated_utc": "2026-11-18T18:52:41.976775+00:00",
   "source_rows": 26246,
   "jets_game_side_rows": 20,
   "weeks": [
@@ -57,5 +57,5 @@
       "pbp_participation_2026.parquet": "pending_postseason"
     }
   },
-  "source_status_generated_utc": "2026-11-18T13:02:45.398513+00:00"
+  "source_status_generated_utc": "2026-11-18T18:52:36.266575+00:00"
 }
