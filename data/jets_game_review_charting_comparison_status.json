@@ -1,0 +1,31 @@
+{
+  "generated_utc": "2026-11-19T08:08:25.734496+00:00",
+  "source_file": "jets_game_review_charting.csv",
+  "source_present": true,
+  "comparison_available": true,
+  "latest_week": 10,
+  "latest_game_ids": [
+    "2026_10_BUF_NYJ"
+  ],
+  "latest_opponents": [
+    "BUF"
+  ],
+  "latest_charting_plays_by_game_side": {
+    "2026_10_BUF_NYJ|offense": 68,
+    "2026_10_BUF_NYJ|defense": 51
+  },
+  "previous_games_by_side": {
+    "offense": 9,
+    "defense": 9
+  },
+  "previous_charting_plays_by_side": {
+    "offense": 525,
+    "defense": 563
+  },
+  "comparison_rows": 28,
+  "weighting": "Each previous-game metric is weighted by its own count of non-missing FTN charted plays; missing metric values are excluded, never treated as zero.",
+  "limitations": [
+    "The latest game is the latest represented in the current PBP/FTN snapshot and may be partial while sources update.",
+    "Changes are descriptive and do not establish causation, coverage calls, or individual defender assignments."
+  ]
+}
