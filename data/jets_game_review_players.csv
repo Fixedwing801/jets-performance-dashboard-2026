@@ -1,11 +1,11 @@
 week,side,player,position,offense_snaps,snap_share,stats_record_status,total_yards,total_tds,touches,passing_yards,rushing_yards,receiving_yards,passing_epa,receiving_epa,targets,receptions,data_basis,defense_snaps,total_tackles,sacks,qb_hits,interceptions,passes_defended,tackles_for_loss,forced_fumbles,disruption_events
 10,offense,Cade Klubnik,QB,37.0,0.52,Recorded,163.0,0.0,3.0,137.0,26.0,0.0,-4.016677520057375,0.0,0.0,0.0,Snap-linked box score,,,,,,,,,
-10,offense,Geno Smith,QB,34.0,0.48,Recorded,148.0,0.0,0.0,148.0,0.0,0.0,-2.733541893095938,0.0,0.0,0.0,Snap-linked box score,,,,,,,,,
+10,offense,Geno Smith,QB,34.0,0.48,Recorded,148.0,0.0,0.0,148.0,0.0,0.0,-2.733541893095937,0.0,0.0,0.0,Snap-linked box score,,,,,,,,,
 10,offense,Breece Hall,RB,41.0,0.58,Recorded,108.0,0.0,15.0,0.0,41.0,67.0,0.0,3.929685662157416,4.0,4.0,Snap-linked box score,,,,,,,,,
 10,offense,Garrett Wilson,WR,67.0,0.94,Recorded,106.0,0.0,7.0,0.0,0.0,106.0,0.0,-5.384819886975227,14.0,7.0,Snap-linked box score,,,,,,,,,
 10,offense,Adonai Mitchell,WR,62.0,0.87,Recorded,59.0,0.0,3.0,0.0,0.0,59.0,0.0,0.4586472053812042,8.0,3.0,Snap-linked box score,,,,,,,,,
 10,offense,Braelon Allen,RB,34.0,0.48,Recorded,46.0,0.0,9.0,0.0,40.0,6.0,0.0,0.2207575237285102,1.0,1.0,Snap-linked box score,,,,,,,,,
-10,offense,Isaiah Williams,WR,50.0,0.7,Recorded,24.0,0.0,4.0,0.0,0.0,24.0,0.0,-2.41407568656378,7.0,4.0,Snap-linked box score,,,,,,,,,
+10,offense,Isaiah Williams,WR,50.0,0.7,Recorded,24.0,0.0,4.0,0.0,0.0,24.0,0.0,-2.4140756865637805,7.0,4.0,Snap-linked box score,,,,,,,,,
 10,offense,Mason Taylor,TE,53.0,0.75,Recorded,20.0,0.0,4.0,0.0,0.0,20.0,0.0,-0.3489081185376286,4.0,4.0,Snap-linked box score,,,,,,,,,
 10,defense,Will McDonald,DE,,0.53,Recorded,,,,,,,,,,,Snap-linked box score,30.0,1.0,1.0,2.0,0.0,0.0,1.0,0.0,4.0
 10,defense,Azareye'h Thomas,CB,,1.0,Recorded,,,,,,,,,,,Snap-linked box score,57.0,4.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0
