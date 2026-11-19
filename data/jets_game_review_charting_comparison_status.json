@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-19T08:08:25.734496+00:00",
+  "generated_utc": "2026-11-19T08:16:05.679893+00:00",
   "source_file": "jets_game_review_charting.csv",
   "source_present": true,
   "comparison_available": true,
@@ -14,6 +14,10 @@
     "2026_10_BUF_NYJ|offense": 68,
     "2026_10_BUF_NYJ|defense": 51
   },
+  "latest_pass_charting_plays_by_game_side": {
+    "2026_10_BUF_NYJ|offense": 45,
+    "2026_10_BUF_NYJ|defense": 22
+  },
   "previous_games_by_side": {
     "offense": 9,
     "defense": 9
@@ -22,8 +26,16 @@
     "offense": 525,
     "defense": 563
   },
+  "previous_pass_charting_plays_by_side": {
+    "offense": 301,
+    "defense": 292
+  },
   "comparison_rows": 28,
-  "weighting": "Each previous-game metric is weighted by its own count of non-missing FTN charted plays; missing metric values are excluded, never treated as zero.",
+  "weighting": "Each previous-game metric is weighted by its own count of non-missing FTN charted plays within that metric's defined population; missing values are excluded, never treated as zero.",
+  "population_definitions": {
+    "pass_plays": "Only matched FTN/PBP pass plays",
+    "all_scrimmage_plays": "All matched run and pass scrimmage plays"
+  },
   "limitations": [
     "The latest game is the latest represented in the current PBP/FTN snapshot and may be partial while sources update.",
     "Changes are descriptive and do not establish causation, coverage calls, or individual defender assignments."

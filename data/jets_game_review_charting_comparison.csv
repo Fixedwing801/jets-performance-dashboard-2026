@@ -1,29 +1,29 @@
-game_id,week,opponent,side,metric,metric_label,metric_type,latest_value,latest_sample_plays,latest_charting_plays,previous_weighted_value,previous_sample_plays,previous_games,delta
-2026_10_BUF_NYJ,10,BUF,offense,is_motion_rate,Motion,rate,0.5882352941176471,68,68,0.5028571428571429,525,9,0.08537815126050419
-2026_10_BUF_NYJ,10,BUF,offense,is_play_action_rate,Play action,rate,0.0588235294117647,68,68,0.13333333333333333,525,9,-0.07450980392156864
-2026_10_BUF_NYJ,10,BUF,offense,is_rpo_rate,RPO,rate,0.0588235294117647,68,68,0.049523809523809484,525,9,0.009299719887955214
-2026_10_BUF_NYJ,10,BUF,offense,is_screen_pass_rate,Screen pass,rate,0.0294117647058823,68,68,0.06095238095238092,525,9,-0.03154061624649862
-2026_10_BUF_NYJ,10,BUF,offense,is_no_huddle_rate,No huddle,rate,0.1176470588235294,68,68,0.03809523809523804,525,9,0.07955182072829135
-2026_10_BUF_NYJ,10,BUF,offense,is_trick_play_rate,Trick play,rate,0.0,68,68,0.005714285714285696,525,9,-0.005714285714285696
-2026_10_BUF_NYJ,10,BUF,offense,is_qb_out_of_pocket_rate,QB out of pocket,rate,0.1029411764705882,68,68,0.07999999999999997,525,9,0.02294117647058823
-2026_10_BUF_NYJ,10,BUF,offense,is_interception_worthy_rate,Interception-worthy throw,rate,0.0294117647058823,68,68,0.009523809523809506,525,9,0.019887955182072793
-2026_10_BUF_NYJ,10,BUF,offense,is_drop_rate,Drop,rate,0.0294117647058823,68,68,0.030476190476190438,525,9,-0.0010644257703081375
-2026_10_BUF_NYJ,10,BUF,offense,is_catchable_ball_rate,Catchable-ball rate,rate,0.3970588235294117,68,68,0.40190476190476193,525,9,-0.004845938375350245
-2026_10_BUF_NYJ,10,BUF,offense,n_blitzers_avg,Average blitzers,average,0.1911764705882352,68,68,0.22857142857142854,525,9,-0.03739495798319334
-2026_10_BUF_NYJ,10,BUF,offense,n_pass_rushers_avg,Average pass rushers,average,3.014705882352941,68,68,2.5752380952380953,525,9,0.4394677871148458
-2026_10_BUF_NYJ,10,BUF,offense,n_defense_box_avg,Average defenders in box,average,6.294117647058823,68,68,6.438095238095238,525,9,-0.14397759103641494
-2026_10_BUF_NYJ,10,BUF,offense,n_offense_backfield_avg,Average offensive backfield players,average,1.1176470588235294,68,68,1.118095238095238,525,9,-0.00044817927170859306
-2026_10_BUF_NYJ,10,BUF,defense,is_motion_rate,Motion,rate,0.803921568627451,51,51,0.5754884547069272,563,9,0.2284331139205238
-2026_10_BUF_NYJ,10,BUF,defense,is_play_action_rate,Play action,rate,0.0980392156862745,51,51,0.14564831261101238,563,9,-0.04760909692473789
-2026_10_BUF_NYJ,10,BUF,defense,is_rpo_rate,RPO,rate,0.1176470588235294,51,51,0.07460035523978684,563,9,0.04304670358374256
-2026_10_BUF_NYJ,10,BUF,defense,is_screen_pass_rate,Screen pass,rate,0.0392156862745098,51,51,0.05328596802841915,563,9,-0.014070281753909349
-2026_10_BUF_NYJ,10,BUF,defense,is_no_huddle_rate,No huddle,rate,0.0392156862745098,51,51,0.062166962699822345,563,9,-0.022951276425312542
-2026_10_BUF_NYJ,10,BUF,defense,is_trick_play_rate,Trick play,rate,0.0,51,51,0.005328596802841914,563,9,-0.005328596802841914
-2026_10_BUF_NYJ,10,BUF,defense,is_qb_out_of_pocket_rate,QB out of pocket,rate,0.0392156862745098,51,51,0.1243339253996447,563,9,-0.0851182391251349
-2026_10_BUF_NYJ,10,BUF,defense,is_interception_worthy_rate,Interception-worthy throw,rate,0.0392156862745098,51,51,0.005328596802841895,563,9,0.03388708947166791
-2026_10_BUF_NYJ,10,BUF,defense,is_drop_rate,Drop,rate,0.0196078431372549,51,51,0.023090586145648295,563,9,-0.0034827430083933936
-2026_10_BUF_NYJ,10,BUF,defense,is_catchable_ball_rate,Catchable-ball rate,rate,0.2549019607843137,51,51,0.3552397868561279,563,9,-0.10033782607181418
-2026_10_BUF_NYJ,10,BUF,defense,n_blitzers_avg,Average blitzers,average,0.1372549019607843,51,51,0.2841918294849023,563,9,-0.146936927524118
-2026_10_BUF_NYJ,10,BUF,defense,n_pass_rushers_avg,Average pass rushers,average,1.862745098039216,51,51,2.476021314387211,563,9,-0.6132762163479952
-2026_10_BUF_NYJ,10,BUF,defense,n_defense_box_avg,Average defenders in box,average,6.392156862745098,51,51,6.463587921847247,563,9,-0.07143105910214853
-2026_10_BUF_NYJ,10,BUF,defense,n_offense_backfield_avg,Average offensive backfield players,average,1.1372549019607845,51,51,1.1989342806394316,563,9,-0.061679378678647145
+game_id,week,opponent,side,metric,metric_label,metric_type,population,latest_value,latest_sample_plays,latest_charting_plays,previous_weighted_value,previous_sample_plays,previous_games,delta
+2026_10_BUF_NYJ,10,BUF,offense,is_motion_rate,Motion rate (all plays),rate,all_scrimmage_plays,0.5882352941176471,68,68,0.5028571428571429,525,9,0.08537815126050419
+2026_10_BUF_NYJ,10,BUF,offense,is_play_action_rate,Play action (pass plays),rate,pass_plays,0.0888888888888888,45,68,0.22591362126245848,301,9,-0.13702473237356969
+2026_10_BUF_NYJ,10,BUF,offense,is_rpo_rate,RPO rate (all plays),rate,all_scrimmage_plays,0.0588235294117647,68,68,0.049523809523809484,525,9,0.009299719887955214
+2026_10_BUF_NYJ,10,BUF,offense,is_screen_pass_rate,Screen pass (pass plays),rate,pass_plays,0.0444444444444444,45,68,0.10631229235880396,301,9,-0.061867847914359564
+2026_10_BUF_NYJ,10,BUF,offense,is_no_huddle_rate,No-huddle rate (all plays),rate,all_scrimmage_plays,0.1176470588235294,68,68,0.03809523809523804,525,9,0.07955182072829135
+2026_10_BUF_NYJ,10,BUF,offense,is_trick_play_rate,Trick play (all plays),rate,all_scrimmage_plays,0.0,68,68,0.005714285714285696,525,9,-0.005714285714285696
+2026_10_BUF_NYJ,10,BUF,offense,is_qb_out_of_pocket_rate,QB out of pocket (pass plays),rate,pass_plays,0.0888888888888888,45,68,0.10299003322259132,301,9,-0.01410114433370252
+2026_10_BUF_NYJ,10,BUF,offense,is_interception_worthy_rate,Interception-worthy (pass plays),rate,pass_plays,0.0444444444444444,45,68,0.016611295681063114,301,9,0.027833148763381284
+2026_10_BUF_NYJ,10,BUF,offense,is_drop_rate,Drop (pass plays),rate,pass_plays,0.0444444444444444,45,68,0.05315614617940195,301,9,-0.008711701734957555
+2026_10_BUF_NYJ,10,BUF,offense,is_catchable_ball_rate,Catchable ball (pass plays),rate,pass_plays,0.6,45,68,0.7009966777408638,301,9,-0.10099667774086385
+2026_10_BUF_NYJ,10,BUF,offense,n_blitzers_avg,Average blitzers (pass plays),average,pass_plays,0.2666666666666666,45,68,0.39867109634551495,301,9,-0.13200442967884835
+2026_10_BUF_NYJ,10,BUF,offense,n_pass_rushers_avg,Average pass rushers (pass plays),average,pass_plays,4.266666666666667,45,68,4.335548172757475,301,9,-0.06888150609080856
+2026_10_BUF_NYJ,10,BUF,offense,n_defense_box_avg,Average defenders in box (all plays),average,all_scrimmage_plays,6.294117647058823,68,68,6.438095238095238,525,9,-0.14397759103641494
+2026_10_BUF_NYJ,10,BUF,offense,n_offense_backfield_avg,Average offensive backfield players (all plays),average,all_scrimmage_plays,1.1176470588235294,68,68,1.118095238095238,525,9,-0.00044817927170859306
+2026_10_BUF_NYJ,10,BUF,defense,is_motion_rate,Motion rate (all plays),rate,all_scrimmage_plays,0.803921568627451,51,51,0.5754884547069272,563,9,0.2284331139205238
+2026_10_BUF_NYJ,10,BUF,defense,is_play_action_rate,Play action (pass plays),rate,pass_plays,0.2272727272727272,22,51,0.2773972602739726,292,9,-0.05012453300124539
+2026_10_BUF_NYJ,10,BUF,defense,is_rpo_rate,RPO rate (all plays),rate,all_scrimmage_plays,0.1176470588235294,51,51,0.07460035523978684,563,9,0.04304670358374256
+2026_10_BUF_NYJ,10,BUF,defense,is_screen_pass_rate,Screen pass (pass plays),rate,pass_plays,0.0909090909090909,22,51,0.10273972602739724,292,9,-0.011830635118306343
+2026_10_BUF_NYJ,10,BUF,defense,is_no_huddle_rate,No-huddle rate (all plays),rate,all_scrimmage_plays,0.0392156862745098,51,51,0.062166962699822345,563,9,-0.022951276425312542
+2026_10_BUF_NYJ,10,BUF,defense,is_trick_play_rate,Trick play (all plays),rate,all_scrimmage_plays,0.0,51,51,0.005328596802841914,563,9,-0.005328596802841914
+2026_10_BUF_NYJ,10,BUF,defense,is_qb_out_of_pocket_rate,QB out of pocket (pass plays),rate,pass_plays,0.0909090909090909,22,51,0.17123287671232876,292,9,-0.08032378580323786
+2026_10_BUF_NYJ,10,BUF,defense,is_interception_worthy_rate,Interception-worthy (pass plays),rate,pass_plays,0.0909090909090909,22,51,0.010273972602739713,292,9,0.08063511830635119
+2026_10_BUF_NYJ,10,BUF,defense,is_drop_rate,Drop (pass plays),rate,pass_plays,0.0454545454545454,22,51,0.04452054794520546,292,9,0.0009339975093399372
+2026_10_BUF_NYJ,10,BUF,defense,is_catchable_ball_rate,Catchable ball (pass plays),rate,pass_plays,0.5909090909090909,22,51,0.684931506849315,292,9,-0.09402241594022409
+2026_10_BUF_NYJ,10,BUF,defense,n_blitzers_avg,Average blitzers (pass plays),average,pass_plays,0.3181818181818182,22,51,0.5136986301369864,292,9,-0.19551681195516818
+2026_10_BUF_NYJ,10,BUF,defense,n_pass_rushers_avg,Average pass rushers (pass plays),average,pass_plays,4.318181818181818,22,51,4.469178082191781,292,9,-0.15099626400996247
+2026_10_BUF_NYJ,10,BUF,defense,n_defense_box_avg,Average defenders in box (all plays),average,all_scrimmage_plays,6.392156862745098,51,51,6.463587921847247,563,9,-0.07143105910214853
+2026_10_BUF_NYJ,10,BUF,defense,n_offense_backfield_avg,Average offensive backfield players (all plays),average,all_scrimmage_plays,1.1372549019607845,51,51,1.1989342806394316,563,9,-0.061679378678647145
