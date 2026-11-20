@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-11-20T00:57:04.837447+00:00",
+  "generated_utc": "2026-11-20T07:09:19.777229+00:00",
   "source": "nflverse 2026 play-by-play",
-  "latest_week": 10,
-  "forecast_week": 11,
-  "backtest_observations": 408,
+  "latest_week": 11,
+  "forecast_week": 12,
+  "backtest_observations": 412,
   "formula": "60% play-weighted mean of latest three team games + 40% play-weighted season-to-date mean; shrink 20% toward play-weighted league mean",
   "scope": "Team-level EPA/play forecast, not opponent/matchup-adjusted and not a player projection",
   "caveats": [
@@ -16,50 +16,50 @@
     {
       "side": "defense",
       "model": "blended_recent_and_season",
-      "observations": 204,
-      "mae": 0.13871024939415227,
-      "rmse": 0.17624431635713655,
-      "mean_error": 0.012456679883401631
+      "observations": 206,
+      "mae": 0.13911493581672454,
+      "rmse": 0.17685826959765952,
+      "mean_error": 0.013737625686617513
     },
     {
       "side": "defense",
       "model": "team_season_average",
-      "observations": 204,
-      "mae": 0.1415696286115664,
-      "rmse": 0.178353983660521,
-      "mean_error": 0.01378463425357202
+      "observations": 206,
+      "mae": 0.1418583921055273,
+      "rmse": 0.17886429048356972,
+      "mean_error": 0.015065689942101662
     },
     {
       "side": "defense",
       "model": "league_average",
-      "observations": 204,
-      "mae": 0.13939440830277178,
-      "rmse": 0.1744564999968075,
-      "mean_error": 0.01512048845634108
+      "observations": 206,
+      "mae": 0.13986120562119334,
+      "rmse": 0.17505897277146168,
+      "mean_error": 0.01623871216873919
     },
     {
       "side": "offense",
       "model": "blended_recent_and_season",
-      "observations": 204,
-      "mae": 0.13599436438225773,
-      "rmse": 0.16934040949764373,
-      "mean_error": 0.012661041940408232
+      "observations": 206,
+      "mae": 0.13551843513527786,
+      "rmse": 0.16887464777737238,
+      "mean_error": 0.013216787937769594
     },
     {
       "side": "offense",
       "model": "team_season_average",
-      "observations": 204,
-      "mae": 0.1369575351593444,
-      "rmse": 0.17134050377127366,
-      "mean_error": 0.014576669233686154
+      "observations": 206,
+      "mae": 0.13670008934890632,
+      "rmse": 0.17111247636960433,
+      "mean_error": 0.01536218298565369
     },
     {
       "side": "offense",
       "model": "league_average",
-      "observations": 204,
-      "mae": 0.13939440830277178,
-      "rmse": 0.17445649999680754,
-      "mean_error": 0.015120488456341081
+      "observations": 206,
+      "mae": 0.13986120562119334,
+      "rmse": 0.1750589727714617,
+      "mean_error": 0.01623871216873919
     }
   ]
 }
