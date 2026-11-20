@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-20T07:09:07.740559+00:00",
+  "generated_utc": "2026-11-20T13:02:06.251198+00:00",
   "source": "nflverse 2026 play-by-play; eligible run/pass plays with non-null EPA",
   "weeks": [
     1,
@@ -206,7 +206,7 @@
   "latest_week_games_missing": 12,
   "latest_week_teams_on_bye": 6,
   "schedule_source_status": "available",
-  "schedule_last_successful_utc": "2026-11-20T07:09:00.275388+00:00",
+  "schedule_last_successful_utc": "2026-11-20T13:01:55.983566+00:00",
   "schedule_file_available": true,
   "eligible_team_week_plays": 18559,
   "bye_weeks_and_missing_team_weeks": "not zero-filled or interpolated",
