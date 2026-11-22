@@ -1,285 +1,285 @@
-team,role,player,field_goals,extra_points,punts,punt_gross_avg,inside_20,returns,return_avg,return_long,returns_20_plus,return_touchdowns,fumbles_lost
-ARI,Kicker,C.Ryland,22/24,17/18,,,,,,,,,
-ATL,Kicker,J.Moody,2/2,1/1,,,,,,,,,
-ATL,Kicker,N.Folk,13/18,17/18,,,,,,,,,
-BAL,Kicker,J.Moody,1/1,1/1,,,,,,,,,
-BAL,Kicker,R.Patterson,3/3,6/6,,,,,,,,,
-BAL,Kicker,T.Loop,13/17,18/18,,,,,,,,,
-BUF,Kicker,T.Bass,24/25,29/31,,,,,,,,,
-CAR,Kicker,R.Fitzgerald,17/19,21/26,,,,,,,,,
-CHI,Kicker,C.Santos,17/21,29/30,,,,,,,,,
-CIN,Kicker,E.McPherson,13/14,33/33,,,,,,,,,
-CLE,Kicker,A.Szmyt,21/24,15/16,,,,,,,,,
-DAL,Kicker,B.Aubrey,20/25,31/33,,,,,,,,,
-DEN,Kicker,W.Lutz,16/19,16/16,,,,,,,,,
-DET,Kicker,J.Bates,17/19,33/33,,,,,,,,,
-GB,Kicker,T.Smack,15/21,21/24,,,,,,,,,
-HOU,Kicker,K.Fairbairn,20/21,27/27,,,,,,,,,
-IND,Kicker,S.Shrader,24/28,19/20,,,,,,,,,
-JAX,Kicker,C.Little,18/20,29/30,,,,,,,,,
-KC,Kicker,H.Butker,14/21,31/32,,,,,,,,,
-LA,Kicker,B.Grupe,1/1,0/0,,,,,,,,,
-LA,Kicker,B.McManus,5/5,14/14,,,,,,,,,
-LA,Kicker,E.Evans,0/0,1/1,,,,,,,,,
-LA,Kicker,H.Mevis,5/9,14/14,,,,,,,,,
-LAC,Kicker,C.Dicker,18/20,12/12,,,,,,,,,
-LV,Kicker,M.Gay,21/23,22/22,,,,,,,,,
-MIA,Kicker,D.Carlson,3/3,0/0,,,,,,,,,
-MIA,Kicker,R.Patterson,7/9,5/6,,,,,,,,,
-MIA,Kicker,Z.Gonzalez,6/10,6/7,,,,,,,,,
-MIN,Kicker,W.Reichard,23/25,13/13,,,,,,,,,
-NE,Kicker,A.Borregales,11/14,24/25,,,,,,,,,
-NO,Kicker,C.Smyth,6/8,5/5,,,,,,,,,
-NO,Kicker,D.Carlson,8/12,16/18,,,,,,,,,
-NYG,Kicker,D.Zvada,17/23,16/16,,,,,,,,,
-NYJ,Kicker,J.Sanders,25/28,13/14,,,,,,,,,
-PHI,Kicker,J.Elliott,11/12,18/18,,,,,,,,,
-PIT,Kicker,C.Boswell,22/27,18/18,,,,,,,,,
-SEA,Kicker,J.Myers,16/19,21/23,,,,,,,,,
-SF,Kicker,E.Pineiro,8/11,31/35,,,,,,,,,
-TB,Kicker,C.McLaughlin,22/22,21/21,,,,,,,,,
-TEN,Kicker,J.Slye,18/19,17/17,,,,,,,,,
-WAS,Kicker,D.Stevens,17/20,15/18,,,,,,,,,
-ARI,Punter,B.Gillikin,,,52.0,43.80769230769231,19.0,,,,,,
-ATL,Punter,J.Bailey,,,38.0,48.578947368421055,16.0,,,,,,
-BAL,Punter,R.Eckley,,,47.0,47.8936170212766,19.0,,,,,,
-BUF,Punter,T.Doman,,,22.0,47.54545454545455,9.0,,,,,,
-CAR,Punter,S.Martin,,,36.0,46.77777777777778,18.0,,,,,,
-CHI,Punter,T.Taylor,,,29.0,48.03448275862069,11.0,,,,,,
-CIN,Punter,R.Rehkow,,,26.0,45.03846153846154,15.0,,,,,,
-CLE,Punter,C.Bojorquez,,,48.0,49.854166666666664,16.0,,,,,,
-DAL,Punter,B.Anger,,,26.0,46.65384615384615,14.0,,,,,,
-DEN,Punter,J.Crawshaw,,,44.0,48.38636363636363,19.0,,,,,,
-DET,Punter,J.Fox,,,32.0,48.1875,16.0,,,,,,
-GB,Punter,D.Whelan,,,40.0,49.525,16.0,,,,,,
-HOU,Punter,K.Kroeger,,,42.0,46.38095238095238,12.0,,,,,,
-IND,Punter,R.Sanchez,,,40.0,48.3,15.0,,,,,,
-JAX,Punter,L.Cooke,,,29.0,48.44827586206897,12.0,,,,,,
-KC,Punter,M.Araiza,,,35.0,51.0,14.0,,,,,,
-LA,Punter,E.Evans,,,33.0,49.18181818181818,10.0,,,,,,
-LAC,Punter,J.Scott,,,40.0,45.925,13.0,,,,,,
-LV,Punter,A.Cole,,,34.0,52.14705882352941,14.0,,,,,,
-MIA,Punter,B.Pinion,,,30.0,44.6,9.0,,,,,,
-MIA,Punter,J.Browning,,,4.0,41.25,1.0,,,,,,
-MIN,Punter,B.Thorson,,,28.0,46.357142857142854,16.0,,,,,,
-MIN,Punter,J.Hekker,,,12.0,43.583333333333336,2.0,,,,,,
-NE,Punter,M.Wishnowsky,,,38.0,46.473684210526315,18.0,,,,,,
-NO,Punter,R.Wright,,,38.0,46.10526315789474,14.0,,,,,,
-NYG,Punter,J.Stout,,,38.0,50.8421052631579,19.0,,,,,,
-NYJ,Punter,A.McNamara,,,38.0,47.578947368421055,12.0,,,,,,
-PHI,Punter,B.Mann,,,53.0,48.41509433962264,24.0,,,,,,
-PIT,Punter,C.Johnston,,,43.0,48.16279069767442,18.0,,,,,,
-SEA,Punter,M.Dickson,,,40.0,45.625,16.0,,,,,,
-SF,Punter,C.Waitman,,,25.0,46.28,12.0,,,,,,
-TB,Punter,R.Dixon,,,45.0,44.84444444444444,14.0,,,,,,
-TEN,Punter,J.Slye,,,1.0,42.0,1.0,,,,,,
-TEN,Punter,T.Morstead,,,7.0,46.57142857142857,3.0,,,,,,
-TEN,Punter,T.Townsend,,,30.0,49.166666666666664,10.0,,,,,,
-WAS,Punter,T.Way,,,40.0,48.725,13.0,,,,,,
-ARI,Kickoff returner,D.Duvernay,,,,,,25.0,25.64,40.0,22.0,0.0,0.0
-ARI,Kickoff returner,H.Wallace,,,,,,1.0,19.0,19.0,0.0,0.0,0.0
-ARI,Kickoff returner,J.Brooks,,,,,,19.0,26.263157894736842,37.0,19.0,0.0,0.0
-ARI,Kickoff returner,M.Melton,,,,,,4.0,34.75,37.0,4.0,0.0,0.0
-ATL,Kickoff returner,Br.Robinson,,,,,,7.0,27.571428571428573,40.0,6.0,0.0,0.0
-ATL,Kickoff returner,K.Herbert,,,,,,15.0,27.933333333333334,39.0,15.0,0.0,0.0
-ATL,Kickoff returner,O.Zaccheaus,,,,,,10.0,23.1,37.0,7.0,0.0,0.0
-ATL,Kickoff returner,Z.Branch,,,,,,14.0,25.714285714285715,61.0,11.0,0.0,1.0
-BAL,Kickoff returner,C.Moore,,,,,,12.0,25.916666666666668,42.0,11.0,0.0,0.0
-BAL,Kickoff returner,D.Walker,,,,,,7.0,30.142857142857142,86.0,6.0,1.0,0.0
-BAL,Kickoff returner,J.Hill,,,,,,2.0,22.5,26.0,1.0,0.0,0.0
-BAL,Kickoff returner,L.Wester,,,,,,15.0,25.266666666666666,38.0,14.0,0.0,1.0
-BAL,Kickoff returner,R.Ali,,,,,,14.0,26.428571428571427,59.0,12.0,0.0,0.0
-BUF,Kickoff returner,G.Dortch,,,,,,25.0,27.96,58.0,22.0,0.0,0.0
-BUF,Kickoff returner,K.Shakir,,,,,,1.0,11.0,11.0,0.0,0.0,0.0
-BUF,Kickoff returner,R.Davis,,,,,,13.0,30.076923076923077,70.0,13.0,0.0,0.0
-CAR,Kickoff returner,A.Tyus,,,,,,27.0,25.814814814814813,37.0,23.0,0.0,0.0
-CAR,Kickoff returner,D.Moore,,,,,,8.0,21.0,30.0,6.0,0.0,0.0
-CAR,Kickoff returner,J.Metchie,,,,,,2.0,26.5,27.0,2.0,0.0,0.0
-CAR,Kickoff returner,Ji.Horn,,,,,,5.0,20.2,26.0,3.0,0.0,0.0
-CAR,Kickoff returner,T.Etienne,,,,,,5.0,26.4,36.0,5.0,0.0,0.0
-CAR,Kickoff returner,X.Legette,,,,,,2.0,26.0,29.0,2.0,0.0,0.0
-CHI,Kickoff returner,J.Blackwell,,,,,,5.0,21.2,23.0,5.0,0.0,0.0
-CHI,Kickoff returner,Z.Thomas,,,,,,29.0,25.655172413793103,61.0,24.0,0.0,0.0
-CIN,Kickoff returner,D.Meyers,,,,,,31.0,26.387096774193548,81.0,28.0,0.0,0.0
-CIN,Kickoff returner,K.Williams,,,,,,5.0,26.2,34.0,4.0,0.0,0.0
-CIN,Kickoff returner,S.Perine,,,,,,2.0,24.0,26.0,2.0,0.0,0.0
-CIN,Kickoff returner,T.Brooks,,,,,,5.0,24.4,27.0,5.0,0.0,0.0
-CLE,Kickoff returner,D.Sampson,,,,,,4.0,28.25,37.0,4.0,0.0,0.0
-CLE,Kickoff returner,I.Bond,,,,,,9.0,26.11111111111111,30.0,9.0,0.0,0.0
-CLE,Kickoff returner,J.McLaughlin,,,,,,5.0,23.4,29.0,4.0,0.0,0.0
-CLE,Kickoff returner,M.Corley,,,,,,19.0,25.736842105263158,34.0,18.0,0.0,1.0
-CLE,Kickoff returner,R.Sanders,,,,,,10.0,29.3,74.0,9.0,0.0,0.0
-DAL,Kickoff returner,C.Brown,,,,,,7.0,24.428571428571427,29.0,7.0,0.0,0.0
-DAL,Kickoff returner,I.Abanikanda,,,,,,2.0,25.0,26.0,2.0,0.0,0.0
-DAL,Kickoff returner,J.Mingo,,,,,,3.0,23.0,25.0,2.0,0.0,0.0
-DAL,Kickoff returner,K.Turpin,,,,,,26.0,26.73076923076923,48.0,25.0,0.0,1.0
-DAL,Kickoff returner,R.Flournoy,,,,,,1.0,19.0,19.0,0.0,0.0,0.0
-DAL,Kickoff returner,T.Goodson,,,,,,10.0,26.8,45.0,10.0,0.0,0.0
-DEN,Kickoff returner,C.Schrader,,,,,,3.0,22.666666666666668,27.0,2.0,0.0,0.0
-DEN,Kickoff returner,J.Coleman,,,,,,1.0,27.0,27.0,1.0,0.0,0.0
-DEN,Kickoff returner,K.Katsis,,,,,,4.0,26.75,31.0,4.0,0.0,0.0
-DEN,Kickoff returner,M.Mims,,,,,,8.0,25.75,39.0,7.0,0.0,0.0
-DEN,Kickoff returner,R.Harvey,,,,,,6.0,29.166666666666668,37.0,6.0,0.0,0.0
-DEN,Kickoff returner,S.Fresch,,,,,,6.0,25.5,41.0,5.0,0.0,0.0
-DEN,Kickoff returner,T.Badie,,,,,,4.0,26.25,38.0,4.0,0.0,0.0
-DET,Kickoff returner,D.Carter,,,,,,5.0,23.2,28.0,4.0,0.0,0.0
-DET,Kickoff returner,J.Saylors,,,,,,17.0,26.941176470588236,44.0,15.0,0.0,0.0
-DET,Kickoff returner,J.Small,,,,,,2.0,26.0,27.0,2.0,0.0,0.0
-DET,Kickoff returner,K.Dorsey,,,,,,1.0,27.0,27.0,1.0,0.0,0.0
-DET,Kickoff returner,T.Kennedy,,,,,,9.0,24.77777777777778,33.0,8.0,0.0,0.0
-GB,Kickoff returner,B.Melton,,,,,,15.0,26.666666666666668,59.0,13.0,0.0,0.0
-GB,Kickoff returner,C.Owen,,,,,,4.0,26.25,31.0,3.0,0.0,1.0
-GB,Kickoff returner,J.Sturdivant,,,,,,6.0,25.166666666666668,27.0,6.0,0.0,1.0
-GB,Kickoff returner,K.Johnson,,,,,,2.0,26.0,27.0,2.0,0.0,0.0
-GB,Kickoff returner,S.Moore,,,,,,13.0,27.153846153846153,43.0,13.0,0.0,0.0
-GB,Kickoff returner,S.Williams,,,,,,1.0,22.0,22.0,1.0,0.0,0.0
-HOU,Kickoff returner,J.Noel,,,,,,14.0,26.357142857142858,53.0,12.0,0.0,0.0
-HOU,Kickoff returner,N.Remigio,,,,,,5.0,27.0,32.0,5.0,0.0,0.0
-HOU,Kickoff returner,T.Smith,,,,,,16.0,24.25,32.0,13.0,0.0,0.0
-HOU,Kickoff returner,W.Marks,,,,,,7.0,24.285714285714285,31.0,6.0,0.0,0.0
-HOU,Kickoff returner,X.Hutchinson,,,,,,6.0,25.666666666666668,29.0,5.0,0.0,0.0
-IND,Kickoff returner,A.Dulin,,,,,,6.0,23.666666666666668,33.0,3.0,0.0,0.0
-IND,Kickoff returner,A.Gould,,,,,,9.0,29.333333333333332,54.0,9.0,0.0,0.0
-IND,Kickoff returner,D.Burks,,,,,,6.0,20.0,29.0,4.0,0.0,0.0
-IND,Kickoff returner,S.McGowan,,,,,,29.0,29.20689655172414,66.0,28.0,0.0,0.0
-JAX,Kickoff returner,A.Abdullah,,,,,,15.0,28.666666666666668,53.0,14.0,0.0,0.0
-JAX,Kickoff returner,J.Cameron,,,,,,16.0,26.75,46.0,14.0,0.0,0.0
-KC,Kickoff returner,B.Smith,,,,,,5.0,26.6,31.0,5.0,0.0,0.0
-KC,Kickoff returner,C.Allen,,,,,,1.0,19.0,19.0,0.0,0.0,0.0
-KC,Kickoff returner,E.Johnson,,,,,,11.0,28.90909090909091,44.0,10.0,0.0,0.0
-KC,Kickoff returner,J.De Jesus,,,,,,3.0,22.0,25.0,2.0,0.0,0.0
-KC,Kickoff returner,J.Royals,,,,,,2.0,24.5,25.0,2.0,0.0,0.0
-KC,Kickoff returner,N.Carter,,,,,,1.0,28.0,28.0,1.0,0.0,0.0
-KC,Kickoff returner,N.Remigio,,,,,,12.0,26.5,44.0,10.0,0.0,0.0
-LA,Kickoff returner,A.Bachman,,,,,,13.0,22.923076923076923,32.0,11.0,0.0,0.0
-LA,Kickoff returner,B.Presley,,,,,,1.0,20.0,20.0,1.0,0.0,0.0
-LA,Kickoff returner,D.Connors,,,,,,1.0,23.0,23.0,1.0,0.0,0.0
-LA,Kickoff returner,J.Whittington,,,,,,12.0,26.333333333333332,34.0,11.0,0.0,0.0
-LA,Kickoff returner,R.Rivers,,,,,,3.0,29.0,34.0,3.0,0.0,0.0
-LA,Kickoff returner,X.Smith,,,,,,7.0,20.571428571428573,29.0,4.0,0.0,0.0
-LAC,Kickoff returner,D.Davis,,,,,,10.0,23.0,34.0,7.0,0.0,0.0
-LAC,Kickoff returner,K.Mitchell,,,,,,18.0,22.166666666666668,28.0,13.0,0.0,0.0
-LAC,Kickoff returner,K.Vidal,,,,,,12.0,25.75,32.0,11.0,0.0,0.0
-LV,Kickoff returner,D.Laube,,,,,,26.0,31.26923076923077,95.0,24.0,1.0,1.0
-LV,Kickoff returner,D.Thompkins,,,,,,3.0,26.666666666666668,32.0,3.0,0.0,0.0
-LV,Kickoff returner,D.Young,,,,,,12.0,25.5,32.0,11.0,0.0,1.0
-MIA,Kickoff returner,J.Wright,,,,,,29.0,26.724137931034484,79.0,24.0,0.0,0.0
-MIA,Kickoff returner,K.Allen,,,,,,3.0,26.666666666666668,34.0,3.0,0.0,0.0
-MIA,Kickoff returner,K.Coleman,,,,,,6.0,29.5,39.0,6.0,0.0,0.0
-MIA,Kickoff returner,M.Washington,,,,,,10.0,22.5,33.0,7.0,0.0,0.0
-MIA,Kickoff returner,O.Gordon,,,,,,1.0,20.0,20.0,1.0,0.0,0.0
-MIN,Kickoff returner,M.Price,,,,,,28.0,29.214285714285715,68.0,28.0,0.0,0.0
-NE,Kickoff returner,C.Kiner,,,,,,22.0,25.227272727272727,37.0,21.0,0.0,0.0
-NE,Kickoff returner,K.Williams,,,,,,18.0,24.0,34.0,16.0,0.0,0.0
-NE,Kickoff returner,L.Larison,,,,,,2.0,24.5,27.0,2.0,0.0,0.0
-NO,Kickoff returner,B.Brown,,,,,,24.0,26.083333333333332,53.0,20.0,0.0,0.0
-NO,Kickoff returner,B.Lance,,,,,,8.0,21.375,30.0,5.0,0.0,0.0
-NO,Kickoff returner,J.Moreno-Cropper,,,,,,1.0,22.0,22.0,1.0,0.0,0.0
-NO,Kickoff returner,J.Price,,,,,,10.0,22.8,29.0,8.0,0.0,1.0
-NO,Kickoff returner,K.Miller,,,,,,2.0,18.5,19.0,0.0,0.0,0.0
-NO,Kickoff returner,Z.White,,,,,,2.0,24.5,25.0,2.0,0.0,0.0
-NYG,Kickoff returner,B.Berrios,,,,,,5.0,27.6,30.0,5.0,0.0,0.0
-NYG,Kickoff returner,C.Jones,,,,,,14.0,23.785714285714285,36.0,10.0,0.0,1.0
-NYG,Kickoff returner,D.Banks,,,,,,2.0,18.5,19.0,0.0,0.0,0.0
-NYG,Kickoff returner,D.Singletary,,,,,,1.0,22.0,22.0,1.0,0.0,0.0
-NYG,Kickoff returner,G.Desrosiers,,,,,,3.0,24.666666666666668,26.0,3.0,0.0,0.0
-NYG,Kickoff returner,T.Tracy,,,,,,9.0,28.88888888888889,55.0,9.0,0.0,0.0
-NYJ,Kickoff returner,I.Davis,,,,,,3.0,24.666666666666668,30.0,3.0,0.0,0.0
-NYJ,Kickoff returner,I.Williams,,,,,,15.0,26.533333333333335,41.0,15.0,0.0,0.0
-NYJ,Kickoff returner,J.Pritchett,,,,,,1.0,27.0,27.0,1.0,0.0,0.0
-NYJ,Kickoff returner,K.Nwangwu,,,,,,16.0,24.0,31.0,15.0,0.0,0.0
-NYJ,Kickoff returner,M.McClain,,,,,,1.0,28.0,28.0,1.0,0.0,0.0
-PHI,Kickoff returner,B.Covey,,,,,,9.0,21.333333333333332,42.0,5.0,0.0,0.0
-PHI,Kickoff returner,D.Cooper,,,,,,2.0,19.0,22.0,1.0,0.0,0.0
-PHI,Kickoff returner,D.Pierce,,,,,,3.0,20.333333333333332,24.0,2.0,0.0,0.0
-PHI,Kickoff returner,E.Mitchell,,,,,,3.0,9.0,16.0,0.0,0.0,0.0
-PHI,Kickoff returner,J.Blue,,,,,,13.0,22.384615384615383,34.0,11.0,0.0,1.0
-PHI,Kickoff returner,T.Bigsby,,,,,,2.0,25.0,29.0,2.0,0.0,0.0
-PHI,Kickoff returner,W.Shipley,,,,,,9.0,23.22222222222222,29.0,7.0,0.0,0.0
-PIT,Kickoff returner,E.Heidenreich,,,,,,3.0,24.333333333333332,26.0,3.0,0.0,0.0
-PIT,Kickoff returner,K.Wetjen,,,,,,33.0,24.393939393939394,35.0,30.0,0.0,0.0
-PIT,Kickoff returner,L.Nichols,,,,,,7.0,22.571428571428573,25.0,6.0,0.0,0.0
-PIT,Kickoff returner,M.Hurleman,,,,,,2.0,16.0,25.0,1.0,0.0,0.0
-SEA,Kickoff returner,G.Holani,,,,,,6.0,24.0,34.0,5.0,0.0,0.0
-SEA,Kickoff returner,J.Price,,,,,,3.0,32.666666666666664,42.0,3.0,0.0,0.0
-SEA,Kickoff returner,R.Shaheed,,,,,,18.0,27.0,39.0,17.0,0.0,0.0
-SEA,Kickoff returner,T.Horton,,,,,,3.0,29.666666666666668,37.0,3.0,0.0,0.0
-SEA,Kickoff returner,V.Jones,,,,,,2.0,20.0,21.0,1.0,0.0,0.0
-SF,Kickoff returner,D.Samuel,,,,,,13.0,24.76923076923077,45.0,9.0,0.0,0.0
-SF,Kickoff returner,J.Cowing,,,,,,5.0,25.0,28.0,5.0,0.0,0.0
-SF,Kickoff returner,J.James,,,,,,17.0,25.41176470588235,39.0,14.0,0.0,0.0
-SF,Kickoff returner,K.Black,,,,,,2.0,32.5,34.0,2.0,0.0,0.0
-TB,Kickoff returner,J.Williams,,,,,,1.0,47.0,47.0,1.0,0.0,0.0
-TB,Kickoff returner,K.Gainwell,,,,,,13.0,26.23076923076923,40.0,12.0,0.0,0.0
-TB,Kickoff returner,K.Johnson,,,,,,16.0,27.0625,48.0,13.0,0.0,0.0
-TB,Kickoff returner,S.Tucker,,,,,,5.0,22.4,24.0,5.0,0.0,0.0
-TB,Kickoff returner,T.Johnson,,,,,,1.0,25.0,25.0,1.0,0.0,0.0
-TEN,Kickoff returner,C.Dike,,,,,,44.0,25.272727272727273,40.0,37.0,0.0,2.0
-TEN,Kickoff returner,J.Chestnut,,,,,,1.0,21.0,21.0,1.0,0.0,0.0
-TEN,Kickoff returner,M.Carter,,,,,,1.0,26.0,26.0,1.0,0.0,0.0
-WAS,Kickoff returner,D.Brown,,,,,,3.0,27.333333333333332,37.0,3.0,0.0,0.0
-WAS,Kickoff returner,J.Lane,,,,,,12.0,24.583333333333332,36.0,10.0,0.0,0.0
-WAS,Kickoff returner,L.McCaffrey,,,,,,13.0,25.0,44.0,10.0,0.0,0.0
-WAS,Kickoff returner,R.White,,,,,,8.0,27.375,38.0,7.0,0.0,0.0
-ARI,Punt returner,D.Duvernay,,,,,,9.0,8.777777777777779,14.0,0.0,0.0,0.0
-ATL,Punt returner,O.Zaccheaus,,,,,,6.0,14.166666666666666,24.0,2.0,0.0,0.0
-ATL,Punt returner,Z.Branch,,,,,,6.0,13.833333333333334,25.0,1.0,0.0,0.0
-BAL,Punt returner,L.Wester,,,,,,11.0,11.181818181818182,24.0,2.0,0.0,0.0
-BUF,Punt returner,G.Dortch,,,,,,16.0,11.625,25.0,2.0,0.0,0.0
-CAR,Punt returner,D.Moore,,,,,,3.0,10.333333333333334,17.0,0.0,0.0,0.0
-CAR,Punt returner,J.Coker,,,,,,2.0,24.5,36.0,1.0,0.0,0.0
-CAR,Punt returner,Ji.Horn,,,,,,1.0,17.0,17.0,0.0,0.0,0.0
-CAR,Punt returner,T.Etienne,,,,,,10.0,12.6,24.0,3.0,0.0,0.0
-CHI,Punt returner,K.Raymond,,,,,,16.0,13.1875,26.0,4.0,0.0,0.0
-CIN,Punt returner,D.Meyers,,,,,,8.0,12.875,31.0,2.0,0.0,0.0
-CLE,Punt returner,D.Boston,,,,,,6.0,9.333333333333334,16.0,0.0,0.0,0.0
-CLE,Punt returner,K.Concepcion,,,,,,5.0,11.0,21.0,1.0,0.0,0.0
-DAL,Punt returner,J.Mingo,,,,,,6.0,11.833333333333334,18.0,0.0,0.0,0.0
-DAL,Punt returner,K.Turpin,,,,,,11.0,11.0,17.0,0.0,0.0,0.0
-DEN,Punt returner,K.Abrams-Draine,,,,,,1.0,3.0,3.0,0.0,0.0,0.0
-DEN,Punt returner,K.Katsis,,,,,,3.0,13.0,28.0,1.0,0.0,0.0
-DEN,Punt returner,M.Mims,,,,,,11.0,11.636363636363637,26.0,1.0,0.0,0.0
-DET,Punt returner,A.St. Brown,,,,,,2.0,18.0,31.0,1.0,0.0,0.0
-DET,Punt returner,D.Carter,,,,,,3.0,10.666666666666666,15.0,0.0,0.0,0.0
-DET,Punt returner,T.Kennedy,,,,,,6.0,13.166666666666666,22.0,1.0,0.0,0.0
-GB,Punt returner,C.Owen,,,,,,3.0,12.0,16.0,0.0,0.0,0.0
-GB,Punt returner,M.Golden,,,,,,3.0,13.333333333333334,17.0,0.0,0.0,0.0
-GB,Punt returner,S.Moore,,,,,,9.0,14.777777777777779,63.0,1.0,0.0,0.0
-HOU,Punt returner,J.Noel,,,,,,9.0,9.444444444444445,17.0,0.0,0.0,0.0
-HOU,Punt returner,N.Remigio,,,,,,5.0,12.2,22.0,1.0,0.0,0.0
-HOU,Punt returner,T.Dell,,,,,,2.0,7.5,14.0,0.0,0.0,0.0
-HOU,Punt returner,T.Smith,,,,,,1.0,10.0,10.0,0.0,0.0,0.0
-IND,Punt returner,A.Gould,,,,,,4.0,9.75,20.0,1.0,0.0,0.0
-IND,Punt returner,J.Downs,,,,,,1.0,20.0,20.0,1.0,0.0,0.0
-JAX,Punt returner,J.Cameron,,,,,,1.0,6.0,6.0,0.0,0.0,0.0
-JAX,Punt returner,P.Washington,,,,,,7.0,7.714285714285714,12.0,0.0,0.0,0.0
-JAX,Punt returner,T.Hunter,,,,,,1.0,1.0,1.0,0.0,0.0,0.0
-KC,Punt returner,J.Downs,,,,,,1.0,11.0,11.0,0.0,0.0,0.0
-KC,Punt returner,N.Remigio,,,,,,9.0,9.11111111111111,27.0,1.0,0.0,0.0
-LA,Punt returner,A.Bachman,,,,,,7.0,6.714285714285714,15.0,0.0,0.0,0.0
-LA,Punt returner,X.Smith,,,,,,6.0,11.833333333333334,19.0,0.0,0.0,0.0
-LAC,Punt returner,D.Davis,,,,,,6.0,15.166666666666666,24.0,3.0,0.0,0.0
-LV,Punt returner,D.Thompkins,,,,,,1.0,18.0,18.0,0.0,0.0,0.0
-LV,Punt returner,M.Benson,,,,,,7.0,13.428571428571429,23.0,1.0,0.0,0.0
-MIA,Punt returner,K.Coleman,,,,,,1.0,6.0,6.0,0.0,0.0,0.0
-MIA,Punt returner,M.Washington,,,,,,8.0,14.625,28.0,2.0,0.0,0.0
-MIN,Punt returner,M.Price,,,,,,12.0,21.833333333333332,86.0,3.0,1.0,0.0
-NE,Punt returner,E.Chism,,,,,,1.0,18.0,18.0,0.0,0.0,0.0
-NE,Punt returner,M.Jones,,,,,,16.0,11.0625,26.0,1.0,0.0,0.0
-NO,Punt returner,B.Brown,,,,,,19.0,11.789473684210526,23.0,5.0,0.0,0.0
-NO,Punt returner,J.Price,,,,,,1.0,11.0,11.0,0.0,0.0,0.0
-NYG,Punt returner,B.Berrios,,,,,,2.0,6.0,7.0,0.0,0.0,0.0
-NYG,Punt returner,C.Jones,,,,,,15.0,10.666666666666666,23.0,1.0,0.0,0.0
-NYJ,Punt returner,I.Williams,,,,,,11.0,13.181818181818182,20.0,1.0,0.0,0.0
-PHI,Punt returner,B.Covey,,,,,,16.0,14.5625,41.0,2.0,0.0,0.0
-PHI,Punt returner,C.DeJean,,,,,,4.0,8.25,13.0,0.0,0.0,0.0
-PIT,Punt returner,K.Wetjen,,,,,,9.0,9.555555555555555,17.0,0.0,0.0,0.0
-PIT,Punt returner,M.Hurleman,,,,,,3.0,12.0,15.0,0.0,0.0,0.0
-SEA,Punt returner,R.Shaheed,,,,,,13.0,13.461538461538462,32.0,2.0,0.0,0.0
-SEA,Punt returner,T.Horton,,,,,,4.0,6.75,13.0,0.0,0.0,0.0
-SF,Punt returner,J.Cowing,,,,,,5.0,5.4,13.0,0.0,0.0,0.0
-TB,Punt returner,T.Johnson,,,,,,11.0,12.272727272727273,22.0,1.0,0.0,0.0
-TEN,Punt returner,C.Dike,,,,,,10.0,14.2,58.0,1.0,0.0,0.0
-WAS,Punt returner,A.Williams,,,,,,1.0,2.0,2.0,0.0,0.0,0.0
-WAS,Punt returner,J.Lane,,,,,,7.0,12.0,19.0,0.0,0.0,0.0
-WAS,Punt returner,L.McCaffrey,,,,,,5.0,11.4,27.0,1.0,0.0,0.0
+team,role,player,field_goals,field_goals_over_expected,extra_points,punts,punt_gross_avg,inside_20,returns,return_avg,return_long,returns_20_plus,return_touchdowns,fumbles_lost
+ARI,Kicker,C.Ryland,22/24,0.9961344273110058,17/18,,,,,,,,,
+ATL,Kicker,J.Moody,2/2,0.06315789473684208,1/1,,,,,,,,,
+ATL,Kicker,N.Folk,13/18,-2.5277142661860452,17/18,,,,,,,,,
+BAL,Kicker,J.Moody,1/1,0.3146067415730337,1/1,,,,,,,,,
+BAL,Kicker,R.Patterson,3/3,0.09473684210526301,6/6,,,,,,,,,
+BAL,Kicker,T.Loop,13/17,-1.276265419349853,18/18,,,,,,,,,
+BUF,Kicker,T.Bass,24/25,2.2850675613430838,29/31,,,,,,,,,
+CAR,Kicker,R.Fitzgerald,17/19,0.9412431762597748,21/26,,,,,,,,,
+CHI,Kicker,C.Santos,17/21,-0.9955989290033855,29/30,,,,,,,,,
+CIN,Kicker,E.McPherson,13/14,1.4489734301311419,33/33,,,,,,,,,
+CLE,Kicker,A.Szmyt,21/24,0.433512922388406,15/16,,,,,,,,,
+DAL,Kicker,B.Aubrey,20/25,-0.6084948693794239,31/33,,,,,,,,,
+DEN,Kicker,W.Lutz,16/19,-0.31611101040388334,16/16,,,,,,,,,
+DET,Kicker,J.Bates,17/19,0.5295382887233337,33/33,,,,,,,,,
+GB,Kicker,T.Smack,15/21,-2.9699253214624264,21/24,,,,,,,,,
+HOU,Kicker,K.Fairbairn,20/21,2.6991337527376658,27/27,,,,,,,,,
+IND,Kicker,S.Shrader,24/28,1.6697003646262019,19/20,,,,,,,,,
+JAX,Kicker,C.Little,18/20,1.5645513195783778,29/30,,,,,,,,,
+KC,Kicker,H.Butker,14/21,-2.9921648455167613,31/32,,,,,,,,,
+LA,Kicker,B.Grupe,1/1,0.18592964824120606,0/0,,,,,,,,,
+LA,Kicker,B.McManus,5/5,0.31224543771489,14/14,,,,,,,,,
+LA,Kicker,E.Evans,0/0,,1/1,,,,,,,,,
+LA,Kicker,H.Mevis,5/9,-2.5066574742428873,14/14,,,,,,,,,
+LAC,Kicker,C.Dicker,18/20,0.12373874101435689,12/12,,,,,,,,,
+LV,Kicker,M.Gay,21/23,1.0932325732744133,22/22,,,,,,,,,
+MIA,Kicker,D.Carlson,3/3,0.6607924305144883,0/0,,,,,,,,,
+MIA,Kicker,R.Patterson,7/9,-1.1240602777340278,5/6,,,,,,,,,
+MIA,Kicker,Z.Gonzalez,6/10,-2.2433979477517685,6/7,,,,,,,,,
+MIN,Kicker,W.Reichard,23/25,2.4171787381615353,13/13,,,,,,,,,
+NE,Kicker,A.Borregales,11/14,-1.5031134382735658,24/25,,,,,,,,,
+NO,Kicker,C.Smyth,6/8,-0.3065558424886117,5/5,,,,,,,,,
+NO,Kicker,D.Carlson,8/12,-1.485507371273874,16/18,,,,,,,,,
+NYG,Kicker,D.Zvada,17/23,-1.9546805583208773,16/16,,,,,,,,,
+NYJ,Kicker,J.Sanders,25/28,0.8171828985257434,13/14,,,,,,,,,
+PHI,Kicker,J.Elliott,11/12,1.2828120496034288,18/18,,,,,,,,,
+PIT,Kicker,C.Boswell,22/27,-0.6483404604334488,18/18,,,,,,,,,
+SEA,Kicker,J.Myers,16/19,-0.47046171127666625,21/23,,,,,,,,,
+SF,Kicker,E.Pineiro,8/11,-1.0831419070515196,31/35,,,,,,,,,
+TB,Kicker,C.McLaughlin,22/22,2.9073029250332034,21/21,,,,,,,,,
+TEN,Kicker,J.Slye,18/19,1.7868924753869884,17/17,,,,,,,,,
+WAS,Kicker,D.Stevens,17/20,0.3845270111646357,15/18,,,,,,,,,
+ARI,Punter,B.Gillikin,,,,52.0,43.80769230769231,19.0,,,,,,
+ATL,Punter,J.Bailey,,,,38.0,48.578947368421055,16.0,,,,,,
+BAL,Punter,R.Eckley,,,,47.0,47.8936170212766,19.0,,,,,,
+BUF,Punter,T.Doman,,,,22.0,47.54545454545455,9.0,,,,,,
+CAR,Punter,S.Martin,,,,36.0,46.77777777777778,18.0,,,,,,
+CHI,Punter,T.Taylor,,,,29.0,48.03448275862069,11.0,,,,,,
+CIN,Punter,R.Rehkow,,,,26.0,45.03846153846154,15.0,,,,,,
+CLE,Punter,C.Bojorquez,,,,48.0,49.854166666666664,16.0,,,,,,
+DAL,Punter,B.Anger,,,,26.0,46.65384615384615,14.0,,,,,,
+DEN,Punter,J.Crawshaw,,,,44.0,48.38636363636363,19.0,,,,,,
+DET,Punter,J.Fox,,,,32.0,48.1875,16.0,,,,,,
+GB,Punter,D.Whelan,,,,40.0,49.525,16.0,,,,,,
+HOU,Punter,K.Kroeger,,,,42.0,46.38095238095238,12.0,,,,,,
+IND,Punter,R.Sanchez,,,,40.0,48.3,15.0,,,,,,
+JAX,Punter,L.Cooke,,,,29.0,48.44827586206897,12.0,,,,,,
+KC,Punter,M.Araiza,,,,35.0,51.0,14.0,,,,,,
+LA,Punter,E.Evans,,,,33.0,49.18181818181818,10.0,,,,,,
+LAC,Punter,J.Scott,,,,40.0,45.925,13.0,,,,,,
+LV,Punter,A.Cole,,,,34.0,52.14705882352941,14.0,,,,,,
+MIA,Punter,B.Pinion,,,,30.0,44.6,9.0,,,,,,
+MIA,Punter,J.Browning,,,,4.0,41.25,1.0,,,,,,
+MIN,Punter,B.Thorson,,,,28.0,46.357142857142854,16.0,,,,,,
+MIN,Punter,J.Hekker,,,,12.0,43.583333333333336,2.0,,,,,,
+NE,Punter,M.Wishnowsky,,,,38.0,46.473684210526315,18.0,,,,,,
+NO,Punter,R.Wright,,,,38.0,46.10526315789474,14.0,,,,,,
+NYG,Punter,J.Stout,,,,38.0,50.8421052631579,19.0,,,,,,
+NYJ,Punter,A.McNamara,,,,38.0,47.578947368421055,12.0,,,,,,
+PHI,Punter,B.Mann,,,,53.0,48.41509433962264,24.0,,,,,,
+PIT,Punter,C.Johnston,,,,43.0,48.16279069767442,18.0,,,,,,
+SEA,Punter,M.Dickson,,,,40.0,45.625,16.0,,,,,,
+SF,Punter,C.Waitman,,,,25.0,46.28,12.0,,,,,,
+TB,Punter,R.Dixon,,,,45.0,44.84444444444444,14.0,,,,,,
+TEN,Punter,J.Slye,,,,1.0,42.0,1.0,,,,,,
+TEN,Punter,T.Morstead,,,,7.0,46.57142857142857,3.0,,,,,,
+TEN,Punter,T.Townsend,,,,30.0,49.166666666666664,10.0,,,,,,
+WAS,Punter,T.Way,,,,40.0,48.725,13.0,,,,,,
+ARI,Kickoff returner,D.Duvernay,,,,,,,25.0,25.64,40.0,22.0,0.0,0.0
+ARI,Kickoff returner,H.Wallace,,,,,,,1.0,19.0,19.0,0.0,0.0,0.0
+ARI,Kickoff returner,J.Brooks,,,,,,,19.0,26.263157894736842,37.0,19.0,0.0,0.0
+ARI,Kickoff returner,M.Melton,,,,,,,4.0,34.75,37.0,4.0,0.0,0.0
+ATL,Kickoff returner,Br.Robinson,,,,,,,7.0,27.571428571428573,40.0,6.0,0.0,0.0
+ATL,Kickoff returner,K.Herbert,,,,,,,15.0,27.933333333333334,39.0,15.0,0.0,0.0
+ATL,Kickoff returner,O.Zaccheaus,,,,,,,10.0,23.1,37.0,7.0,0.0,0.0
+ATL,Kickoff returner,Z.Branch,,,,,,,14.0,25.714285714285715,61.0,11.0,0.0,1.0
+BAL,Kickoff returner,C.Moore,,,,,,,12.0,25.916666666666668,42.0,11.0,0.0,0.0
+BAL,Kickoff returner,D.Walker,,,,,,,7.0,30.142857142857142,86.0,6.0,1.0,0.0
+BAL,Kickoff returner,J.Hill,,,,,,,2.0,22.5,26.0,1.0,0.0,0.0
+BAL,Kickoff returner,L.Wester,,,,,,,15.0,25.266666666666666,38.0,14.0,0.0,1.0
+BAL,Kickoff returner,R.Ali,,,,,,,14.0,26.428571428571427,59.0,12.0,0.0,0.0
+BUF,Kickoff returner,G.Dortch,,,,,,,25.0,27.96,58.0,22.0,0.0,0.0
+BUF,Kickoff returner,K.Shakir,,,,,,,1.0,11.0,11.0,0.0,0.0,0.0
+BUF,Kickoff returner,R.Davis,,,,,,,13.0,30.076923076923077,70.0,13.0,0.0,0.0
+CAR,Kickoff returner,A.Tyus,,,,,,,27.0,25.814814814814813,37.0,23.0,0.0,0.0
+CAR,Kickoff returner,D.Moore,,,,,,,8.0,21.0,30.0,6.0,0.0,0.0
+CAR,Kickoff returner,J.Metchie,,,,,,,2.0,26.5,27.0,2.0,0.0,0.0
+CAR,Kickoff returner,Ji.Horn,,,,,,,5.0,20.2,26.0,3.0,0.0,0.0
+CAR,Kickoff returner,T.Etienne,,,,,,,5.0,26.4,36.0,5.0,0.0,0.0
+CAR,Kickoff returner,X.Legette,,,,,,,2.0,26.0,29.0,2.0,0.0,0.0
+CHI,Kickoff returner,J.Blackwell,,,,,,,5.0,21.2,23.0,5.0,0.0,0.0
+CHI,Kickoff returner,Z.Thomas,,,,,,,29.0,25.655172413793103,61.0,24.0,0.0,0.0
+CIN,Kickoff returner,D.Meyers,,,,,,,31.0,26.387096774193548,81.0,28.0,0.0,0.0
+CIN,Kickoff returner,K.Williams,,,,,,,5.0,26.2,34.0,4.0,0.0,0.0
+CIN,Kickoff returner,S.Perine,,,,,,,2.0,24.0,26.0,2.0,0.0,0.0
+CIN,Kickoff returner,T.Brooks,,,,,,,5.0,24.4,27.0,5.0,0.0,0.0
+CLE,Kickoff returner,D.Sampson,,,,,,,4.0,28.25,37.0,4.0,0.0,0.0
+CLE,Kickoff returner,I.Bond,,,,,,,9.0,26.11111111111111,30.0,9.0,0.0,0.0
+CLE,Kickoff returner,J.McLaughlin,,,,,,,5.0,23.4,29.0,4.0,0.0,0.0
+CLE,Kickoff returner,M.Corley,,,,,,,19.0,25.736842105263158,34.0,18.0,0.0,1.0
+CLE,Kickoff returner,R.Sanders,,,,,,,10.0,29.3,74.0,9.0,0.0,0.0
+DAL,Kickoff returner,C.Brown,,,,,,,7.0,24.428571428571427,29.0,7.0,0.0,0.0
+DAL,Kickoff returner,I.Abanikanda,,,,,,,2.0,25.0,26.0,2.0,0.0,0.0
+DAL,Kickoff returner,J.Mingo,,,,,,,3.0,23.0,25.0,2.0,0.0,0.0
+DAL,Kickoff returner,K.Turpin,,,,,,,26.0,26.73076923076923,48.0,25.0,0.0,1.0
+DAL,Kickoff returner,R.Flournoy,,,,,,,1.0,19.0,19.0,0.0,0.0,0.0
+DAL,Kickoff returner,T.Goodson,,,,,,,10.0,26.8,45.0,10.0,0.0,0.0
+DEN,Kickoff returner,C.Schrader,,,,,,,3.0,22.666666666666668,27.0,2.0,0.0,0.0
+DEN,Kickoff returner,J.Coleman,,,,,,,1.0,27.0,27.0,1.0,0.0,0.0
+DEN,Kickoff returner,K.Katsis,,,,,,,4.0,26.75,31.0,4.0,0.0,0.0
+DEN,Kickoff returner,M.Mims,,,,,,,8.0,25.75,39.0,7.0,0.0,0.0
+DEN,Kickoff returner,R.Harvey,,,,,,,6.0,29.166666666666668,37.0,6.0,0.0,0.0
+DEN,Kickoff returner,S.Fresch,,,,,,,6.0,25.5,41.0,5.0,0.0,0.0
+DEN,Kickoff returner,T.Badie,,,,,,,4.0,26.25,38.0,4.0,0.0,0.0
+DET,Kickoff returner,D.Carter,,,,,,,5.0,23.2,28.0,4.0,0.0,0.0
+DET,Kickoff returner,J.Saylors,,,,,,,17.0,26.941176470588236,44.0,15.0,0.0,0.0
+DET,Kickoff returner,J.Small,,,,,,,2.0,26.0,27.0,2.0,0.0,0.0
+DET,Kickoff returner,K.Dorsey,,,,,,,1.0,27.0,27.0,1.0,0.0,0.0
+DET,Kickoff returner,T.Kennedy,,,,,,,9.0,24.77777777777778,33.0,8.0,0.0,0.0
+GB,Kickoff returner,B.Melton,,,,,,,15.0,26.666666666666668,59.0,13.0,0.0,0.0
+GB,Kickoff returner,C.Owen,,,,,,,4.0,26.25,31.0,3.0,0.0,1.0
+GB,Kickoff returner,J.Sturdivant,,,,,,,6.0,25.166666666666668,27.0,6.0,0.0,1.0
+GB,Kickoff returner,K.Johnson,,,,,,,2.0,26.0,27.0,2.0,0.0,0.0
+GB,Kickoff returner,S.Moore,,,,,,,13.0,27.153846153846153,43.0,13.0,0.0,0.0
+GB,Kickoff returner,S.Williams,,,,,,,1.0,22.0,22.0,1.0,0.0,0.0
+HOU,Kickoff returner,J.Noel,,,,,,,14.0,26.357142857142858,53.0,12.0,0.0,0.0
+HOU,Kickoff returner,N.Remigio,,,,,,,5.0,27.0,32.0,5.0,0.0,0.0
+HOU,Kickoff returner,T.Smith,,,,,,,16.0,24.25,32.0,13.0,0.0,0.0
+HOU,Kickoff returner,W.Marks,,,,,,,7.0,24.285714285714285,31.0,6.0,0.0,0.0
+HOU,Kickoff returner,X.Hutchinson,,,,,,,6.0,25.666666666666668,29.0,5.0,0.0,0.0
+IND,Kickoff returner,A.Dulin,,,,,,,6.0,23.666666666666668,33.0,3.0,0.0,0.0
+IND,Kickoff returner,A.Gould,,,,,,,9.0,29.333333333333332,54.0,9.0,0.0,0.0
+IND,Kickoff returner,D.Burks,,,,,,,6.0,20.0,29.0,4.0,0.0,0.0
+IND,Kickoff returner,S.McGowan,,,,,,,29.0,29.20689655172414,66.0,28.0,0.0,0.0
+JAX,Kickoff returner,A.Abdullah,,,,,,,15.0,28.666666666666668,53.0,14.0,0.0,0.0
+JAX,Kickoff returner,J.Cameron,,,,,,,16.0,26.75,46.0,14.0,0.0,0.0
+KC,Kickoff returner,B.Smith,,,,,,,5.0,26.6,31.0,5.0,0.0,0.0
+KC,Kickoff returner,C.Allen,,,,,,,1.0,19.0,19.0,0.0,0.0,0.0
+KC,Kickoff returner,E.Johnson,,,,,,,11.0,28.90909090909091,44.0,10.0,0.0,0.0
+KC,Kickoff returner,J.De Jesus,,,,,,,3.0,22.0,25.0,2.0,0.0,0.0
+KC,Kickoff returner,J.Royals,,,,,,,2.0,24.5,25.0,2.0,0.0,0.0
+KC,Kickoff returner,N.Carter,,,,,,,1.0,28.0,28.0,1.0,0.0,0.0
+KC,Kickoff returner,N.Remigio,,,,,,,12.0,26.5,44.0,10.0,0.0,0.0
+LA,Kickoff returner,A.Bachman,,,,,,,13.0,22.923076923076923,32.0,11.0,0.0,0.0
+LA,Kickoff returner,B.Presley,,,,,,,1.0,20.0,20.0,1.0,0.0,0.0
+LA,Kickoff returner,D.Connors,,,,,,,1.0,23.0,23.0,1.0,0.0,0.0
+LA,Kickoff returner,J.Whittington,,,,,,,12.0,26.333333333333332,34.0,11.0,0.0,0.0
+LA,Kickoff returner,R.Rivers,,,,,,,3.0,29.0,34.0,3.0,0.0,0.0
+LA,Kickoff returner,X.Smith,,,,,,,7.0,20.571428571428573,29.0,4.0,0.0,0.0
+LAC,Kickoff returner,D.Davis,,,,,,,10.0,23.0,34.0,7.0,0.0,0.0
+LAC,Kickoff returner,K.Mitchell,,,,,,,18.0,22.166666666666668,28.0,13.0,0.0,0.0
+LAC,Kickoff returner,K.Vidal,,,,,,,12.0,25.75,32.0,11.0,0.0,0.0
+LV,Kickoff returner,D.Laube,,,,,,,26.0,31.26923076923077,95.0,24.0,1.0,1.0
+LV,Kickoff returner,D.Thompkins,,,,,,,3.0,26.666666666666668,32.0,3.0,0.0,0.0
+LV,Kickoff returner,D.Young,,,,,,,12.0,25.5,32.0,11.0,0.0,1.0
+MIA,Kickoff returner,J.Wright,,,,,,,29.0,26.724137931034484,79.0,24.0,0.0,0.0
+MIA,Kickoff returner,K.Allen,,,,,,,3.0,26.666666666666668,34.0,3.0,0.0,0.0
+MIA,Kickoff returner,K.Coleman,,,,,,,6.0,29.5,39.0,6.0,0.0,0.0
+MIA,Kickoff returner,M.Washington,,,,,,,10.0,22.5,33.0,7.0,0.0,0.0
+MIA,Kickoff returner,O.Gordon,,,,,,,1.0,20.0,20.0,1.0,0.0,0.0
+MIN,Kickoff returner,M.Price,,,,,,,28.0,29.214285714285715,68.0,28.0,0.0,0.0
+NE,Kickoff returner,C.Kiner,,,,,,,22.0,25.227272727272727,37.0,21.0,0.0,0.0
+NE,Kickoff returner,K.Williams,,,,,,,18.0,24.0,34.0,16.0,0.0,0.0
+NE,Kickoff returner,L.Larison,,,,,,,2.0,24.5,27.0,2.0,0.0,0.0
+NO,Kickoff returner,B.Brown,,,,,,,24.0,26.083333333333332,53.0,20.0,0.0,0.0
+NO,Kickoff returner,B.Lance,,,,,,,8.0,21.375,30.0,5.0,0.0,0.0
+NO,Kickoff returner,J.Moreno-Cropper,,,,,,,1.0,22.0,22.0,1.0,0.0,0.0
+NO,Kickoff returner,J.Price,,,,,,,10.0,22.8,29.0,8.0,0.0,1.0
+NO,Kickoff returner,K.Miller,,,,,,,2.0,18.5,19.0,0.0,0.0,0.0
+NO,Kickoff returner,Z.White,,,,,,,2.0,24.5,25.0,2.0,0.0,0.0
+NYG,Kickoff returner,B.Berrios,,,,,,,5.0,27.6,30.0,5.0,0.0,0.0
+NYG,Kickoff returner,C.Jones,,,,,,,14.0,23.785714285714285,36.0,10.0,0.0,1.0
+NYG,Kickoff returner,D.Banks,,,,,,,2.0,18.5,19.0,0.0,0.0,0.0
+NYG,Kickoff returner,D.Singletary,,,,,,,1.0,22.0,22.0,1.0,0.0,0.0
+NYG,Kickoff returner,G.Desrosiers,,,,,,,3.0,24.666666666666668,26.0,3.0,0.0,0.0
+NYG,Kickoff returner,T.Tracy,,,,,,,9.0,28.88888888888889,55.0,9.0,0.0,0.0
+NYJ,Kickoff returner,I.Davis,,,,,,,3.0,24.666666666666668,30.0,3.0,0.0,0.0
+NYJ,Kickoff returner,I.Williams,,,,,,,15.0,26.533333333333335,41.0,15.0,0.0,0.0
+NYJ,Kickoff returner,J.Pritchett,,,,,,,1.0,27.0,27.0,1.0,0.0,0.0
+NYJ,Kickoff returner,K.Nwangwu,,,,,,,16.0,24.0,31.0,15.0,0.0,0.0
+NYJ,Kickoff returner,M.McClain,,,,,,,1.0,28.0,28.0,1.0,0.0,0.0
+PHI,Kickoff returner,B.Covey,,,,,,,9.0,21.333333333333332,42.0,5.0,0.0,0.0
+PHI,Kickoff returner,D.Cooper,,,,,,,2.0,19.0,22.0,1.0,0.0,0.0
+PHI,Kickoff returner,D.Pierce,,,,,,,3.0,20.333333333333332,24.0,2.0,0.0,0.0
+PHI,Kickoff returner,E.Mitchell,,,,,,,3.0,9.0,16.0,0.0,0.0,0.0
+PHI,Kickoff returner,J.Blue,,,,,,,13.0,22.384615384615383,34.0,11.0,0.0,1.0
+PHI,Kickoff returner,T.Bigsby,,,,,,,2.0,25.0,29.0,2.0,0.0,0.0
+PHI,Kickoff returner,W.Shipley,,,,,,,9.0,23.22222222222222,29.0,7.0,0.0,0.0
+PIT,Kickoff returner,E.Heidenreich,,,,,,,3.0,24.333333333333332,26.0,3.0,0.0,0.0
+PIT,Kickoff returner,K.Wetjen,,,,,,,33.0,24.393939393939394,35.0,30.0,0.0,0.0
+PIT,Kickoff returner,L.Nichols,,,,,,,7.0,22.571428571428573,25.0,6.0,0.0,0.0
+PIT,Kickoff returner,M.Hurleman,,,,,,,2.0,16.0,25.0,1.0,0.0,0.0
+SEA,Kickoff returner,G.Holani,,,,,,,6.0,24.0,34.0,5.0,0.0,0.0
+SEA,Kickoff returner,J.Price,,,,,,,3.0,32.666666666666664,42.0,3.0,0.0,0.0
+SEA,Kickoff returner,R.Shaheed,,,,,,,18.0,27.0,39.0,17.0,0.0,0.0
+SEA,Kickoff returner,T.Horton,,,,,,,3.0,29.666666666666668,37.0,3.0,0.0,0.0
+SEA,Kickoff returner,V.Jones,,,,,,,2.0,20.0,21.0,1.0,0.0,0.0
+SF,Kickoff returner,D.Samuel,,,,,,,13.0,24.76923076923077,45.0,9.0,0.0,0.0
+SF,Kickoff returner,J.Cowing,,,,,,,5.0,25.0,28.0,5.0,0.0,0.0
+SF,Kickoff returner,J.James,,,,,,,17.0,25.41176470588235,39.0,14.0,0.0,0.0
+SF,Kickoff returner,K.Black,,,,,,,2.0,32.5,34.0,2.0,0.0,0.0
+TB,Kickoff returner,J.Williams,,,,,,,1.0,47.0,47.0,1.0,0.0,0.0
+TB,Kickoff returner,K.Gainwell,,,,,,,13.0,26.23076923076923,40.0,12.0,0.0,0.0
+TB,Kickoff returner,K.Johnson,,,,,,,16.0,27.0625,48.0,13.0,0.0,0.0
+TB,Kickoff returner,S.Tucker,,,,,,,5.0,22.4,24.0,5.0,0.0,0.0
+TB,Kickoff returner,T.Johnson,,,,,,,1.0,25.0,25.0,1.0,0.0,0.0
+TEN,Kickoff returner,C.Dike,,,,,,,44.0,25.272727272727273,40.0,37.0,0.0,2.0
+TEN,Kickoff returner,J.Chestnut,,,,,,,1.0,21.0,21.0,1.0,0.0,0.0
+TEN,Kickoff returner,M.Carter,,,,,,,1.0,26.0,26.0,1.0,0.0,0.0
+WAS,Kickoff returner,D.Brown,,,,,,,3.0,27.333333333333332,37.0,3.0,0.0,0.0
+WAS,Kickoff returner,J.Lane,,,,,,,12.0,24.583333333333332,36.0,10.0,0.0,0.0
+WAS,Kickoff returner,L.McCaffrey,,,,,,,13.0,25.0,44.0,10.0,0.0,0.0
+WAS,Kickoff returner,R.White,,,,,,,8.0,27.375,38.0,7.0,0.0,0.0
+ARI,Punt returner,D.Duvernay,,,,,,,9.0,8.777777777777779,14.0,0.0,0.0,0.0
+ATL,Punt returner,O.Zaccheaus,,,,,,,6.0,14.166666666666666,24.0,2.0,0.0,0.0
+ATL,Punt returner,Z.Branch,,,,,,,6.0,13.833333333333334,25.0,1.0,0.0,0.0
+BAL,Punt returner,L.Wester,,,,,,,11.0,11.181818181818182,24.0,2.0,0.0,0.0
+BUF,Punt returner,G.Dortch,,,,,,,16.0,11.625,25.0,2.0,0.0,0.0
+CAR,Punt returner,D.Moore,,,,,,,3.0,10.333333333333334,17.0,0.0,0.0,0.0
+CAR,Punt returner,J.Coker,,,,,,,2.0,24.5,36.0,1.0,0.0,0.0
+CAR,Punt returner,Ji.Horn,,,,,,,1.0,17.0,17.0,0.0,0.0,0.0
+CAR,Punt returner,T.Etienne,,,,,,,10.0,12.6,24.0,3.0,0.0,0.0
+CHI,Punt returner,K.Raymond,,,,,,,16.0,13.1875,26.0,4.0,0.0,0.0
+CIN,Punt returner,D.Meyers,,,,,,,8.0,12.875,31.0,2.0,0.0,0.0
+CLE,Punt returner,D.Boston,,,,,,,6.0,9.333333333333334,16.0,0.0,0.0,0.0
+CLE,Punt returner,K.Concepcion,,,,,,,5.0,11.0,21.0,1.0,0.0,0.0
+DAL,Punt returner,J.Mingo,,,,,,,6.0,11.833333333333334,18.0,0.0,0.0,0.0
+DAL,Punt returner,K.Turpin,,,,,,,11.0,11.0,17.0,0.0,0.0,0.0
+DEN,Punt returner,K.Abrams-Draine,,,,,,,1.0,3.0,3.0,0.0,0.0,0.0
+DEN,Punt returner,K.Katsis,,,,,,,3.0,13.0,28.0,1.0,0.0,0.0
+DEN,Punt returner,M.Mims,,,,,,,11.0,11.636363636363637,26.0,1.0,0.0,0.0
+DET,Punt returner,A.St. Brown,,,,,,,2.0,18.0,31.0,1.0,0.0,0.0
+DET,Punt returner,D.Carter,,,,,,,3.0,10.666666666666666,15.0,0.0,0.0,0.0
+DET,Punt returner,T.Kennedy,,,,,,,6.0,13.166666666666666,22.0,1.0,0.0,0.0
+GB,Punt returner,C.Owen,,,,,,,3.0,12.0,16.0,0.0,0.0,0.0
+GB,Punt returner,M.Golden,,,,,,,3.0,13.333333333333334,17.0,0.0,0.0,0.0
+GB,Punt returner,S.Moore,,,,,,,9.0,14.777777777777779,63.0,1.0,0.0,0.0
+HOU,Punt returner,J.Noel,,,,,,,9.0,9.444444444444445,17.0,0.0,0.0,0.0
+HOU,Punt returner,N.Remigio,,,,,,,5.0,12.2,22.0,1.0,0.0,0.0
+HOU,Punt returner,T.Dell,,,,,,,2.0,7.5,14.0,0.0,0.0,0.0
+HOU,Punt returner,T.Smith,,,,,,,1.0,10.0,10.0,0.0,0.0,0.0
+IND,Punt returner,A.Gould,,,,,,,4.0,9.75,20.0,1.0,0.0,0.0
+IND,Punt returner,J.Downs,,,,,,,1.0,20.0,20.0,1.0,0.0,0.0
+JAX,Punt returner,J.Cameron,,,,,,,1.0,6.0,6.0,0.0,0.0,0.0
+JAX,Punt returner,P.Washington,,,,,,,7.0,7.714285714285714,12.0,0.0,0.0,0.0
+JAX,Punt returner,T.Hunter,,,,,,,1.0,1.0,1.0,0.0,0.0,0.0
+KC,Punt returner,J.Downs,,,,,,,1.0,11.0,11.0,0.0,0.0,0.0
+KC,Punt returner,N.Remigio,,,,,,,9.0,9.11111111111111,27.0,1.0,0.0,0.0
+LA,Punt returner,A.Bachman,,,,,,,7.0,6.714285714285714,15.0,0.0,0.0,0.0
+LA,Punt returner,X.Smith,,,,,,,6.0,11.833333333333334,19.0,0.0,0.0,0.0
+LAC,Punt returner,D.Davis,,,,,,,6.0,15.166666666666666,24.0,3.0,0.0,0.0
+LV,Punt returner,D.Thompkins,,,,,,,1.0,18.0,18.0,0.0,0.0,0.0
+LV,Punt returner,M.Benson,,,,,,,7.0,13.428571428571429,23.0,1.0,0.0,0.0
+MIA,Punt returner,K.Coleman,,,,,,,1.0,6.0,6.0,0.0,0.0,0.0
+MIA,Punt returner,M.Washington,,,,,,,8.0,14.625,28.0,2.0,0.0,0.0
+MIN,Punt returner,M.Price,,,,,,,12.0,21.833333333333332,86.0,3.0,1.0,0.0
+NE,Punt returner,E.Chism,,,,,,,1.0,18.0,18.0,0.0,0.0,0.0
+NE,Punt returner,M.Jones,,,,,,,16.0,11.0625,26.0,1.0,0.0,0.0
+NO,Punt returner,B.Brown,,,,,,,19.0,11.789473684210526,23.0,5.0,0.0,0.0
+NO,Punt returner,J.Price,,,,,,,1.0,11.0,11.0,0.0,0.0,0.0
+NYG,Punt returner,B.Berrios,,,,,,,2.0,6.0,7.0,0.0,0.0,0.0
+NYG,Punt returner,C.Jones,,,,,,,15.0,10.666666666666666,23.0,1.0,0.0,0.0
+NYJ,Punt returner,I.Williams,,,,,,,11.0,13.181818181818182,20.0,1.0,0.0,0.0
+PHI,Punt returner,B.Covey,,,,,,,16.0,14.5625,41.0,2.0,0.0,0.0
+PHI,Punt returner,C.DeJean,,,,,,,4.0,8.25,13.0,0.0,0.0,0.0
+PIT,Punt returner,K.Wetjen,,,,,,,9.0,9.555555555555555,17.0,0.0,0.0,0.0
+PIT,Punt returner,M.Hurleman,,,,,,,3.0,12.0,15.0,0.0,0.0,0.0
+SEA,Punt returner,R.Shaheed,,,,,,,13.0,13.461538461538462,32.0,2.0,0.0,0.0
+SEA,Punt returner,T.Horton,,,,,,,4.0,6.75,13.0,0.0,0.0,0.0
+SF,Punt returner,J.Cowing,,,,,,,5.0,5.4,13.0,0.0,0.0,0.0
+TB,Punt returner,T.Johnson,,,,,,,11.0,12.272727272727273,22.0,1.0,0.0,0.0
+TEN,Punt returner,C.Dike,,,,,,,10.0,14.2,58.0,1.0,0.0,0.0
+WAS,Punt returner,A.Williams,,,,,,,1.0,2.0,2.0,0.0,0.0,0.0
+WAS,Punt returner,J.Lane,,,,,,,7.0,12.0,19.0,0.0,0.0,0.0
+WAS,Punt returner,L.McCaffrey,,,,,,,5.0,11.4,27.0,1.0,0.0,0.0
