@@ -1,0 +1,38 @@
+{
+  "generated_utc": "2026-11-22T22:30:25.392399+00:00",
+  "source": "nflverse 2026 play-by-play",
+  "special_teams_plays": 4239,
+  "teams": 32,
+  "weeks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "metrics": [
+    "EPA/play",
+    "FG/XP accuracy",
+    "punt gross distance",
+    "inside-20 rate",
+    "punt touchback rate",
+    "kickoff touchback rate",
+    "return averages",
+    "explosive kickoff returns",
+    "return fumbles",
+    "field-position start",
+    "special-teams penalty yards"
+  ],
+  "limitations": [
+    "Net punt distance is not consistently available; gross distance is reported.",
+    "Kick and punt hang time, directional placement and coverage assignments are unavailable. Punt-return rates are attributed to the receiving team (defteam); punt gross and inside-20 metrics are attributed to the punting team (posteam).",
+    "EPA is attributed using the play-by-play posteam perspective; kickoff posteam is the receiving team.",
+    "Field-position averages are calculated only where drive_start_yard_line is populated."
+  ]
+}
