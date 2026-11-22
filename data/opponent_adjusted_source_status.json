@@ -1,0 +1,42 @@
+{
+  "generated_utc": "2026-11-22T19:47:27.575291+00:00",
+  "latest_pbp_week": 11,
+  "ratings_through_completed_week": 10,
+  "excluded_incomplete_week": true,
+  "model": "Ridge-adjusted EPA: play EPA = intercept + offense effect - opponent defense effect + home-field effect; penalty 12; separate overall/pass/run fits",
+  "not_dvoa": true,
+  "external_sources": [
+    {
+      "provider": "The Margin",
+      "url": "https://themarginsports.com/v1/nfl/team-epa.csv",
+      "permission": "Free to use with credit; stable v1 feed documented by provider",
+      "status": "available",
+      "checked_utc": "2026-11-22T19:47:27.445786+00:00",
+      "rows": 32,
+      "columns": [
+        "schema_version",
+        "as_of",
+        "season",
+        "through_week",
+        "team",
+        "off_plays",
+        "def_plays",
+        "off_epa_play",
+        "def_epa_play",
+        "off_epa_play_last3",
+        "def_epa_play_last3",
+        "off_epa_play_last1",
+        "def_epa_play_last1",
+        "off_pass_epa_play",
+        "def_pass_epa_play",
+        "off_rush_epa_play",
+        "def_rush_epa_play",
+        "off_success_rate",
+        "def_success_rate"
+      ],
+      "http_status": 200,
+      "bytes": 4460,
+      "saved_file": "external_the_margin_team_epa.csv"
+    }
+  ]
+}

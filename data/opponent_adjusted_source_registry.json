@@ -1,0 +1,77 @@
+{
+  "generated_utc": "2026-11-22T19:47:27.575444+00:00",
+  "sources": [
+    {
+      "provider": "The Margin",
+      "url": "https://themarginsports.com/data/",
+      "role": "Stable NFL team EPA CSV/JSON",
+      "access": "Documented stable v1 CSV",
+      "permission": "Free to use with credit, explicitly stated by provider",
+      "ingestion": "Automated CSV retrieval attempted each refresh"
+    },
+    {
+      "provider": "Sparvi",
+      "url": "https://sparvi.io/nfl/tools/team-efficiency.html",
+      "role": "Opponent-adjusted EPA and success rate; pass/run; garbage-time controls",
+      "access": "Public interactive tables",
+      "permission": "No stable API/export or automated reuse permission confirmed",
+      "ingestion": "Manual comparison pending documented endpoint/permission"
+    },
+    {
+      "provider": "Points Added",
+      "url": "https://pointsadded.com/",
+      "role": "Opponent-adjusted EPA; offense/defense and pass/run",
+      "access": "Public interactive site",
+      "permission": "No stable external data feed/reuse terms confirmed",
+      "ingestion": "Manual comparison pending documented export/API"
+    },
+    {
+      "provider": "Full Press Coverage FTI",
+      "url": "https://fullpresscoverage.com/fti/",
+      "role": "Opponent-adjusted FOI/FDI/FTI indices and game grades",
+      "access": "Public interactive leaderboard and team cards",
+      "permission": "No stable API/CSV or automated reuse permission confirmed",
+      "ingestion": "Manual comparison only"
+    },
+    {
+      "provider": "The Almanac",
+      "url": "https://thealmanac.co/football/efficiency",
+      "role": "Opponent-adjusted EPA by overall/pass/rush; uncertainty ranges",
+      "access": "Public interactive tables",
+      "permission": "No stable export/API or automated reuse permission confirmed",
+      "ingestion": "Manual comparison only"
+    },
+    {
+      "provider": "DeskEdges",
+      "url": "https://deskedges.com/nfl/ratings",
+      "role": "Opponent-adjusted EPA-style ratings including pass/rush and special teams",
+      "access": "Public ratings page",
+      "permission": "No stable export/API or automated reuse permission confirmed",
+      "ingestion": "Manual comparison only"
+    },
+    {
+      "provider": "Pascal Institute",
+      "url": "https://www.pascalinitiative.com/nfl/ratings/",
+      "role": "Point-in-time opponent-adjusted EPA and strength of schedule",
+      "access": "Public interactive ratings",
+      "permission": "No stable export/API or automated reuse permission confirmed",
+      "ingestion": "Manual comparison only"
+    },
+    {
+      "provider": "RBSDM",
+      "url": "https://rbsdm.com/",
+      "role": "EPA and success-rate cross-checks",
+      "access": "Public charts/data tools",
+      "permission": "Check current export terms before automated retrieval",
+      "ingestion": "Manual comparison only"
+    },
+    {
+      "provider": "SumerSports",
+      "url": "https://sumersports.com/team-stats/",
+      "role": "EPA, success rate, personnel and formation context",
+      "access": "Public-facing stats pages",
+      "permission": "No stable public API/redistribution permission confirmed",
+      "ingestion": "Manual comparison only"
+    }
+  ]
+}
