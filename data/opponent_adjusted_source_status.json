@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-22T22:30:29.511382+00:00",
+  "generated_utc": "2026-11-22T22:33:32.766181+00:00",
   "latest_pbp_week": 11,
   "ratings_through_completed_week": 10,
   "excluded_incomplete_week": true,
@@ -11,7 +11,7 @@
       "url": "https://themarginsports.com/v1/nfl/team-epa.csv",
       "permission": "Free to use with credit; stable v1 feed documented by provider",
       "status": "available",
-      "checked_utc": "2026-11-22T22:30:29.456395+00:00",
+      "checked_utc": "2026-11-22T22:33:32.461280+00:00",
       "rows": 32,
       "columns": [
         "schema_version",
