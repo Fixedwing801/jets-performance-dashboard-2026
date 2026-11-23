@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-11-22T22:41:16.836431+00:00",
+  "generated_utc": "2026-11-23T08:02:30.710433+00:00",
   "source": "nflverse 2026 play-by-play; eligible run/pass plays with non-null EPA",
   "weeks": [
     1,
@@ -49,7 +49,7 @@
     "WAS"
   ],
   "team_count": 32,
-  "rows": 632,
+  "rows": 648,
   "teams_by_week": {
     "1": 32,
     "2": 32,
@@ -61,7 +61,7 @@
     "8": 28,
     "9": 30,
     "10": 28,
-    "11": 16
+    "11": 24
   },
   "week_status": {
     "1": {
@@ -177,31 +177,27 @@
     "11": {
       "status": "partial",
       "games_expected": 13,
-      "games_present": 8,
-      "games_missing": 5,
+      "games_present": 12,
+      "games_missing": 1,
       "teams_scheduled": 26,
-      "teams_present": 16,
+      "teams_present": 24,
       "teams_on_bye": 6,
       "missing_game_ids": [
-        "2026_11_CIN_WAS",
-        "2026_11_JAX_NYG",
-        "2026_11_LV_DEN",
-        "2026_11_MIN_SF",
-        "2026_11_NYJ_LAC"
+        "2026_11_CIN_WAS"
       ],
       "unexpected_game_ids": []
     }
   },
-  "latest_week_team_count": 16,
+  "latest_week_team_count": 24,
   "latest_week_status": "partial",
   "latest_week_expected_games": 13,
-  "latest_week_games_present": 8,
-  "latest_week_games_missing": 5,
+  "latest_week_games_present": 12,
+  "latest_week_games_missing": 1,
   "latest_week_teams_on_bye": 6,
   "schedule_source_status": "available",
-  "schedule_last_successful_utc": "2026-11-22T22:41:08.784720+00:00",
+  "schedule_last_successful_utc": "2026-11-23T08:02:22.748926+00:00",
   "schedule_file_available": true,
-  "eligible_team_week_plays": 19429,
+  "eligible_team_week_plays": 19924,
   "bye_weeks_and_missing_team_weeks": "not zero-filled or interpolated",
   "validation": "passed: team/week keys, split denominators, weighted EPA, weekly offense/defense totals and schedule game-ID coverage where available"
 }

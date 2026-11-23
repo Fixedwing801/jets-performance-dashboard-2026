@@ -25,7 +25,7 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 4,REG,NYJ,WR,00-0032385,ShepSt00,Sterling Shepard,ACT
 6,REG,NYJ,WR,00-0032385,ShepSt00,Sterling Shepard,DEV
 2,REG,NYJ,WR,00-0032385,ShepSt00,Sterling Shepard,DEV
-11,REG,NYJ,WR,00-0032385,ShepSt00,Sterling Shepard,DEV
+11,REG,NYJ,WR,00-0032385,ShepSt00,Sterling Shepard,ACT
 5,REG,NYJ,WR,00-0032385,ShepSt00,Sterling Shepard,DEV
 9,REG,NYJ,WR,00-0032385,ShepSt00,Sterling Shepard,DEV
 10,REG,NYJ,WR,00-0032385,ShepSt00,Sterling Shepard,DEV
@@ -333,7 +333,7 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 4,REG,NYJ,TE,00-0037755,WoodJe01,Jelani Woods,ACT
 9,REG,NYJ,TE,00-0037755,WoodJe01,Jelani Woods,ACT
 8,REG,NYJ,TE,00-0037755,WoodJe01,Jelani Woods,ACT
-11,REG,NYJ,TE,00-0037755,WoodJe01,Jelani Woods,ACT
+11,REG,NYJ,TE,00-0037755,WoodJe01,Jelani Woods,INA
 1,REG,NYJ,TE,00-0037805,RuckJe00,Jeremy Ruckert,ACT
 3,REG,NYJ,TE,00-0037805,RuckJe00,Jeremy Ruckert,ACT
 10,REG,NYJ,TE,00-0037805,RuckJe00,Jeremy Ruckert,ACT
@@ -457,7 +457,7 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 1,REG,NYJ,DB,00-0039285,MonrJa00,Jarius Monroe,CUT
 2,REG,NYJ,LB,00-0039347,WallTr00,Trevin Wallace,INA
 7,REG,NYJ,LB,00-0039347,WallTr00,Trevin Wallace,ACT
-11,REG,NYJ,LB,00-0039347,WallTr00,Trevin Wallace,ACT
+11,REG,NYJ,LB,00-0039347,WallTr00,Trevin Wallace,INA
 3,REG,NYJ,LB,00-0039347,WallTr00,Trevin Wallace,ACT
 9,REG,NYJ,LB,00-0039347,WallTr00,Trevin Wallace,INA
 1,REG,NYJ,LB,00-0039347,WallTr00,Trevin Wallace,INA
@@ -469,7 +469,7 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 7,REG,NYJ,DB,00-0039372,BrowJa09,Jarvis Brownlee Jr.,INA
 8,REG,NYJ,DB,00-0039372,BrowJa09,Jarvis Brownlee Jr.,ACT
 10,REG,NYJ,DB,00-0039372,BrowJa09,Jarvis Brownlee Jr.,INA
-11,REG,NYJ,DB,00-0039372,BrowJa09,Jarvis Brownlee Jr.,ACT
+11,REG,NYJ,DB,00-0039372,BrowJa09,Jarvis Brownlee Jr.,INA
 4,REG,NYJ,DB,00-0039372,BrowJa09,Jarvis Brownlee Jr.,ACT
 3,REG,NYJ,DB,00-0039372,BrowJa09,Jarvis Brownlee Jr.,ACT
 5,REG,NYJ,DB,00-0039372,BrowJa09,Jarvis Brownlee Jr.,ACT
@@ -490,7 +490,7 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 11,REG,NYJ,DL,00-0039431,BrigJo00,Jowon Briggs,ACT
 9,REG,NYJ,LB,00-0039447,LynnNa00,Nate Lynn,ACT
 10,REG,NYJ,LB,00-0039447,LynnNa00,Nate Lynn,INA
-11,REG,NYJ,LB,00-0039447,LynnNa00,Nate Lynn,ACT
+11,REG,NYJ,LB,00-0039447,LynnNa00,Nate Lynn,INA
 6,REG,NYJ,LB,00-0039447,LynnNa00,Nate Lynn,ACT
 1,REG,NYJ,LB,00-0039447,LynnNa00,Nate Lynn,DEV
 5,REG,NYJ,LB,00-0039447,LynnNa00,Nate Lynn,INA
@@ -506,7 +506,7 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 8,REG,NYJ,WR,00-0039451,WillIs03,Isaiah Williams,ACT
 3,REG,NYJ,WR,00-0039451,WillIs03,Isaiah Williams,ACT
 1,REG,NYJ,WR,00-0039451,WillIs03,Isaiah Williams,ACT
-11,REG,NYJ,WR,00-0039451,WillIs03,Isaiah Williams,ACT
+11,REG,NYJ,WR,00-0039451,WillIs03,Isaiah Williams,INA
 6,REG,NYJ,WR,00-0039451,WillIs03,Isaiah Williams,ACT
 7,REG,NYJ,WR,00-0039451,WillIs03,Isaiah Williams,ACT
 4,REG,NYJ,WR,00-0039451,WillIs03,Isaiah Williams,ACT
@@ -870,7 +870,7 @@ week,game_type,team,position,gsis_id,pfr_id,full_name,status
 8,REG,NYJ,LB,00-0041410,KellJa01,Jaden Keller,ACT
 1,REG,NYJ,LB,00-0041410,KellJa01,Jaden Keller,DEV
 1,REG,NYJ,OL,00-0041507,,Courtland Ford,CUT
-11,REG,NYJ,WR,00-0041511,CoopOm00,Omar Cooper Jr.,ACT
+11,REG,NYJ,WR,00-0041511,CoopOm00,Omar Cooper Jr.,INA
 10,REG,NYJ,WR,00-0041511,CoopOm00,Omar Cooper Jr.,ACT
 3,REG,NYJ,WR,00-0041511,CoopOm00,Omar Cooper Jr.,RES
 7,REG,NYJ,WR,00-0041511,CoopOm00,Omar Cooper Jr.,ACT

@@ -9,6 +9,7 @@ player_id,player,week,assisted_tackles,forced_fumbles,interceptions,passes_defen
 00-0029607,D.Davis,8,6,0,0,0,0,0,1,0
 00-0029607,D.Davis,9,4,0,0,0,0,0,5,0
 00-0029607,D.Davis,10,3,0,0,0,0,0,3,0
+00-0029607,D.Davis,11,2,0,0,0,0,0,4,1
 00-0033051,D.Onyemata,1,0,0,0,0,1,0,0,0
 00-0033090,H.Henry,6,0,0,0,0,0,0,1,0
 00-0034782,H.Phillips,1,1,0,0,0,1,0,0,0
@@ -20,6 +21,7 @@ player_id,player,week,assisted_tackles,forced_fumbles,interceptions,passes_defen
 00-0034782,H.Phillips,8,1,0,0,0,0,0,1,0
 00-0034782,H.Phillips,9,1,0,0,0,0,0,0,0
 00-0034782,H.Phillips,10,6,0,0,0,0,0,4,0
+00-0034782,H.Phillips,11,1,0,0,0,1,1,5,1
 00-0034789,M.Fitzpatrick,4,8,0,1,1,0,0,8,0
 00-0034789,M.Fitzpatrick,5,1,0,0,1,0,0,4,0
 00-0034789,M.Fitzpatrick,6,4,0,0,0,0,0,1,0
@@ -27,6 +29,7 @@ player_id,player,week,assisted_tackles,forced_fumbles,interceptions,passes_defen
 00-0034789,M.Fitzpatrick,8,7,0,0,1,1,0,2,0
 00-0034789,M.Fitzpatrick,9,3,0,0,0,0,0,3,0
 00-0034789,M.Fitzpatrick,10,0,0,0,0,0,0,1,0
+00-0034789,M.Fitzpatrick,11,4,0,0,0,1,0,2,0
 00-0036500,J.Sherwood,1,2,0,0,0,0,0,2,0
 00-0036500,J.Sherwood,2,3,0,0,1,0,0,1,1
 00-0036500,J.Sherwood,3,4,0,0,0,0,0,4,1
@@ -37,16 +40,20 @@ player_id,player,week,assisted_tackles,forced_fumbles,interceptions,passes_defen
 00-0036500,J.Sherwood,8,9,0,0,0,0,0,5,0
 00-0036500,J.Sherwood,9,4,0,0,0,0,0,5,0
 00-0036500,J.Sherwood,10,5,0,0,0,0,0,4,0
+00-0036500,J.Sherwood,11,3,1,0,0,0,0,8,0
 00-0036788,J.Heflin,5,0,0,0,0,0,0,1,0
 00-0036788,J.Heflin,8,2,0,0,0,2,0,0,0
 00-0036788,J.Heflin,9,3,0,0,0,1,0,0,0
 00-0036788,J.Heflin,10,2,0,0,0,0,0,0,0
+00-0036788,J.Heflin,11,1,0,0,0,1,0,0,0
 00-0036902,J.Ossai,3,2,0,0,0,0,0,0,0
 00-0036902,J.Ossai,4,2,0,0,0,0,0,5,0
+00-0036902,J.Ossai,11,0,0,0,0,0,0,1,0
 00-0036941,A.Cisco,1,0,0,0,0,0,0,6,0
 00-0036941,A.Cisco,2,1,1,0,1,1,0,4,1
 00-0036941,A.Cisco,3,1,0,0,0,1,1,5,1
 00-0036941,A.Cisco,8,1,0,0,0,0,0,0,0
+00-0036986,N.Wright,11,1,0,0,0,0,0,0,0
 00-0036987,B.Stephens,2,1,0,0,0,0,0,3,0
 00-0036987,B.Stephens,3,0,0,0,0,0,0,3,1
 00-0036987,B.Stephens,4,1,0,0,1,0,0,3,0
@@ -56,6 +63,7 @@ player_id,player,week,assisted_tackles,forced_fumbles,interceptions,passes_defen
 00-0036987,B.Stephens,8,1,0,0,0,0,0,2,0
 00-0036987,B.Stephens,9,0,0,0,0,0,0,3,1
 00-0036987,B.Stephens,10,0,0,0,0,0,0,4,0
+00-0036987,B.Stephens,11,1,0,0,0,0,0,1,0
 00-0037083,K.Enagbare,1,1,0,0,0,1,1,1,1
 00-0037083,K.Enagbare,2,1,1,0,0,1,1,2,1
 00-0037083,K.Enagbare,3,0,0,0,0,0,0,2,0
@@ -65,6 +73,7 @@ player_id,player,week,assisted_tackles,forced_fumbles,interceptions,passes_defen
 00-0037083,K.Enagbare,8,3,0,0,0,1,0,0,0
 00-0037083,K.Enagbare,9,0,0,0,0,1,0,3,1
 00-0037083,K.Enagbare,10,1,0,0,0,0,0,0,0
+00-0037083,K.Enagbare,11,1,0,0,0,0,0,1,0
 00-0038123,D.Belton,1,1,0,0,0,0,0,1,0
 00-0038123,D.Belton,2,2,0,0,0,0,0,4,0
 00-0038123,D.Belton,3,3,0,0,1,0,0,4,0
@@ -75,6 +84,7 @@ player_id,player,week,assisted_tackles,forced_fumbles,interceptions,passes_defen
 00-0038123,D.Belton,8,3,0,0,1,0,0,9,1
 00-0038123,D.Belton,9,5,0,0,0,0,0,3,0
 00-0038123,D.Belton,10,5,0,0,1,0,0,1,0
+00-0038123,D.Belton,11,4,0,0,0,0,0,1,0
 00-0039142,W.McDonald,1,0,0,0,0,1,1,1,1
 00-0039142,W.McDonald,3,0,0,0,0,0,0,1,0
 00-0039142,W.McDonald,4,3,0,0,0,0,0,2,0
@@ -101,6 +111,7 @@ player_id,player,week,assisted_tackles,forced_fumbles,interceptions,passes_defen
 00-0039431,J.Briggs,7,3,0,0,0,0,0,1,0
 00-0039431,J.Briggs,8,2,0,0,0,0,0,1,0
 00-0039431,J.Briggs,9,0,0,0,0,1,0,0,0
+00-0039431,J.Briggs,11,2,0,0,0,2,1,1,1
 00-0039447,N.Lynn,7,1,0,0,0,1,1,1,1
 00-0039447,N.Lynn,8,1,0,0,0,1,0,1,0
 00-0039789,Q.Stiggers,7,0,0,0,0,0,0,1,0
@@ -121,6 +132,7 @@ player_id,player,week,assisted_tackles,forced_fumbles,interceptions,passes_defen
 00-0040133,A.Thomas,8,5,0,0,1,0,0,0,0
 00-0040133,A.Thomas,9,3,0,0,0,0,0,2,0
 00-0040133,A.Thomas,10,2,0,1,1,0,0,2,0
+00-0040133,A.Thomas,11,0,0,0,1,0,0,4,0
 00-0040165,M.Moore,10,1,0,0,0,0,0,1,1
 00-0040404,P.Page,9,2,0,0,0,0,0,1,0
 00-0041026,D.Bailey,1,0,0,0,0,1,1,4,1
@@ -132,10 +144,12 @@ player_id,player,week,assisted_tackles,forced_fumbles,interceptions,passes_defen
 00-0041026,D.Bailey,7,1,0,0,0,1,0,3,1
 00-0041026,D.Bailey,9,4,2,0,0,3,2,5,3
 00-0041026,D.Bailey,10,1,0,0,2,0,0,0,0
+00-0041026,D.Bailey,11,3,1,0,1,2,2,2,2
 00-0041038,D.Ponds,4,2,0,0,0,0,0,1,0
 00-0041038,D.Ponds,7,2,0,0,0,0,0,0,0
 00-0041038,D.Ponds,9,2,0,0,0,0,0,0,0
 00-0041038,D.Ponds,10,0,0,0,1,0,0,0,0
+00-0041038,D.Ponds,11,1,0,0,0,0,0,3,0
 00-0041549,D.Jackson,1,1,0,0,0,0,0,0,0
 00-0041549,D.Jackson,2,1,0,0,0,0,0,1,0
 00-0041549,D.Jackson,3,1,0,0,0,0,0,0,0
@@ -146,4 +160,5 @@ player_id,player,week,assisted_tackles,forced_fumbles,interceptions,passes_defen
 00-0041549,D.Jackson,8,2,0,0,0,0,0,1,1
 00-0041549,D.Jackson,9,1,0,0,0,0,0,2,0
 00-0041549,D.Jackson,10,4,0,0,0,0,0,1,0
+00-0041549,D.Jackson,11,2,0,0,0,1,0,2,0
 00-0041558,S.Roush,4,0,0,0,0,0,0,1,0
